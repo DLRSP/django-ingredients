@@ -2,12 +2,18 @@ from django.core.validators import MinValueValidator
 from django.db import models
 from django.template.defaultfilters import slugify
 from django.urls import reverse
-from django.utils.translation import gettext_lazy as _
+from django.utils.translation import get_language, gettext_lazy as _
 from filer.fields.image import FilerImageField
 
 from ingredients.constants import ALLERGEN_QUANTITY, INGREDIENT_FODMAP
 
 not_negative = MinValueValidator(0)
+
+
+def _active_slug(obj, field="slug"):
+    lang = (get_language() or "en").split("-")[0]
+    value = getattr(obj, f"{field}_{lang}", None)
+    return value or getattr(obj, field)
 
 
 class IngredientType(models.Model):
@@ -30,7 +36,10 @@ class IngredientType(models.Model):
         return self.name
 
     def get_absolute_url(self):
-        return reverse("ingredients-type-detail", kwargs={"slug_type": self.slug})
+        return reverse(
+            "ingredients-type-detail",
+            kwargs={"slug_type": _active_slug(self)},
+        )
 
     def save(self, *args, **kwargs):
         if not self.slug:
@@ -67,7 +76,10 @@ class IngredientCategory(models.Model):
     def get_absolute_url(self):
         return reverse(
             "ingredients-category-detail",
-            kwargs={"slug_type": self.type.slug, "slug_cat": self.slug},
+            kwargs={
+                "slug_type": _active_slug(self.type),
+                "slug_cat": _active_slug(self),
+            },
         )
 
     def save(self, *args, **kwargs):
@@ -331,9 +343,9 @@ class Ingredient(models.Model):
         return reverse(
             "ingredient-detail",
             kwargs={
-                "slug_type": self.category.type.slug,
-                "slug_cat": self.category.slug,
-                "slug": self.slug,
+                "slug_type": _active_slug(self.category.type),
+                "slug_cat": _active_slug(self.category),
+                "slug": _active_slug(self),
             },
         )
 

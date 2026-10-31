@@ -1,42 +1,58 @@
 [
   {
     "slug": "uova",
-    "name_en": "",
-    "name_it": "Uova"
+    "name_en": "Eggs",
+    "name_it": "Uova",
+    "slug_it": "uova",
+    "slug_en": "eggs"
   },
   {
     "slug": "carni",
-    "name_en": "",
-    "name_it": "Carni"
+    "name_en": "Meats",
+    "name_it": "Carni",
+    "slug_it": "carni",
+    "slug_en": "meats"
   },
   {
     "slug": "pesci",
-    "name_en": "",
-    "name_it": "Pesci"
+    "name_en": "Fish",
+    "name_it": "Pesci",
+    "slug_it": "pesci",
+    "slug_en": "fish"
   },
   {
     "slug": "dal-latte",
-    "name_en": "",
-    "name_it": "Dal latte"
+    "name_en": "Dairy",
+    "name_it": "Dal latte",
+    "slug_it": "dal-latte",
+    "slug_en": "dairy"
   },
   {
     "slug": "dai-cereali",
-    "name_en": "",
-    "name_it": "Dai cereali"
+    "name_en": "Cereals",
+    "name_it": "Dai cereali",
+    "slug_it": "dai-cereali",
+    "slug_en": "cereals"
   },
   {
     "slug": "dallorto",
-    "name_en": "",
-    "name_it": "Dall'orto"
+    "name_en": "Produce",
+    "name_it": "Dall'orto",
+    "slug_it": "dallorto",
+    "slug_en": "produce"
   },
   {
     "slug": "frutta",
-    "name_en": "",
-    "name_it": "Frutta"
+    "name_en": "Fruit",
+    "name_it": "Frutta",
+    "slug_it": "frutta",
+    "slug_en": "fruit"
   },
   {
     "slug": "prodotti-vari",
-    "name_en": "",
-    "name_it": "Prodotti vari"
+    "name_en": "Miscellaneous",
+    "name_it": "Prodotti vari",
+    "slug_it": "prodotti-vari",
+    "slug_en": "miscellaneous"
   }
 ]

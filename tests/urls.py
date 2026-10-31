@@ -1,16 +1,16 @@
-"""Test's urls view for django-ingredients"""
+"""Test URLConf for django-ingredients (i18n_patterns + package urls)."""
 
 from django.conf.urls.i18n import i18n_patterns
-from django.urls import include, path, re_path
+from django.urls import include, path
 from django.views.i18n import JavaScriptCatalog
 
 urlpatterns = [
-    path("", include("ingredients.urls")),
+    path("i18n/", include("django.conf.urls.i18n")),
 ]
 
 urlpatterns += i18n_patterns(
-    re_path(
-        r"^jsi18n/$", JavaScriptCatalog.as_view(), name="javascript-catalog"
+    path(
+        "jsi18n/", JavaScriptCatalog.as_view(), name="javascript-catalog"
     ),
     path("", include("ingredients.urls")),
 )

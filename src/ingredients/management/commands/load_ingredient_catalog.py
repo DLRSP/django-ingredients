@@ -63,18 +63,32 @@ def _dec(value):
         return None
 
 
-def _apply_translations(obj, row, fields):
-    for field in fields:
-        it_key = f"{field}_it"
-        en_key = f"{field}_en"
-        if hasattr(obj, f"{field}_it") and row.get(it_key) is not None:
-            setattr(obj, f"{field}_it", row[it_key])
-        if hasattr(obj, f"{field}_en") and row.get(en_key):
-            setattr(obj, f"{field}_en", row[en_key])
-        elif hasattr(obj, f"{field}_en") and field == "name" and row.get("name_it"):
-            # Keep English empty placeholder when only Italian catalog exists.
-            if not getattr(obj, f"{field}_en", None):
-                setattr(obj, f"{field}_en", row.get("name_en") or "")
+def _provisional_en_name(slug: str) -> str:
+    return slug.replace("-", " ").replace("_", " ").title()
+
+
+def _names_and_slugs(row: dict) -> tuple[str, str, str, str]:
+    """Return name_en, name_it, slug_en, slug_it (default language English)."""
+    slug_it = row.get("slug_it") or row["slug"]
+    slug_en = row.get("slug_en") or slug_it
+    name_it = row.get("name_it") or slug_it
+    name_en = row.get("name_en") or _provisional_en_name(slug_en)
+    return name_en, name_it, slug_en, slug_it
+
+
+def _apply_i18n(obj, name_en, name_it, slug_en, slug_it, description_en="", description_it=""):
+    if hasattr(obj, "name_en"):
+        obj.name_en = name_en
+    if hasattr(obj, "name_it"):
+        obj.name_it = name_it
+    if hasattr(obj, "slug_en"):
+        obj.slug_en = slug_en
+    if hasattr(obj, "slug_it"):
+        obj.slug_it = slug_it
+    if hasattr(obj, "description_en"):
+        obj.description_en = description_en or ""
+    if hasattr(obj, "description_it"):
+        obj.description_it = description_it or ""
 
 
 class Command(BaseCommand):
@@ -111,16 +125,12 @@ class Command(BaseCommand):
     def _load_types(self):
         created = updated = 0
         for row in _read_json("types.json"):
-            name = row.get("name_en") or row.get("name_it") or row["slug"]
+            name_en, name_it, slug_en, slug_it = _names_and_slugs(row)
             obj, was_created = IngredientType.objects.update_or_create(
                 slug=row["slug"],
-                defaults={"name": name},
+                defaults={"name": name_en},
             )
-            _apply_translations(obj, row, ("name", "slug"))
-            if hasattr(obj, "slug_it"):
-                obj.slug_it = row["slug"]
-            if hasattr(obj, "slug_en"):
-                obj.slug_en = row["slug"]
+            _apply_i18n(obj, name_en, name_it, slug_en, slug_it)
             obj.save()
             created += int(was_created)
             updated += int(not was_created)
@@ -130,22 +140,26 @@ class Command(BaseCommand):
         created = updated = 0
         for row in _read_json("categories.json"):
             itype = IngredientType.objects.get(slug=row["type_slug"])
-            name = row.get("name_en") or row.get("name_it") or row["slug"]
+            name_en, name_it, slug_en, slug_it = _names_and_slugs(row)
+            description_en = row.get("description_en") or ""
+            description_it = row.get("description_it") or ""
             obj, was_created = IngredientCategory.objects.update_or_create(
                 slug=row["slug"],
                 defaults={
-                    "name": name,
-                    "description": row.get("description_en")
-                    or row.get("description_it")
-                    or "",
+                    "name": name_en,
+                    "description": description_en or description_it,
                     "type": itype,
                 },
             )
-            _apply_translations(obj, row, ("name", "slug", "description"))
-            if hasattr(obj, "slug_it"):
-                obj.slug_it = row["slug"]
-            if hasattr(obj, "slug_en"):
-                obj.slug_en = row["slug"]
+            _apply_i18n(
+                obj,
+                name_en,
+                name_it,
+                slug_en,
+                slug_it,
+                description_en,
+                description_it,
+            )
             obj.save()
             created += int(was_created)
             updated += int(not was_created)
@@ -155,9 +169,9 @@ class Command(BaseCommand):
         created = updated = 0
         for row in _read_json("ingredients.json"):
             category = IngredientCategory.objects.get(slug=row["category_slug"])
-            name = row.get("name_en") or row.get("name_it") or row["slug"]
+            name_en, name_it, slug_en, slug_it = _names_and_slugs(row)
             defaults = {
-                "name": name,
+                "name": name_en,
                 "category": category,
                 "fodmap": row.get("fodmap") or "unknown",
             }
@@ -172,11 +186,7 @@ class Command(BaseCommand):
                 slug=row["slug"],
                 defaults=defaults,
             )
-            _apply_translations(obj, row, ("name", "slug"))
-            if hasattr(obj, "slug_it"):
-                obj.slug_it = row["slug"]
-            if hasattr(obj, "slug_en"):
-                obj.slug_en = row["slug"]
+            _apply_i18n(obj, name_en, name_it, slug_en, slug_it)
             obj.save()
             created += int(was_created)
             updated += int(not was_created)

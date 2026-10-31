@@ -170,3 +170,15 @@ msgstr "Moderato"
 
 msgid "Not suggested"
 msgstr "Non consigliato"
+
+msgid "ingredients/"
+msgstr "ingredienti/"
+
+msgid "ingredients/<slug:slug_type>/"
+msgstr "ingredienti/<slug:slug_type>/"
+
+msgid "ingredients/<slug:slug_type>/<slug:slug_cat>/"
+msgstr "ingredienti/<slug:slug_type>/<slug:slug_cat>/"
+
+msgid "ingredients/<slug:slug_type>/<slug:slug_cat>/<slug:slug>/"
+msgstr "ingredienti/<slug:slug_type>/<slug:slug_cat>/<slug:slug>/"

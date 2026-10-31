@@ -1,0 +1,53 @@
+site_name: Django-Ingredients
+site_url: https://dlrsp.github.io/django-ingredients/
+site_description: Food ingredient catalog for Django with nutrition data, allergens and Filer.
+
+repo_name: DLRSP/django-ingredients
+repo_url: https://github.com/DLRSP/django-ingredients/
+
+theme:
+    name: 'material'
+    palette:
+      - scheme: default
+        toggle:
+          icon: material/weather-sunny
+          name: Switch to dark mode
+      - scheme: slate
+        toggle:
+          icon: material/weather-night
+          name: Switch to light mode
+    features:
+      - navigation.instant
+      - navigation.top
+      - content.code.annotate
+      - content.tabs.link
+      - search.suggest
+      - search.highlight
+    icon:
+        repo: fontawesome/brands/github-alt
+
+plugins:
+  - search
+  - git-revision-date
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/DLRSP
+
+markdown_extensions:
+ - toc:
+    anchorlink: True
+ - pymdownx.tabbed:
+    alternate_style: true
+ - pymdownx.highlight:
+ - pymdownx.inlinehilite:
+ - pymdownx.superfences:
+ - pymdownx.snippets:
+
+nav:
+ - Quickstart: 'index.md'
+ - Install: 'install.md'
+ - Usage: 'usage.md'
+
+copyright: Copyright &copy; 2010-present DLRSP

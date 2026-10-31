@@ -1,39 +1,14 @@
 # django-ingredients
 
-Template repository for a **reusable Django app** published on PyPI. After you clone and rename, replace the placeholder import package `ingredients` and the distribution name `django-ingredients` across the tree (see the checklist in `README.md`).
+Food ingredient catalog for Django: types, categories, nutrition fields,
+allergen presence, Filer images, and an idempotent seed loader.
 
----
+Default language is **English**. Italian catalog labels are the historical
+source; English `name_en` values are filled from known mappings where available,
+otherwise a Title-Case of the ASCII slug (provisional — refine over time).
 
-## Requirements
+## Links
 
-- Python 3.10+
-- Django 3.2+ (see `pyproject.toml` for declared compatibility)
-
----
-
-## Installation
-
-```shell
-pip install django-ingredients
-```
-
-Add the app to `INSTALLED_APPS` using your real module name (after renaming from `ingredients`):
-
-```python
-INSTALLED_APPS = [
-    # ...
-    "ingredients",
-    # ...
-]
-```
-
----
-
-## Documentation
-
-Full docs are built with [MkDocs](https://www.mkdocs.org/) (Material theme). From the repo root:
-
-```shell
-pip install -e ".[docs]"
-mkdocs serve
-```
+- [Install](install.md)
+- [Usage](usage.md)
+- [GitHub](https://github.com/DLRSP/django-ingredients)

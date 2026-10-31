@@ -1,7 +1,7 @@
 [
   {
     "slug": "alchermes",
-    "name_en": "",
+    "name_en": "Alchermes",
     "name_it": "Alchermes",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -31,11 +31,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "alchermes",
+    "slug_en": "alchermes"
   },
   {
     "slug": "alcol",
-    "name_en": "",
+    "name_en": "Alcol",
     "name_it": "Alcol",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -65,11 +67,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "alcol",
+    "slug_en": "alcol"
   },
   {
     "slug": "amaretto-di-saronno",
-    "name_en": "",
+    "name_en": "Amaretto Di Saronno",
     "name_it": "Amaretto di saronno",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -99,11 +103,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "amaretto-di-saronno",
+    "slug_en": "amaretto-di-saronno"
   },
   {
     "slug": "baileys",
-    "name_en": "",
+    "name_en": "Baileys",
     "name_it": "Baileys",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -133,11 +139,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "baileys",
+    "slug_en": "baileys"
   },
   {
     "slug": "birra",
-    "name_en": "",
+    "name_en": "Birra",
     "name_it": "Birra",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -167,11 +175,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "birra",
+    "slug_en": "birra"
   },
   {
     "slug": "brandy",
-    "name_en": "",
+    "name_en": "Brandy",
     "name_it": "Brandy",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -201,11 +211,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "brandy",
+    "slug_en": "brandy"
   },
   {
     "slug": "champagne",
-    "name_en": "",
+    "name_en": "Champagne",
     "name_it": "Champagne",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -235,11 +247,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "champagne",
+    "slug_en": "champagne"
   },
   {
     "slug": "cherry",
-    "name_en": "",
+    "name_en": "Cherry",
     "name_it": "Cherry",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -269,11 +283,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "cherry",
+    "slug_en": "cherry"
   },
   {
     "slug": "cognac",
-    "name_en": "",
+    "name_en": "Cognac",
     "name_it": "Cognac",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -303,11 +319,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "cognac",
+    "slug_en": "cognac"
   },
   {
     "slug": "cointreau",
-    "name_en": "",
+    "name_en": "Cointreau",
     "name_it": "Cointreau",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -337,11 +355,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "cointreau",
+    "slug_en": "cointreau"
   },
   {
     "slug": "gin",
-    "name_en": "",
+    "name_en": "Gin",
     "name_it": "Gin",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -371,11 +391,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "gin",
+    "slug_en": "gin"
   },
   {
     "slug": "grand-marnier",
-    "name_en": "",
+    "name_en": "Grand Marnier",
     "name_it": "Grand marnier",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -405,11 +427,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "grand-marnier",
+    "slug_en": "grand-marnier"
   },
   {
     "slug": "grappa",
-    "name_en": "",
+    "name_en": "Grappa",
     "name_it": "Grappa",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -439,11 +463,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "grappa",
+    "slug_en": "grappa"
   },
   {
     "slug": "limoncello",
-    "name_en": "",
+    "name_en": "Limoncello",
     "name_it": "Limoncello",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -473,11 +499,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "limoncello",
+    "slug_en": "limoncello"
   },
   {
     "slug": "liquore-marsala",
-    "name_en": "",
+    "name_en": "Liquore Marsala",
     "name_it": "Liquore marsala",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -507,11 +535,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "liquore-marsala",
+    "slug_en": "liquore-marsala"
   },
   {
     "slug": "liquore-strega",
-    "name_en": "",
+    "name_en": "Liquore Strega",
     "name_it": "Liquore strega",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -541,11 +571,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "liquore-strega",
+    "slug_en": "liquore-strega"
   },
   {
     "slug": "maraschino",
-    "name_en": "",
+    "name_en": "Maraschino",
     "name_it": "Maraschino",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -575,11 +607,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "maraschino",
+    "slug_en": "maraschino"
   },
   {
     "slug": "martini",
-    "name_en": "",
+    "name_en": "Martini",
     "name_it": "Martini",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -609,11 +643,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "martini",
+    "slug_en": "martini"
   },
   {
     "slug": "rum",
-    "name_en": "",
+    "name_en": "Rum",
     "name_it": "Rum",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -643,11 +679,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "rum",
+    "slug_en": "rum"
   },
   {
     "slug": "sake",
-    "name_en": "",
+    "name_en": "Sake",
     "name_it": "Sake",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -677,11 +715,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "sake",
+    "slug_en": "sake"
   },
   {
     "slug": "spumante",
-    "name_en": "",
+    "name_en": "Spumante",
     "name_it": "Spumante",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -711,11 +751,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "spumante",
+    "slug_en": "spumante"
   },
   {
     "slug": "vino-bianco",
-    "name_en": "",
+    "name_en": "Vino Bianco",
     "name_it": "Vino bianco",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -745,11 +787,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "vino-bianco",
+    "slug_en": "vino-bianco"
   },
   {
     "slug": "vino-rosso",
-    "name_en": "",
+    "name_en": "Vino Rosso",
     "name_it": "Vino rosso",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -779,11 +823,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "vino-rosso",
+    "slug_en": "vino-rosso"
   },
   {
     "slug": "vodka",
-    "name_en": "",
+    "name_en": "Vodka",
     "name_it": "Vodka",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -813,11 +859,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "vodka",
+    "slug_en": "vodka"
   },
   {
     "slug": "whisky",
-    "name_en": "",
+    "name_en": "Whisky",
     "name_it": "Whisky",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -847,11 +895,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "whisky",
+    "slug_en": "whisky"
   },
   {
     "slug": "ammoniaca-per-dolci",
-    "name_en": "",
+    "name_en": "Ammoniaca Per Dolci",
     "name_it": "Ammoniaca per dolci",
     "category_slug": "additivi-alimentari",
     "fodmap": "unknown",
@@ -881,11 +931,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "ammoniaca-per-dolci",
+    "slug_en": "ammoniaca-per-dolci"
   },
   {
     "slug": "bicarbonato",
-    "name_en": "",
+    "name_en": "Bicarbonato",
     "name_it": "Bicarbonato",
     "category_slug": "additivi-alimentari",
     "fodmap": "unknown",
@@ -915,11 +967,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "bicarbonato",
+    "slug_en": "bicarbonato"
   },
   {
     "slug": "colla-di-pesce",
-    "name_en": "",
+    "name_en": "Colla Di Pesce",
     "name_it": "Colla di pesce",
     "category_slug": "additivi-alimentari",
     "fodmap": "unknown",
@@ -949,11 +1003,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "colla-di-pesce",
+    "slug_en": "colla-di-pesce"
   },
   {
     "slug": "coloranti-alimentari",
-    "name_en": "",
+    "name_en": "Coloranti Alimentari",
     "name_it": "Coloranti alimentari",
     "category_slug": "additivi-alimentari",
     "fodmap": "unknown",
@@ -983,11 +1039,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "coloranti-alimentari",
+    "slug_en": "coloranti-alimentari"
   },
   {
     "slug": "cremor-tartaro",
-    "name_en": "",
+    "name_en": "Cremor Tartaro",
     "name_it": "Cremor tartaro",
     "category_slug": "additivi-alimentari",
     "fodmap": "unknown",
@@ -1017,11 +1075,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "cremor-tartaro",
+    "slug_en": "cremor-tartaro"
   },
   {
     "slug": "dado",
-    "name_en": "",
+    "name_en": "Dado",
     "name_it": "Dado",
     "category_slug": "additivi-alimentari",
     "fodmap": "unknown",
@@ -1051,11 +1111,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "dado",
+    "slug_en": "dado"
   },
   {
     "slug": "fiocchi-di-patate",
-    "name_en": "",
+    "name_en": "Fiocchi Di Patate",
     "name_it": "Fiocchi di patate",
     "category_slug": "additivi-alimentari",
     "fodmap": "unknown",
@@ -1085,11 +1147,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "fiocchi-di-patate",
+    "slug_en": "fiocchi-di-patate"
   },
   {
     "slug": "glucosio",
-    "name_en": "",
+    "name_en": "Glucosio",
     "name_it": "Glucosio",
     "category_slug": "additivi-alimentari",
     "fodmap": "unknown",
@@ -1119,11 +1183,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "glucosio",
+    "slug_en": "glucosio"
   },
   {
     "slug": "lecitina-di-soia",
-    "name_en": "",
+    "name_en": "Lecitina Di Soia",
     "name_it": "Lecitina di soia",
     "category_slug": "additivi-alimentari",
     "fodmap": "unknown",
@@ -1153,11 +1219,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "lecitina-di-soia",
+    "slug_en": "lecitina-di-soia"
   },
   {
     "slug": "lievito-istantaneo",
-    "name_en": "",
+    "name_en": "Lievito Istantaneo",
     "name_it": "Lievito istantaneo",
     "category_slug": "additivi-alimentari",
     "fodmap": "unknown",
@@ -1187,11 +1255,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "lievito-istantaneo",
+    "slug_en": "lievito-istantaneo"
   },
   {
     "slug": "lievito-per-dolci",
-    "name_en": "",
+    "name_en": "Lievito Per Dolci",
     "name_it": "Lievito per dolci",
     "category_slug": "additivi-alimentari",
     "fodmap": "unknown",
@@ -1221,11 +1291,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "lievito-per-dolci",
+    "slug_en": "lievito-per-dolci"
   },
   {
     "slug": "vanillina",
-    "name_en": "",
+    "name_en": "Vanillina",
     "name_it": "Vanillina",
     "category_slug": "additivi-alimentari",
     "fodmap": "unknown",
@@ -1255,11 +1327,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "vanillina",
+    "slug_en": "vanillina"
   },
   {
     "slug": "acqua",
-    "name_en": "",
+    "name_en": "Acqua",
     "name_it": "Acqua",
     "category_slug": "bevande-analcoliche",
     "fodmap": "unknown",
@@ -1289,11 +1363,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "acqua",
+    "slug_en": "acqua"
   },
   {
     "slug": "acqua-tonica",
-    "name_en": "",
+    "name_en": "Acqua Tonica",
     "name_it": "Acqua tonica",
     "category_slug": "bevande-analcoliche",
     "fodmap": "unknown",
@@ -1323,11 +1399,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "acqua-tonica",
+    "slug_en": "acqua-tonica"
   },
   {
     "slug": "caffe",
-    "name_en": "",
+    "name_en": "Caffe",
     "name_it": "Caffé",
     "category_slug": "bevande-analcoliche",
     "fodmap": "unknown",
@@ -1357,11 +1435,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "caffe",
+    "slug_en": "caffe"
   },
   {
     "slug": "caffe-solubile",
-    "name_en": "",
+    "name_en": "Caffe Solubile",
     "name_it": "Caffé solubile",
     "category_slug": "bevande-analcoliche",
     "fodmap": "unknown",
@@ -1391,11 +1471,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "caffe-solubile",
+    "slug_en": "caffe-solubile"
   },
   {
     "slug": "coca-cola",
-    "name_en": "",
+    "name_en": "Coca Cola",
     "name_it": "Coca-Cola",
     "category_slug": "bevande-analcoliche",
     "fodmap": "unknown",
@@ -1425,11 +1507,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "coca-cola",
+    "slug_en": "coca-cola"
   },
   {
     "slug": "gassosa",
-    "name_en": "",
+    "name_en": "Gassosa",
     "name_it": "Gassosa",
     "category_slug": "bevande-analcoliche",
     "fodmap": "unknown",
@@ -1459,11 +1543,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "gassosa",
+    "slug_en": "gassosa"
   },
   {
     "slug": "the",
-    "name_en": "",
+    "name_en": "The",
     "name_it": "Thé",
     "category_slug": "bevande-analcoliche",
     "fodmap": "unknown",
@@ -1493,11 +1579,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "the",
+    "slug_en": "the"
   },
   {
     "slug": "the-matcha",
-    "name_en": "",
+    "name_en": "The Matcha",
     "name_it": "Thé matcha",
     "category_slug": "bevande-analcoliche",
     "fodmap": "unknown",
@@ -1527,11 +1615,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "the-matcha",
+    "slug_en": "the-matcha"
   },
   {
     "slug": "arista",
-    "name_en": "",
+    "name_en": "Arista",
     "name_it": "Arista",
     "category_slug": "carni-rosse",
     "fodmap": "unknown",
@@ -1561,11 +1651,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "arista",
+    "slug_en": "arista"
   },
   {
     "slug": "carne-macinata",
-    "name_en": "",
+    "name_en": "Carne Macinata",
     "name_it": "Carne macinata",
     "category_slug": "carni-rosse",
     "fodmap": "unknown",
@@ -1595,11 +1687,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "carne-macinata",
+    "slug_en": "carne-macinata"
   },
   {
     "slug": "cinghiale",
-    "name_en": "",
+    "name_en": "Cinghiale",
     "name_it": "Cinghiale",
     "category_slug": "carni-rosse",
     "fodmap": "unknown",
@@ -1629,11 +1723,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "cinghiale",
+    "slug_en": "cinghiale"
   },
   {
     "slug": "fegato",
-    "name_en": "",
+    "name_en": "Fegato",
     "name_it": "Fegato",
     "category_slug": "carni-rosse",
     "fodmap": "unknown",
@@ -1663,11 +1759,13 @@
     "vit_b9": "1758",
     "vit_c": "31",
     "vit_d": "1",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "fegato",
+    "slug_en": "fegato"
   },
   {
     "slug": "filetto",
-    "name_en": "",
+    "name_en": "Filetto",
     "name_it": "Filetto",
     "category_slug": "carni-rosse",
     "fodmap": "unknown",
@@ -1697,11 +1795,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "filetto",
+    "slug_en": "filetto"
   },
   {
     "slug": "girello",
-    "name_en": "",
+    "name_en": "Girello",
     "name_it": "Girello",
     "category_slug": "carni-rosse",
     "fodmap": "unknown",
@@ -1731,11 +1831,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "girello",
+    "slug_en": "girello"
   },
   {
     "slug": "manzo",
-    "name_en": "",
+    "name_en": "Manzo",
     "name_it": "Manzo",
     "category_slug": "carni-rosse",
     "fodmap": "unknown",
@@ -1765,11 +1867,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "manzo",
+    "slug_en": "manzo"
   },
   {
     "slug": "ossobuco",
-    "name_en": "",
+    "name_en": "Ossobuco",
     "name_it": "Ossobuco",
     "category_slug": "carni-rosse",
     "fodmap": "unknown",
@@ -1799,11 +1903,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "ossobuco",
+    "slug_en": "ossobuco"
   },
   {
     "slug": "agnello",
-    "name_en": "",
+    "name_en": "Agnello",
     "name_it": "Agnello",
     "category_slug": "carni-bianche",
     "fodmap": "unknown",
@@ -1833,11 +1939,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "agnello",
+    "slug_en": "agnello"
   },
   {
     "slug": "alette-di-pollo",
-    "name_en": "",
+    "name_en": "Alette Di Pollo",
     "name_it": "Alette di pollo",
     "category_slug": "carni-bianche",
     "fodmap": "unknown",
@@ -1867,11 +1975,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "1",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "alette-di-pollo",
+    "slug_en": "alette-di-pollo"
   },
   {
     "slug": "coniglio",
-    "name_en": "",
+    "name_en": "Coniglio",
     "name_it": "Coniglio",
     "category_slug": "carni-bianche",
     "fodmap": "unknown",
@@ -1901,11 +2011,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "coniglio",
+    "slug_en": "coniglio"
   },
   {
     "slug": "cosce-di-pollo",
-    "name_en": "",
+    "name_en": "Cosce Di Pollo",
     "name_it": "Cosce di pollo",
     "category_slug": "carni-bianche",
     "fodmap": "unknown",
@@ -1935,11 +2047,13 @@
     "vit_b9": "0",
     "vit_c": "4",
     "vit_d": "1",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "cosce-di-pollo",
+    "slug_en": "cosce-di-pollo"
   },
   {
     "slug": "costolette",
-    "name_en": "",
+    "name_en": "Costolette",
     "name_it": "Costolette",
     "category_slug": "carni-bianche",
     "fodmap": "unknown",
@@ -1969,11 +2083,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "1",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "costolette",
+    "slug_en": "costolette"
   },
   {
     "slug": "lonza-di-maiale",
-    "name_en": "",
+    "name_en": "Lonza Di Maiale",
     "name_it": "Lonza di maiale",
     "category_slug": "carni-bianche",
     "fodmap": "unknown",
@@ -2003,11 +2119,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "lonza-di-maiale",
+    "slug_en": "lonza-di-maiale"
   },
   {
     "slug": "maiale",
-    "name_en": "",
+    "name_en": "Maiale",
     "name_it": "Maiale",
     "category_slug": "carni-bianche",
     "fodmap": "unknown",
@@ -2037,11 +2155,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "maiale",
+    "slug_en": "maiale"
   },
   {
     "slug": "petto-di-pollo",
-    "name_en": "",
+    "name_en": "Petto Di Pollo",
     "name_it": "Petto di pollo",
     "category_slug": "carni-bianche",
     "fodmap": "unknown",
@@ -2071,11 +2191,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "petto-di-pollo",
+    "slug_en": "petto-di-pollo"
   },
   {
     "slug": "pollo",
-    "name_en": "",
+    "name_en": "Pollo",
     "name_it": "Pollo",
     "category_slug": "carni-bianche",
     "fodmap": "unknown",
@@ -2105,11 +2227,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "1",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "pollo",
+    "slug_en": "pollo"
   },
   {
     "slug": "quaglie",
-    "name_en": "",
+    "name_en": "Quaglie",
     "name_it": "Quaglie",
     "category_slug": "carni-bianche",
     "fodmap": "unknown",
@@ -2139,11 +2263,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "quaglie",
+    "slug_en": "quaglie"
   },
   {
     "slug": "salsicce",
-    "name_en": "",
+    "name_en": "Salsicce",
     "name_it": "Salsicce",
     "category_slug": "carni-bianche",
     "fodmap": "unknown",
@@ -2173,11 +2299,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "salsicce",
+    "slug_en": "salsicce"
   },
   {
     "slug": "tacchino",
-    "name_en": "",
+    "name_en": "Tacchino",
     "name_it": "Tacchino",
     "category_slug": "carni-bianche",
     "fodmap": "unknown",
@@ -2207,11 +2335,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "tacchino",
+    "slug_en": "tacchino"
   },
   {
     "slug": "vitello",
-    "name_en": "",
+    "name_en": "Vitello",
     "name_it": "Vitello",
     "category_slug": "carni-bianche",
     "fodmap": "unknown",
@@ -2241,11 +2371,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "1",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "vitello",
+    "slug_en": "vitello"
   },
   {
     "slug": "amaranto",
-    "name_en": "",
+    "name_en": "Amaranto",
     "name_it": "Amaranto",
     "category_slug": "cereali-e-derivati",
     "fodmap": "unknown",
@@ -2275,11 +2407,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "amaranto",
+    "slug_en": "amaranto"
   },
   {
     "slug": "avena",
-    "name_en": "",
+    "name_en": "Avena",
     "name_it": "Avena",
     "category_slug": "cereali-e-derivati",
     "fodmap": "unknown",
@@ -2309,11 +2443,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "avena",
+    "slug_en": "avena"
   },
   {
     "slug": "bulgur",
-    "name_en": "",
+    "name_en": "Bulgur",
     "name_it": "Bulgur",
     "category_slug": "cereali-e-derivati",
     "fodmap": "unknown",
@@ -2343,11 +2479,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "bulgur",
+    "slug_en": "bulgur"
   },
   {
     "slug": "cereali",
-    "name_en": "",
+    "name_en": "Cereali",
     "name_it": "Cereali",
     "category_slug": "cereali-e-derivati",
     "fodmap": "unknown",
@@ -2377,11 +2515,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "cereali",
+    "slug_en": "cereali"
   },
   {
     "slug": "cous-cous",
-    "name_en": "",
+    "name_en": "Cous Cous",
     "name_it": "Cous cous",
     "category_slug": "cereali-e-derivati",
     "fodmap": "unknown",
@@ -2411,11 +2551,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "cous-cous",
+    "slug_en": "cous-cous"
   },
   {
     "slug": "farro",
-    "name_en": "",
+    "name_en": "Farro",
     "name_it": "Farro",
     "category_slug": "cereali-e-derivati",
     "fodmap": "unknown",
@@ -2445,11 +2587,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "farro",
+    "slug_en": "farro"
   },
   {
     "slug": "mais",
-    "name_en": "",
+    "name_en": "Mais",
     "name_it": "Mais",
     "category_slug": "cereali-e-derivati",
     "fodmap": "unknown",
@@ -2479,11 +2623,13 @@
     "vit_b9": "372",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "mais",
+    "slug_en": "mais"
   },
   {
     "slug": "malto",
-    "name_en": "",
+    "name_en": "Malto",
     "name_it": "Malto",
     "category_slug": "cereali-e-derivati",
     "fodmap": "unknown",
@@ -2513,11 +2659,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "malto",
+    "slug_en": "malto"
   },
   {
     "slug": "miglio",
-    "name_en": "",
+    "name_en": "Miglio",
     "name_it": "Miglio",
     "category_slug": "cereali-e-derivati",
     "fodmap": "unknown",
@@ -2547,11 +2695,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "miglio",
+    "slug_en": "miglio"
   },
   {
     "slug": "orzo",
-    "name_en": "",
+    "name_en": "Orzo",
     "name_it": "Orzo",
     "category_slug": "cereali-e-derivati",
     "fodmap": "unknown",
@@ -2581,11 +2731,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "orzo",
+    "slug_en": "orzo"
   },
   {
     "slug": "quinoa",
-    "name_en": "",
+    "name_en": "Quinoa",
     "name_it": "Quinoa",
     "category_slug": "cereali-e-derivati",
     "fodmap": "unknown",
@@ -2615,11 +2767,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "quinoa",
+    "slug_en": "quinoa"
   },
   {
     "slug": "riso",
-    "name_en": "",
+    "name_en": "Riso",
     "name_it": "Riso",
     "category_slug": "cereali-e-derivati",
     "fodmap": "unknown",
@@ -2649,11 +2803,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "riso",
+    "slug_en": "riso"
   },
   {
     "slug": "riso-soffiato",
-    "name_en": "",
+    "name_en": "Riso Soffiato",
     "name_it": "Riso soffiato",
     "category_slug": "cereali-e-derivati",
     "fodmap": "unknown",
@@ -2683,11 +2839,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "riso-soffiato",
+    "slug_en": "riso-soffiato"
   },
   {
     "slug": "riso-venere",
-    "name_en": "",
+    "name_en": "Riso Venere",
     "name_it": "Riso venere",
     "category_slug": "cereali-e-derivati",
     "fodmap": "unknown",
@@ -2717,11 +2875,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "riso-venere",
+    "slug_en": "riso-venere"
   },
   {
     "slug": "seitan",
-    "name_en": "",
+    "name_en": "Seitan",
     "name_it": "Seitan",
     "category_slug": "cereali-e-derivati",
     "fodmap": "unknown",
@@ -2751,11 +2911,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "seitan",
+    "slug_en": "seitan"
   },
   {
     "slug": "cioccolato",
-    "name_en": "",
+    "name_en": "Cioccolato",
     "name_it": "Cioccolato",
     "category_slug": "cioccolato",
     "fodmap": "unknown",
@@ -2785,11 +2947,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "cioccolato",
+    "slug_en": "cioccolato"
   },
   {
     "slug": "cioccolato-al-latte",
-    "name_en": "",
+    "name_en": "Cioccolato Al Latte",
     "name_it": "Cioccolato al latte",
     "category_slug": "cioccolato",
     "fodmap": "unknown",
@@ -2819,11 +2983,13 @@
     "vit_b9": "13",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "cioccolato-al-latte",
+    "slug_en": "cioccolato-al-latte"
   },
   {
     "slug": "cioccolato-kinder",
-    "name_en": "",
+    "name_en": "Cioccolato Kinder",
     "name_it": "Cioccolato kinder",
     "category_slug": "cioccolato",
     "fodmap": "unknown",
@@ -2853,11 +3019,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "cioccolato-kinder",
+    "slug_en": "cioccolato-kinder"
   },
   {
     "slug": "gianduia",
-    "name_en": "",
+    "name_en": "Gianduia",
     "name_it": "Gianduia",
     "category_slug": "cioccolato",
     "fodmap": "unknown",
@@ -2887,11 +3055,13 @@
     "vit_b9": "108",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "gianduia",
+    "slug_en": "gianduia"
   },
   {
     "slug": "gocce-di-cioccolato",
-    "name_en": "",
+    "name_en": "Gocce Di Cioccolato",
     "name_it": "Gocce di cioccolato",
     "category_slug": "cioccolato",
     "fodmap": "unknown",
@@ -2921,11 +3091,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "gocce-di-cioccolato",
+    "slug_en": "gocce-di-cioccolato"
   },
   {
     "slug": "kit-kat",
-    "name_en": "",
+    "name_en": "Kit Kat",
     "name_it": "Kit kat",
     "category_slug": "cioccolato",
     "fodmap": "unknown",
@@ -2955,11 +3127,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "kit-kat",
+    "slug_en": "kit-kat"
   },
   {
     "slug": "mms",
-    "name_en": "",
+    "name_en": "Mms",
     "name_it": "M&M's",
     "category_slug": "cioccolato",
     "fodmap": "unknown",
@@ -2989,11 +3163,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "mms",
+    "slug_en": "mms"
   },
   {
     "slug": "mars",
-    "name_en": "",
+    "name_en": "Mars",
     "name_it": "Mars",
     "category_slug": "cioccolato",
     "fodmap": "unknown",
@@ -3023,11 +3199,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "mars",
+    "slug_en": "mars"
   },
   {
     "slug": "nutella",
-    "name_en": "",
+    "name_en": "Nutella",
     "name_it": "Nutella",
     "category_slug": "cioccolato",
     "fodmap": "unknown",
@@ -3057,11 +3235,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "nutella",
+    "slug_en": "nutella"
   },
   {
     "slug": "aragosta",
-    "name_en": "",
+    "name_en": "Aragosta",
     "name_it": "Aragosta",
     "category_slug": "crostacei-e-molluschi",
     "fodmap": "unknown",
@@ -3091,11 +3271,13 @@
     "vit_b9": "0",
     "vit_c": "7",
     "vit_d": "0",
-    "vit_e": "5"
+    "vit_e": "5",
+    "slug_it": "aragosta",
+    "slug_en": "aragosta"
   },
   {
     "slug": "astice",
-    "name_en": "",
+    "name_en": "Astice",
     "name_it": "Astice",
     "category_slug": "crostacei-e-molluschi",
     "fodmap": "unknown",
@@ -3125,11 +3307,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "4"
+    "vit_e": "4",
+    "slug_it": "astice",
+    "slug_en": "astice"
   },
   {
     "slug": "calamari",
-    "name_en": "",
+    "name_en": "Calamari",
     "name_it": "Calamari",
     "category_slug": "crostacei-e-molluschi",
     "fodmap": "unknown",
@@ -3159,11 +3343,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "2"
+    "vit_e": "2",
+    "slug_it": "calamari",
+    "slug_en": "calamari"
   },
   {
     "slug": "cannolicchi",
-    "name_en": "",
+    "name_en": "Cannolicchi",
     "name_it": "Cannolicchi",
     "category_slug": "crostacei-e-molluschi",
     "fodmap": "unknown",
@@ -3193,11 +3379,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "cannolicchi",
+    "slug_en": "cannolicchi"
   },
   {
     "slug": "capesante",
-    "name_en": "",
+    "name_en": "Capesante",
     "name_it": "Capesante",
     "category_slug": "crostacei-e-molluschi",
     "fodmap": "unknown",
@@ -3227,11 +3415,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "capesante",
+    "slug_en": "capesante"
   },
   {
     "slug": "cicale-di-mare",
-    "name_en": "",
+    "name_en": "Cicale Di Mare",
     "name_it": "Cicale di mare",
     "category_slug": "crostacei-e-molluschi",
     "fodmap": "unknown",
@@ -3261,11 +3451,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "cicale-di-mare",
+    "slug_en": "cicale-di-mare"
   },
   {
     "slug": "cozze",
-    "name_en": "",
+    "name_en": "Cozze",
     "name_it": "Cozze",
     "category_slug": "crostacei-e-molluschi",
     "fodmap": "unknown",
@@ -3295,11 +3487,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "3"
+    "vit_e": "3",
+    "slug_it": "cozze",
+    "slug_en": "cozze"
   },
   {
     "slug": "fasolari",
-    "name_en": "",
+    "name_en": "Fasolari",
     "name_it": "Fasolari",
     "category_slug": "crostacei-e-molluschi",
     "fodmap": "unknown",
@@ -3329,11 +3523,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "fasolari",
+    "slug_en": "fasolari"
   },
   {
     "slug": "frutti-di-mare",
-    "name_en": "",
+    "name_en": "Frutti Di Mare",
     "name_it": "Frutti di mare",
     "category_slug": "crostacei-e-molluschi",
     "fodmap": "unknown",
@@ -3363,11 +3559,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "frutti-di-mare",
+    "slug_en": "frutti-di-mare"
   },
   {
     "slug": "gamberetti",
-    "name_en": "",
+    "name_en": "Gamberetti",
     "name_it": "Gamberetti",
     "category_slug": "crostacei-e-molluschi",
     "fodmap": "unknown",
@@ -3397,11 +3595,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "3"
+    "vit_e": "3",
+    "slug_it": "gamberetti",
+    "slug_en": "gamberetti"
   },
   {
     "slug": "gamberi",
-    "name_en": "",
+    "name_en": "Gamberi",
     "name_it": "Gamberi",
     "category_slug": "crostacei-e-molluschi",
     "fodmap": "unknown",
@@ -3431,11 +3631,13 @@
     "vit_b9": "0",
     "vit_c": "4",
     "vit_d": "0",
-    "vit_e": "2"
+    "vit_e": "2",
+    "slug_it": "gamberi",
+    "slug_en": "gamberi"
   },
   {
     "slug": "gamberoni",
-    "name_en": "",
+    "name_en": "Gamberoni",
     "name_it": "Gamberoni",
     "category_slug": "crostacei-e-molluschi",
     "fodmap": "unknown",
@@ -3465,11 +3667,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "gamberoni",
+    "slug_en": "gamberoni"
   },
   {
     "slug": "moscardini",
-    "name_en": "",
+    "name_en": "Moscardini",
     "name_it": "Moscardini",
     "category_slug": "crostacei-e-molluschi",
     "fodmap": "unknown",
@@ -3499,11 +3703,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "moscardini",
+    "slug_en": "moscardini"
   },
   {
     "slug": "murici",
-    "name_en": "",
+    "name_en": "Murici",
     "name_it": "Murici",
     "category_slug": "crostacei-e-molluschi",
     "fodmap": "unknown",
@@ -3533,11 +3739,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "murici",
+    "slug_en": "murici"
   },
   {
     "slug": "ostriche",
-    "name_en": "",
+    "name_en": "Ostriche",
     "name_it": "Ostriche",
     "category_slug": "crostacei-e-molluschi",
     "fodmap": "unknown",
@@ -3567,11 +3775,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "4",
-    "vit_e": "4"
+    "vit_e": "4",
+    "slug_it": "ostriche",
+    "slug_en": "ostriche"
   },
   {
     "slug": "polipetti",
-    "name_en": "",
+    "name_en": "Polipetti",
     "name_it": "Polipetti",
     "category_slug": "crostacei-e-molluschi",
     "fodmap": "unknown",
@@ -3601,11 +3811,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "polipetti",
+    "slug_en": "polipetti"
   },
   {
     "slug": "polpa-di-granchio",
-    "name_en": "",
+    "name_en": "Polpa Di Granchio",
     "name_it": "Polpa di granchio",
     "category_slug": "crostacei-e-molluschi",
     "fodmap": "unknown",
@@ -3635,11 +3847,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "polpa-di-granchio",
+    "slug_en": "polpa-di-granchio"
   },
   {
     "slug": "polpo",
-    "name_en": "",
+    "name_en": "Polpo",
     "name_it": "Polpo",
     "category_slug": "crostacei-e-molluschi",
     "fodmap": "unknown",
@@ -3669,11 +3883,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "polpo",
+    "slug_en": "polpo"
   },
   {
     "slug": "scampi",
-    "name_en": "",
+    "name_en": "Scampi",
     "name_it": "Scampi",
     "category_slug": "crostacei-e-molluschi",
     "fodmap": "unknown",
@@ -3703,11 +3919,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "scampi",
+    "slug_en": "scampi"
   },
   {
     "slug": "seppia",
-    "name_en": "",
+    "name_en": "Seppia",
     "name_it": "Seppia",
     "category_slug": "crostacei-e-molluschi",
     "fodmap": "unknown",
@@ -3737,11 +3955,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "2"
+    "vit_e": "2",
+    "slug_it": "seppia",
+    "slug_en": "seppia"
   },
   {
     "slug": "seppioline",
-    "name_en": "",
+    "name_en": "Seppioline",
     "name_it": "Seppioline",
     "category_slug": "crostacei-e-molluschi",
     "fodmap": "unknown",
@@ -3771,11 +3991,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "seppioline",
+    "slug_en": "seppioline"
   },
   {
     "slug": "tartufi-di-mare",
-    "name_en": "",
+    "name_en": "Tartufi Di Mare",
     "name_it": "Tartufi di mare",
     "category_slug": "crostacei-e-molluschi",
     "fodmap": "unknown",
@@ -3805,11 +4027,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "tartufi-di-mare",
+    "slug_en": "tartufi-di-mare"
   },
   {
     "slug": "telline",
-    "name_en": "",
+    "name_en": "Telline",
     "name_it": "Telline",
     "category_slug": "crostacei-e-molluschi",
     "fodmap": "unknown",
@@ -3839,11 +4063,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "telline",
+    "slug_en": "telline"
   },
   {
     "slug": "vongole",
-    "name_en": "",
+    "name_en": "Vongole",
     "name_it": "Vongole",
     "category_slug": "crostacei-e-molluschi",
     "fodmap": "unknown",
@@ -3873,11 +4099,13 @@
     "vit_b9": "0",
     "vit_c": "52",
     "vit_d": "0",
-    "vit_e": "4"
+    "vit_e": "4",
+    "slug_it": "vongole",
+    "slug_en": "vongole"
   },
   {
     "slug": "caramello",
-    "name_en": "",
+    "name_en": "Caramello",
     "name_it": "Caramello",
     "category_slug": "dolcificanti",
     "fodmap": "unknown",
@@ -3907,11 +4135,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "caramello",
+    "slug_en": "caramello"
   },
   {
     "slug": "melassa",
-    "name_en": "",
+    "name_en": "Melassa",
     "name_it": "Melassa",
     "category_slug": "dolcificanti",
     "fodmap": "unknown",
@@ -3941,11 +4171,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "melassa",
+    "slug_en": "melassa"
   },
   {
     "slug": "miele",
-    "name_en": "",
+    "name_en": "Miele",
     "name_it": "Miele",
     "category_slug": "dolcificanti",
     "fodmap": "unknown",
@@ -3975,11 +4207,13 @@
     "vit_b9": "0",
     "vit_c": "1",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "miele",
+    "slug_en": "miele"
   },
   {
     "slug": "sciroppo-dacero",
-    "name_en": "",
+    "name_en": "Sciroppo Dacero",
     "name_it": "Sciroppo d'acero",
     "category_slug": "dolcificanti",
     "fodmap": "unknown",
@@ -4009,11 +4243,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "sciroppo-dacero",
+    "slug_en": "sciroppo-dacero"
   },
   {
     "slug": "sciroppo-dagave",
-    "name_en": "",
+    "name_en": "Sciroppo Dagave",
     "name_it": "Sciroppo d'agave",
     "category_slug": "dolcificanti",
     "fodmap": "unknown",
@@ -4043,11 +4279,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "sciroppo-dagave",
+    "slug_en": "sciroppo-dagave"
   },
   {
     "slug": "zucchero",
-    "name_en": "",
+    "name_en": "Zucchero",
     "name_it": "Zucchero",
     "category_slug": "dolcificanti",
     "fodmap": "unknown",
@@ -4077,11 +4315,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "zucchero",
+    "slug_en": "zucchero"
   },
   {
     "slug": "zucchero-a-velo",
-    "name_en": "",
+    "name_en": "Zucchero A Velo",
     "name_it": "Zucchero a velo",
     "category_slug": "dolcificanti",
     "fodmap": "unknown",
@@ -4111,11 +4351,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "zucchero-a-velo",
+    "slug_en": "zucchero-a-velo"
   },
   {
     "slug": "zucchero-di-canna",
-    "name_en": "",
+    "name_en": "Zucchero Di Canna",
     "name_it": "Zucchero di canna",
     "category_slug": "dolcificanti",
     "fodmap": "unknown",
@@ -4145,11 +4387,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "zucchero-di-canna",
+    "slug_en": "zucchero-di-canna"
   },
   {
     "slug": "alloro",
-    "name_en": "",
+    "name_en": "Alloro",
     "name_it": "Alloro",
     "category_slug": "erbe-aromatiche",
     "fodmap": "unknown",
@@ -4179,11 +4423,13 @@
     "vit_b9": "3710",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "2"
+    "vit_e": "2",
+    "slug_it": "alloro",
+    "slug_en": "alloro"
   },
   {
     "slug": "aneto",
-    "name_en": "",
+    "name_en": "Aneto",
     "name_it": "Aneto",
     "category_slug": "erbe-aromatiche",
     "fodmap": "unknown",
@@ -4213,11 +4459,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "aneto",
+    "slug_en": "aneto"
   },
   {
     "slug": "basilico",
-    "name_en": "",
+    "name_en": "Basilico",
     "name_it": "Basilico",
     "category_slug": "erbe-aromatiche",
     "fodmap": "unknown",
@@ -4247,11 +4495,13 @@
     "vit_b9": "3950",
     "vit_c": "26",
     "vit_d": "0",
-    "vit_e": "2"
+    "vit_e": "2",
+    "slug_it": "basilico",
+    "slug_en": "basilico"
   },
   {
     "slug": "coriandolo",
-    "name_en": "",
+    "name_en": "Coriandolo",
     "name_it": "Coriandolo",
     "category_slug": "erbe-aromatiche",
     "fodmap": "unknown",
@@ -4281,11 +4531,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "coriandolo",
+    "slug_en": "coriandolo"
   },
   {
     "slug": "dragoncello",
-    "name_en": "",
+    "name_en": "Dragoncello",
     "name_it": "Dragoncello",
     "category_slug": "erbe-aromatiche",
     "fodmap": "unknown",
@@ -4315,11 +4567,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "dragoncello",
+    "slug_en": "dragoncello"
   },
   {
     "slug": "erba-cipollina",
-    "name_en": "",
+    "name_en": "Erba Cipollina",
     "name_it": "Erba cipollina",
     "category_slug": "erbe-aromatiche",
     "fodmap": "unknown",
@@ -4349,11 +4603,13 @@
     "vit_b9": "2300",
     "vit_c": "45",
     "vit_d": "0",
-    "vit_e": "2"
+    "vit_e": "2",
+    "slug_it": "erba-cipollina",
+    "slug_en": "erba-cipollina"
   },
   {
     "slug": "ginepro",
-    "name_en": "",
+    "name_en": "Ginepro",
     "name_it": "Ginepro",
     "category_slug": "erbe-aromatiche",
     "fodmap": "unknown",
@@ -4383,11 +4639,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "ginepro",
+    "slug_en": "ginepro"
   },
   {
     "slug": "lavanda",
-    "name_en": "",
+    "name_en": "Lavanda",
     "name_it": "Lavanda",
     "category_slug": "erbe-aromatiche",
     "fodmap": "unknown",
@@ -4417,11 +4675,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "lavanda",
+    "slug_en": "lavanda"
   },
   {
     "slug": "maggiorana",
-    "name_en": "",
+    "name_en": "Maggiorana",
     "name_it": "Maggiorana",
     "category_slug": "erbe-aromatiche",
     "fodmap": "unknown",
@@ -4451,11 +4711,13 @@
     "vit_b9": "4840",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "9"
+    "vit_e": "9",
+    "slug_it": "maggiorana",
+    "slug_en": "maggiorana"
   },
   {
     "slug": "menta",
-    "name_en": "",
+    "name_en": "Menta",
     "name_it": "Menta",
     "category_slug": "erbe-aromatiche",
     "fodmap": "unknown",
@@ -4485,11 +4747,13 @@
     "vit_b9": "740",
     "vit_c": "31",
     "vit_d": "0",
-    "vit_e": "5"
+    "vit_e": "5",
+    "slug_it": "menta",
+    "slug_en": "menta"
   },
   {
     "slug": "origano",
-    "name_en": "",
+    "name_en": "Origano",
     "name_it": "Origano",
     "category_slug": "erbe-aromatiche",
     "fodmap": "unknown",
@@ -4519,11 +4783,13 @@
     "vit_b9": "4140",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "2"
+    "vit_e": "2",
+    "slug_it": "origano",
+    "slug_en": "origano"
   },
   {
     "slug": "prezzemolo",
-    "name_en": "",
+    "name_en": "Prezzemolo",
     "name_it": "Prezzemolo",
     "category_slug": "erbe-aromatiche",
     "fodmap": "unknown",
@@ -4553,11 +4819,13 @@
     "vit_b9": "7072",
     "vit_c": "202",
     "vit_d": "0",
-    "vit_e": "2"
+    "vit_e": "2",
+    "slug_it": "prezzemolo",
+    "slug_en": "prezzemolo"
   },
   {
     "slug": "rosmarino",
-    "name_en": "",
+    "name_en": "Rosmarino",
     "name_it": "Rosmarino",
     "category_slug": "erbe-aromatiche",
     "fodmap": "unknown",
@@ -4587,11 +4855,13 @@
     "vit_b9": "550",
     "vit_c": "29",
     "vit_d": "0",
-    "vit_e": "2"
+    "vit_e": "2",
+    "slug_it": "rosmarino",
+    "slug_en": "rosmarino"
   },
   {
     "slug": "salvia",
-    "name_en": "",
+    "name_en": "Salvia",
     "name_it": "Salvia",
     "category_slug": "erbe-aromatiche",
     "fodmap": "unknown",
@@ -4621,11 +4891,13 @@
     "vit_b9": "1290",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "2"
+    "vit_e": "2",
+    "slug_it": "salvia",
+    "slug_en": "salvia"
   },
   {
     "slug": "timo",
-    "name_en": "",
+    "name_en": "Timo",
     "name_it": "Timo",
     "category_slug": "erbe-aromatiche",
     "fodmap": "unknown",
@@ -4655,11 +4927,13 @@
     "vit_b9": "760",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "2"
+    "vit_e": "2",
+    "slug_it": "timo",
+    "slug_en": "timo"
   },
   {
     "slug": "farina-0",
-    "name_en": "",
+    "name_en": "Farina 0",
     "name_it": "Farina 0",
     "category_slug": "farine",
     "fodmap": "unknown",
@@ -4689,11 +4963,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "farina-0",
+    "slug_en": "farina-0"
   },
   {
     "slug": "farina-00",
-    "name_en": "",
+    "name_en": "Farina 00",
     "name_it": "Farina 00",
     "category_slug": "farine",
     "fodmap": "unknown",
@@ -4723,11 +4999,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "farina-00",
+    "slug_en": "farina-00"
   },
   {
     "slug": "farina-di-canapa",
-    "name_en": "",
+    "name_en": "Farina Di Canapa",
     "name_it": "Farina di canapa",
     "category_slug": "farine",
     "fodmap": "unknown",
@@ -4757,11 +5035,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "farina-di-canapa",
+    "slug_en": "farina-di-canapa"
   },
   {
     "slug": "farina-di-ceci",
-    "name_en": "",
+    "name_en": "Farina Di Ceci",
     "name_it": "Farina di ceci",
     "category_slug": "farine",
     "fodmap": "unknown",
@@ -4791,11 +5071,13 @@
     "vit_b9": "180",
     "vit_c": "5",
     "vit_d": "0",
-    "vit_e": "3"
+    "vit_e": "3",
+    "slug_it": "farina-di-ceci",
+    "slug_en": "farina-di-ceci"
   },
   {
     "slug": "farina-di-cocco",
-    "name_en": "",
+    "name_en": "Farina Di Cocco",
     "name_it": "Farina di cocco",
     "category_slug": "farine",
     "fodmap": "unknown",
@@ -4825,11 +5107,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "farina-di-cocco",
+    "slug_en": "farina-di-cocco"
   },
   {
     "slug": "farina-di-farro",
-    "name_en": "",
+    "name_en": "Farina Di Farro",
     "name_it": "Farina di farro",
     "category_slug": "farine",
     "fodmap": "unknown",
@@ -4859,11 +5143,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "farina-di-farro",
+    "slug_en": "farina-di-farro"
   },
   {
     "slug": "farina-di-grano-saraceno",
-    "name_en": "",
+    "name_en": "Farina Di Grano Saraceno",
     "name_it": "Farina di grano saraceno",
     "category_slug": "farine",
     "fodmap": "unknown",
@@ -4893,11 +5179,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "farina-di-grano-saraceno",
+    "slug_en": "farina-di-grano-saraceno"
   },
   {
     "slug": "farina-di-mais",
-    "name_en": "",
+    "name_en": "Farina Di Mais",
     "name_it": "Farina di mais",
     "category_slug": "farine",
     "fodmap": "unknown",
@@ -4927,11 +5215,13 @@
     "vit_b9": "402",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "farina-di-mais",
+    "slug_en": "farina-di-mais"
   },
   {
     "slug": "farina-di-mandorle",
-    "name_en": "",
+    "name_en": "Farina Di Mandorle",
     "name_it": "Farina di mandorle",
     "category_slug": "farine",
     "fodmap": "unknown",
@@ -4961,11 +5251,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "farina-di-mandorle",
+    "slug_en": "farina-di-mandorle"
   },
   {
     "slug": "farina-di-riso",
-    "name_en": "",
+    "name_en": "Farina Di Riso",
     "name_it": "Farina di riso",
     "category_slug": "farine",
     "fodmap": "unknown",
@@ -4995,11 +5287,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "farina-di-riso",
+    "slug_en": "farina-di-riso"
   },
   {
     "slug": "farina-di-segale",
-    "name_en": "",
+    "name_en": "Farina Di Segale",
     "name_it": "Farina di segale",
     "category_slug": "farine",
     "fodmap": "unknown",
@@ -5029,11 +5323,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "2"
+    "vit_e": "2",
+    "slug_it": "farina-di-segale",
+    "slug_en": "farina-di-segale"
   },
   {
     "slug": "farina-integrale",
-    "name_en": "",
+    "name_en": "Farina Integrale",
     "name_it": "Farina integrale",
     "category_slug": "farine",
     "fodmap": "unknown",
@@ -5063,11 +5359,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "farina-integrale",
+    "slug_en": "farina-integrale"
   },
   {
     "slug": "fecola-di-patate",
-    "name_en": "",
+    "name_en": "Fecola Di Patate",
     "name_it": "Fecola di patate",
     "category_slug": "farine",
     "fodmap": "unknown",
@@ -5097,11 +5395,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "fecola-di-patate",
+    "slug_en": "fecola-di-patate"
   },
   {
     "slug": "frumina",
-    "name_en": "",
+    "name_en": "Frumina",
     "name_it": "Frumina",
     "category_slug": "farine",
     "fodmap": "unknown",
@@ -5131,11 +5431,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "frumina",
+    "slug_en": "frumina"
   },
   {
     "slug": "maizena",
-    "name_en": "",
+    "name_en": "Maizena",
     "name_it": "Maizena",
     "category_slug": "farine",
     "fodmap": "unknown",
@@ -5165,11 +5467,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "maizena",
+    "slug_en": "maizena"
   },
   {
     "slug": "semola",
-    "name_en": "",
+    "name_en": "Semola",
     "name_it": "Semola",
     "category_slug": "farine",
     "fodmap": "unknown",
@@ -5199,11 +5503,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "semola",
+    "slug_en": "semola"
   },
   {
     "slug": "semolino",
-    "name_en": "",
+    "name_en": "Semolino",
     "name_it": "Semolino",
     "category_slug": "farine",
     "fodmap": "unknown",
@@ -5233,11 +5539,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "semolino",
+    "slug_en": "semolino"
   },
   {
     "slug": "brie",
-    "name_en": "",
+    "name_en": "Brie",
     "name_it": "Brie",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -5267,11 +5575,13 @@
     "vit_b9": "210",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "brie",
+    "slug_en": "brie"
   },
   {
     "slug": "caciocavallo",
-    "name_en": "",
+    "name_en": "Caciocavallo",
     "name_it": "Caciocavallo",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -5301,11 +5611,13 @@
     "vit_b9": "252",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "caciocavallo",
+    "slug_en": "caciocavallo"
   },
   {
     "slug": "caciotta",
-    "name_en": "",
+    "name_en": "Caciotta",
     "name_it": "Caciotta",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -5335,11 +5647,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "caciotta",
+    "slug_en": "caciotta"
   },
   {
     "slug": "caprino",
-    "name_en": "",
+    "name_en": "Caprino",
     "name_it": "Caprino",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -5369,11 +5683,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "caprino",
+    "slug_en": "caprino"
   },
   {
     "slug": "cheddar",
-    "name_en": "",
+    "name_en": "Cheddar",
     "name_it": "Cheddar",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -5403,11 +5719,13 @@
     "vit_b9": "260",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "cheddar",
+    "slug_en": "cheddar"
   },
   {
     "slug": "crescenza",
-    "name_en": "",
+    "name_en": "Crescenza",
     "name_it": "Crescenza",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -5437,11 +5755,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "crescenza",
+    "slug_en": "crescenza"
   },
   {
     "slug": "emmental",
-    "name_en": "",
+    "name_en": "Emmental",
     "name_it": "Emmental",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -5471,11 +5791,13 @@
     "vit_b9": "70",
     "vit_c": "1",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "emmental",
+    "slug_en": "emmental"
   },
   {
     "slug": "feta",
-    "name_en": "",
+    "name_en": "Feta",
     "name_it": "Feta",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -5505,11 +5827,13 @@
     "vit_b9": "33",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "feta",
+    "slug_en": "feta"
   },
   {
     "slug": "fior-di-latte",
-    "name_en": "",
+    "name_en": "Fior Di Latte",
     "name_it": "Fior di latte",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -5539,11 +5863,13 @@
     "vit_b9": "180",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "fior-di-latte",
+    "slug_en": "fior-di-latte"
   },
   {
     "slug": "fontina",
-    "name_en": "",
+    "name_en": "Fontina",
     "name_it": "Fontina",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -5573,11 +5899,13 @@
     "vit_b9": "80",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "fontina",
+    "slug_en": "fontina"
   },
   {
     "slug": "formaggio-asiago",
-    "name_en": "",
+    "name_en": "Formaggio Asiago",
     "name_it": "Formaggio asiago",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -5607,11 +5935,13 @@
     "vit_b9": "150",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "formaggio-asiago",
+    "slug_en": "formaggio-asiago"
   },
   {
     "slug": "formaggio-philadelphia",
-    "name_en": "",
+    "name_en": "Formaggio Philadelphia",
     "name_it": "Formaggio philadelphia",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -5641,11 +5971,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "formaggio-philadelphia",
+    "slug_en": "formaggio-philadelphia"
   },
   {
     "slug": "galbanino",
-    "name_en": "",
+    "name_en": "Galbanino",
     "name_it": "Galbanino",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -5675,11 +6007,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "galbanino",
+    "slug_en": "galbanino"
   },
   {
     "slug": "gorgonzola",
-    "name_en": "",
+    "name_en": "Gorgonzola",
     "name_it": "Gorgonzola",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -5709,11 +6043,13 @@
     "vit_b9": "168",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "gorgonzola",
+    "slug_en": "gorgonzola"
   },
   {
     "slug": "grana",
-    "name_en": "",
+    "name_en": "Grana",
     "name_it": "Grana",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -5743,11 +6079,13 @@
     "vit_b9": "170",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "grana",
+    "slug_en": "grana"
   },
   {
     "slug": "gruviera",
-    "name_en": "",
+    "name_en": "Gruviera",
     "name_it": "Gruviera",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -5777,11 +6115,13 @@
     "vit_b9": "196",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "gruviera",
+    "slug_en": "gruviera"
   },
   {
     "slug": "mascarpone",
-    "name_en": "",
+    "name_en": "Mascarpone",
     "name_it": "Mascarpone",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -5811,11 +6151,13 @@
     "vit_b9": "258",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "mascarpone",
+    "slug_en": "mascarpone"
   },
   {
     "slug": "parmigiano",
-    "name_en": "",
+    "name_en": "Parmigiano",
     "name_it": "Parmigiano",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -5845,11 +6187,13 @@
     "vit_b9": "110",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "parmigiano",
+    "slug_en": "parmigiano"
   },
   {
     "slug": "pecorino",
-    "name_en": "",
+    "name_en": "Pecorino",
     "name_it": "Pecorino",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -5879,11 +6223,13 @@
     "vit_b9": "24",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "pecorino",
+    "slug_en": "pecorino"
   },
   {
     "slug": "provolino",
-    "name_en": "",
+    "name_en": "Provolino",
     "name_it": "Provolino",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -5913,11 +6259,13 @@
     "vit_b9": "167",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "provolino",
+    "slug_en": "provolino"
   },
   {
     "slug": "provolone",
-    "name_en": "",
+    "name_en": "Provolone",
     "name_it": "Provolone",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -5947,11 +6295,13 @@
     "vit_b9": "251",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "provolone",
+    "slug_en": "provolone"
   },
   {
     "slug": "robiola",
-    "name_en": "",
+    "name_en": "Robiola",
     "name_it": "Robiola",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -5981,11 +6331,13 @@
     "vit_b9": "105",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "robiola",
+    "slug_en": "robiola"
   },
   {
     "slug": "scamorza",
-    "name_en": "",
+    "name_en": "Scamorza",
     "name_it": "Scamorza",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -6015,11 +6367,13 @@
     "vit_b9": "170",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "scamorza",
+    "slug_en": "scamorza"
   },
   {
     "slug": "sottilette",
-    "name_en": "",
+    "name_en": "Sottilette",
     "name_it": "Sottilette",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -6049,11 +6403,13 @@
     "vit_b9": "95",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "sottilette",
+    "slug_en": "sottilette"
   },
   {
     "slug": "stracchino",
-    "name_en": "",
+    "name_en": "Stracchino",
     "name_it": "Stracchino",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -6083,11 +6439,13 @@
     "vit_b9": "105",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "stracchino",
+    "slug_en": "stracchino"
   },
   {
     "slug": "taleggio",
-    "name_en": "",
+    "name_en": "Taleggio",
     "name_it": "Taleggio",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -6117,11 +6475,13 @@
     "vit_b9": "315",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "taleggio",
+    "slug_en": "taleggio"
   },
   {
     "slug": "tofu",
-    "name_en": "",
+    "name_en": "Tofu",
     "name_it": "Tofu",
     "category_slug": "formaggi",
     "fodmap": "unknown",
@@ -6151,11 +6511,13 @@
     "vit_b9": "54",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "tofu",
+    "slug_en": "tofu"
   },
   {
     "slug": "albicocche",
-    "name_en": "",
+    "name_en": "Albicocche",
     "name_it": "Albicocche",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -6185,11 +6547,13 @@
     "vit_b9": "2298",
     "vit_c": "14",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "albicocche",
+    "slug_en": "albicocche"
   },
   {
     "slug": "amarene",
-    "name_en": "",
+    "name_en": "Amarene",
     "name_it": "Amarene",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -6219,11 +6583,13 @@
     "vit_b9": "169",
     "vit_c": "8",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "amarene",
+    "slug_en": "amarene"
   },
   {
     "slug": "anguria",
-    "name_en": "",
+    "name_en": "Anguria",
     "name_it": "Anguria",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -6253,11 +6619,13 @@
     "vit_b9": "427",
     "vit_c": "15",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "anguria",
+    "slug_en": "anguria"
   },
   {
     "slug": "arance",
-    "name_en": "",
+    "name_en": "Arance",
     "name_it": "Arance",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -6287,11 +6655,13 @@
     "vit_b9": "532",
     "vit_c": "62",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "arance",
+    "slug_en": "arance"
   },
   {
     "slug": "banane",
-    "name_en": "",
+    "name_en": "Banane",
     "name_it": "Banane",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -6321,11 +6691,13 @@
     "vit_b9": "415",
     "vit_c": "25",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "banane",
+    "slug_en": "banane"
   },
   {
     "slug": "cachi",
-    "name_en": "",
+    "name_en": "Cachi",
     "name_it": "Cachi",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -6355,11 +6727,13 @@
     "vit_b9": "1466",
     "vit_c": "24",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "cachi",
+    "slug_en": "cachi"
   },
   {
     "slug": "ciliegie",
-    "name_en": "",
+    "name_en": "Ciliegie",
     "name_it": "Ciliegie",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -6389,11 +6763,13 @@
     "vit_b9": "133",
     "vit_c": "13",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "ciliegie",
+    "slug_en": "ciliegie"
   },
   {
     "slug": "fichi",
-    "name_en": "",
+    "name_en": "Fichi",
     "name_it": "Fichi",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -6423,11 +6799,13 @@
     "vit_b9": "120",
     "vit_c": "9",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "fichi",
+    "slug_en": "fichi"
   },
   {
     "slug": "fichi-dindia",
-    "name_en": "",
+    "name_en": "Fichi Dindia",
     "name_it": "Fichi d'india",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -6457,11 +6835,13 @@
     "vit_b9": "94",
     "vit_c": "3",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "fichi-dindia",
+    "slug_en": "fichi-dindia"
   },
   {
     "slug": "fragole",
-    "name_en": "",
+    "name_en": "Fragole",
     "name_it": "Fragole",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -6491,11 +6871,13 @@
     "vit_b9": "0",
     "vit_c": "57",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "fragole",
+    "slug_en": "fragole"
   },
   {
     "slug": "fragoline",
-    "name_en": "",
+    "name_en": "Fragoline",
     "name_it": "Fragoline",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -6525,11 +6907,13 @@
     "vit_b9": "105",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "fragoline",
+    "slug_en": "fragoline"
   },
   {
     "slug": "frutti-di-bosco",
-    "name_en": "",
+    "name_en": "Frutti Di Bosco",
     "name_it": "Frutti di bosco",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -6559,11 +6943,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "frutti-di-bosco",
+    "slug_en": "frutti-di-bosco"
   },
   {
     "slug": "gelsi",
-    "name_en": "",
+    "name_en": "Gelsi",
     "name_it": "Gelsi",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -6593,11 +6979,13 @@
     "vit_b9": "0",
     "vit_c": "10",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "gelsi",
+    "slug_en": "gelsi"
   },
   {
     "slug": "kiwi",
-    "name_en": "",
+    "name_en": "Kiwi",
     "name_it": "Kiwi",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -6627,11 +7015,13 @@
     "vit_b9": "43",
     "vit_c": "98",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "kiwi",
+    "slug_en": "kiwi"
   },
   {
     "slug": "lamponi",
-    "name_en": "",
+    "name_en": "Lamponi",
     "name_it": "Lamponi",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -6661,11 +7051,13 @@
     "vit_b9": "78",
     "vit_c": "25",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "lamponi",
+    "slug_en": "lamponi"
   },
   {
     "slug": "limone",
-    "name_en": "",
+    "name_en": "Limone",
     "name_it": "Limone",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -6695,11 +7087,13 @@
     "vit_b9": "0",
     "vit_c": "78",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "limone",
+    "slug_en": "limone"
   },
   {
     "slug": "mandarini",
-    "name_en": "",
+    "name_en": "Mandarini",
     "name_it": "Mandarini",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -6729,11 +7123,13 @@
     "vit_b9": "135",
     "vit_c": "52",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "mandarini",
+    "slug_en": "mandarini"
   },
   {
     "slug": "mapo",
-    "name_en": "",
+    "name_en": "Mapo",
     "name_it": "Mapo",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -6763,11 +7159,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "mapo",
+    "slug_en": "mapo"
   },
   {
     "slug": "mela",
-    "name_en": "",
+    "name_en": "Mela",
     "name_it": "Mela",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -6797,11 +7195,13 @@
     "vit_b9": "51",
     "vit_c": "5",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "mela",
+    "slug_en": "mela"
   },
   {
     "slug": "melograno",
-    "name_en": "",
+    "name_en": "Melograno",
     "name_it": "Melograno",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -6831,11 +7231,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "melograno",
+    "slug_en": "melograno"
   },
   {
     "slug": "melone",
-    "name_en": "",
+    "name_en": "Melone",
     "name_it": "Melone",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -6865,11 +7267,13 @@
     "vit_b9": "59",
     "vit_c": "24",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "melone",
+    "slug_en": "melone"
   },
   {
     "slug": "mirtilli",
-    "name_en": "",
+    "name_en": "Mirtilli",
     "name_it": "Mirtilli",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -6899,11 +7303,13 @@
     "vit_b9": "31",
     "vit_c": "17",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "mirtilli",
+    "slug_en": "mirtilli"
   },
   {
     "slug": "more",
-    "name_en": "",
+    "name_en": "More",
     "name_it": "More",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -6933,11 +7339,13 @@
     "vit_b9": "100",
     "vit_c": "20",
     "vit_d": "0",
-    "vit_e": "3"
+    "vit_e": "3",
+    "slug_it": "more",
+    "slug_en": "more"
   },
   {
     "slug": "nespole",
-    "name_en": "",
+    "name_en": "Nespole",
     "name_it": "Nespole",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -6967,11 +7375,13 @@
     "vit_b9": "245",
     "vit_c": "17",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "nespole",
+    "slug_en": "nespole"
   },
   {
     "slug": "olive-nere",
-    "name_en": "",
+    "name_en": "Olive Nere",
     "name_it": "Olive nere",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -7001,11 +7411,13 @@
     "vit_b9": "446",
     "vit_c": "27",
     "vit_d": "0",
-    "vit_e": "3"
+    "vit_e": "3",
+    "slug_it": "olive-nere",
+    "slug_en": "olive-nere"
   },
   {
     "slug": "olive-verdi",
-    "name_en": "",
+    "name_en": "Olive Verdi",
     "name_it": "Olive verdi",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -7035,11 +7447,13 @@
     "vit_b9": "343",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "2"
+    "vit_e": "2",
+    "slug_it": "olive-verdi",
+    "slug_en": "olive-verdi"
   },
   {
     "slug": "pera",
-    "name_en": "",
+    "name_en": "Pera",
     "name_it": "Pera",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -7069,11 +7483,13 @@
     "vit_b9": "0",
     "vit_c": "4",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "pera",
+    "slug_en": "pera"
   },
   {
     "slug": "pesca",
-    "name_en": "",
+    "name_en": "Pesca",
     "name_it": "Pesca",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -7103,11 +7519,13 @@
     "vit_b9": "178",
     "vit_c": "4",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "pesca",
+    "slug_en": "pesca"
   },
   {
     "slug": "prugne",
-    "name_en": "",
+    "name_en": "Prugne",
     "name_it": "Prugne",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -7137,11 +7555,13 @@
     "vit_b9": "108",
     "vit_c": "6",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "prugne",
+    "slug_en": "prugne"
   },
   {
     "slug": "ribes",
-    "name_en": "",
+    "name_en": "Ribes",
     "name_it": "Ribes",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -7171,11 +7591,13 @@
     "vit_b9": "26",
     "vit_c": "41",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "ribes",
+    "slug_en": "ribes"
   },
   {
     "slug": "uva",
-    "name_en": "",
+    "name_en": "Uva",
     "name_it": "Uva",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -7205,11 +7627,13 @@
     "vit_b9": "26",
     "vit_c": "6",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "uva",
+    "slug_en": "uva"
   },
   {
     "slug": "ananas",
-    "name_en": "",
+    "name_en": "Ananas",
     "name_it": "Ananas",
     "category_slug": "frutta-esotica",
     "fodmap": "unknown",
@@ -7239,11 +7663,13 @@
     "vit_b9": "74",
     "vit_c": "30",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "ananas",
+    "slug_en": "ananas"
   },
   {
     "slug": "avocado",
-    "name_en": "",
+    "name_en": "Avocado",
     "name_it": "Avocado",
     "category_slug": "frutta-esotica",
     "fodmap": "unknown",
@@ -7273,11 +7699,13 @@
     "vit_b9": "111",
     "vit_c": "24",
     "vit_d": "0",
-    "vit_e": "6"
+    "vit_e": "6",
+    "slug_it": "avocado",
+    "slug_en": "avocado"
   },
   {
     "slug": "cocco",
-    "name_en": "",
+    "name_en": "Cocco",
     "name_it": "Cocco",
     "category_slug": "frutta-esotica",
     "fodmap": "unknown",
@@ -7307,11 +7735,13 @@
     "vit_b9": "0",
     "vit_c": "4",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "cocco",
+    "slug_en": "cocco"
   },
   {
     "slug": "datteri",
-    "name_en": "",
+    "name_en": "Datteri",
     "name_it": "Datteri",
     "category_slug": "frutta-esotica",
     "fodmap": "unknown",
@@ -7341,11 +7771,13 @@
     "vit_b9": "33",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "datteri",
+    "slug_en": "datteri"
   },
   {
     "slug": "kumquat",
-    "name_en": "",
+    "name_en": "Kumquat",
     "name_it": "Kumquat",
     "category_slug": "frutta-esotica",
     "fodmap": "unknown",
@@ -7375,11 +7807,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "kumquat",
+    "slug_en": "kumquat"
   },
   {
     "slug": "lime",
-    "name_en": "",
+    "name_en": "Lime",
     "name_it": "Lime",
     "category_slug": "frutta-esotica",
     "fodmap": "unknown",
@@ -7409,11 +7843,13 @@
     "vit_b9": "369",
     "vit_c": "17",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "lime",
+    "slug_en": "lime"
   },
   {
     "slug": "mango",
-    "name_en": "",
+    "name_en": "Mango",
     "name_it": "Mango",
     "category_slug": "frutta-esotica",
     "fodmap": "unknown",
@@ -7443,11 +7879,13 @@
     "vit_b9": "1800",
     "vit_c": "37",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "mango",
+    "slug_en": "mango"
   },
   {
     "slug": "papaya",
-    "name_en": "",
+    "name_en": "Papaya",
     "name_it": "Papaya",
     "category_slug": "frutta-esotica",
     "fodmap": "unknown",
@@ -7477,11 +7915,13 @@
     "vit_b9": "1125",
     "vit_c": "83",
     "vit_d": "0",
-    "vit_e": "2"
+    "vit_e": "2",
+    "slug_it": "papaya",
+    "slug_en": "papaya"
   },
   {
     "slug": "platano",
-    "name_en": "",
+    "name_en": "Platano",
     "name_it": "Platano",
     "category_slug": "frutta-esotica",
     "fodmap": "unknown",
@@ -7511,11 +7951,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "platano",
+    "slug_en": "platano"
   },
   {
     "slug": "tamarindo",
-    "name_en": "",
+    "name_en": "Tamarindo",
     "name_it": "Tamarindo",
     "category_slug": "frutta-esotica",
     "fodmap": "unknown",
@@ -7545,11 +7987,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "tamarindo",
+    "slug_en": "tamarindo"
   },
   {
     "slug": "anacardi",
-    "name_en": "",
+    "name_en": "Anacardi",
     "name_it": "Anacardi",
     "category_slug": "frutta-secca",
     "fodmap": "unknown",
@@ -7579,11 +8023,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "anacardi",
+    "slug_en": "anacardi"
   },
   {
     "slug": "arachidi",
-    "name_en": "",
+    "name_en": "Arachidi",
     "name_it": "Arachidi",
     "category_slug": "frutta-secca",
     "fodmap": "unknown",
@@ -7613,11 +8059,13 @@
     "vit_b9": "0",
     "vit_c": "3",
     "vit_d": "0",
-    "vit_e": "13"
+    "vit_e": "13",
+    "slug_it": "arachidi",
+    "slug_en": "arachidi"
   },
   {
     "slug": "bacche-di-goji",
-    "name_en": "",
+    "name_en": "Bacche Di Goji",
     "name_it": "Bacche di Goji",
     "category_slug": "frutta-secca",
     "fodmap": "unknown",
@@ -7647,11 +8095,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "bacche-di-goji",
+    "slug_en": "bacche-di-goji"
   },
   {
     "slug": "castagne",
-    "name_en": "",
+    "name_en": "Castagne",
     "name_it": "Castagne",
     "category_slug": "frutta-secca",
     "fodmap": "unknown",
@@ -7681,11 +8131,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "castagne",
+    "slug_en": "castagne"
   },
   {
     "slug": "fichi-secchi",
-    "name_en": "",
+    "name_en": "Fichi Secchi",
     "name_it": "Fichi secchi",
     "category_slug": "frutta-secca",
     "fodmap": "unknown",
@@ -7715,11 +8167,13 @@
     "vit_b9": "48",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "fichi-secchi",
+    "slug_en": "fichi-secchi"
   },
   {
     "slug": "granella-di-nocciole",
-    "name_en": "",
+    "name_en": "Granella Di Nocciole",
     "name_it": "Granella di nocciole",
     "category_slug": "frutta-secca",
     "fodmap": "unknown",
@@ -7749,11 +8203,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "granella-di-nocciole",
+    "slug_en": "granella-di-nocciole"
   },
   {
     "slug": "mandorle",
-    "name_en": "",
+    "name_en": "Mandorle",
     "name_it": "Mandorle",
     "category_slug": "frutta-secca",
     "fodmap": "unknown",
@@ -7783,11 +8239,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "100"
+    "vit_e": "100",
+    "slug_it": "mandorle",
+    "slug_en": "mandorle"
   },
   {
     "slug": "nocciole",
-    "name_en": "",
+    "name_en": "Nocciole",
     "name_it": "Nocciole",
     "category_slug": "frutta-secca",
     "fodmap": "unknown",
@@ -7817,11 +8275,13 @@
     "vit_b9": "429",
     "vit_c": "10",
     "vit_d": "0",
-    "vit_e": "59"
+    "vit_e": "59",
+    "slug_it": "nocciole",
+    "slug_en": "nocciole"
   },
   {
     "slug": "noci",
-    "name_en": "",
+    "name_en": "Noci",
     "name_it": "Noci",
     "category_slug": "frutta-secca",
     "fodmap": "unknown",
@@ -7851,11 +8311,13 @@
     "vit_b9": "62",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "7"
+    "vit_e": "7",
+    "slug_it": "noci",
+    "slug_en": "noci"
   },
   {
     "slug": "noci-pecan",
-    "name_en": "",
+    "name_en": "Noci Pecan",
     "name_it": "Noci pecan",
     "category_slug": "frutta-secca",
     "fodmap": "unknown",
@@ -7885,11 +8347,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "noci-pecan",
+    "slug_en": "noci-pecan"
   },
   {
     "slug": "pinoli",
-    "name_en": "",
+    "name_en": "Pinoli",
     "name_it": "Pinoli",
     "category_slug": "frutta-secca",
     "fodmap": "unknown",
@@ -7919,11 +8383,13 @@
     "vit_b9": "186",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "33"
+    "vit_e": "33",
+    "slug_it": "pinoli",
+    "slug_en": "pinoli"
   },
   {
     "slug": "pistacchi",
-    "name_en": "",
+    "name_en": "Pistacchi",
     "name_it": "Pistacchi",
     "category_slug": "frutta-secca",
     "fodmap": "unknown",
@@ -7953,11 +8419,13 @@
     "vit_b9": "276",
     "vit_c": "14",
     "vit_d": "0",
-    "vit_e": "10"
+    "vit_e": "10",
+    "slug_it": "pistacchi",
+    "slug_en": "pistacchi"
   },
   {
     "slug": "uvetta",
-    "name_en": "",
+    "name_en": "Uvetta",
     "name_it": "Uvetta",
     "category_slug": "frutta-secca",
     "fodmap": "unknown",
@@ -7987,11 +8455,13 @@
     "vit_b9": "18",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "uvetta",
+    "slug_en": "uvetta"
   },
   {
     "slug": "barbabietole-rosse",
-    "name_en": "",
+    "name_en": "Barbabietole Rosse",
     "name_it": "Barbabietole rosse",
     "category_slug": "funghi-e-tuberi",
     "fodmap": "unknown",
@@ -8021,11 +8491,13 @@
     "vit_b9": "0",
     "vit_c": "9",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "barbabietole-rosse",
+    "slug_en": "barbabietole-rosse"
   },
   {
     "slug": "carote",
-    "name_en": "",
+    "name_en": "Carote",
     "name_it": "Carote",
     "category_slug": "funghi-e-tuberi",
     "fodmap": "unknown",
@@ -8055,11 +8527,13 @@
     "vit_b9": "7251",
     "vit_c": "4",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "carote",
+    "slug_en": "carote"
   },
   {
     "slug": "daikon",
-    "name_en": "",
+    "name_en": "Daikon",
     "name_it": "Daikon",
     "category_slug": "funghi-e-tuberi",
     "fodmap": "unknown",
@@ -8089,11 +8563,13 @@
     "vit_b9": "0",
     "vit_c": "28",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "daikon",
+    "slug_en": "daikon"
   },
   {
     "slug": "funghi",
-    "name_en": "",
+    "name_en": "Funghi",
     "name_it": "Funghi",
     "category_slug": "funghi-e-tuberi",
     "fodmap": "unknown",
@@ -8123,11 +8599,13 @@
     "vit_b9": "0",
     "vit_c": "23",
     "vit_d": "10",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "funghi",
+    "slug_en": "funghi"
   },
   {
     "slug": "funghi-champignon",
-    "name_en": "",
+    "name_en": "Funghi Champignon",
     "name_it": "Funghi champignon",
     "category_slug": "funghi-e-tuberi",
     "fodmap": "unknown",
@@ -8157,11 +8635,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "funghi-champignon",
+    "slug_en": "funghi-champignon"
   },
   {
     "slug": "funghi-porcini",
-    "name_en": "",
+    "name_en": "Funghi Porcini",
     "name_it": "Funghi porcini",
     "category_slug": "funghi-e-tuberi",
     "fodmap": "unknown",
@@ -8191,11 +8671,13 @@
     "vit_b9": "0",
     "vit_c": "3",
     "vit_d": "3",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "funghi-porcini",
+    "slug_en": "funghi-porcini"
   },
   {
     "slug": "funghi-secchi",
-    "name_en": "",
+    "name_en": "Funghi Secchi",
     "name_it": "Funghi secchi",
     "category_slug": "funghi-e-tuberi",
     "fodmap": "unknown",
@@ -8225,11 +8707,13 @@
     "vit_b9": "0",
     "vit_c": "2",
     "vit_d": "2",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "funghi-secchi",
+    "slug_en": "funghi-secchi"
   },
   {
     "slug": "patate",
-    "name_en": "",
+    "name_en": "Patate",
     "name_it": "Patate",
     "category_slug": "funghi-e-tuberi",
     "fodmap": "unknown",
@@ -8259,11 +8743,13 @@
     "vit_b9": "22",
     "vit_c": "18",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "patate",
+    "slug_en": "patate"
   },
   {
     "slug": "patate-dolci",
-    "name_en": "",
+    "name_en": "Patate Dolci",
     "name_it": "Patate dolci",
     "category_slug": "funghi-e-tuberi",
     "fodmap": "unknown",
@@ -8293,11 +8779,13 @@
     "vit_b9": "4679",
     "vit_c": "27",
     "vit_d": "0",
-    "vit_e": "5"
+    "vit_e": "5",
+    "slug_it": "patate-dolci",
+    "slug_en": "patate-dolci"
   },
   {
     "slug": "patate-novelle",
-    "name_en": "",
+    "name_en": "Patate Novelle",
     "name_it": "Patate novelle",
     "category_slug": "funghi-e-tuberi",
     "fodmap": "unknown",
@@ -8327,11 +8815,13 @@
     "vit_b9": "0",
     "vit_c": "29",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "patate-novelle",
+    "slug_en": "patate-novelle"
   },
   {
     "slug": "ravanelli",
-    "name_en": "",
+    "name_en": "Ravanelli",
     "name_it": "Ravanelli",
     "category_slug": "funghi-e-tuberi",
     "fodmap": "unknown",
@@ -8361,11 +8851,13 @@
     "vit_b9": "0",
     "vit_c": "18",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "ravanelli",
+    "slug_en": "ravanelli"
   },
   {
     "slug": "sedano-rapa",
-    "name_en": "",
+    "name_en": "Sedano Rapa",
     "name_it": "Sedano rapa",
     "category_slug": "funghi-e-tuberi",
     "fodmap": "unknown",
@@ -8395,11 +8887,13 @@
     "vit_b9": "0",
     "vit_c": "8",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "sedano-rapa",
+    "slug_en": "sedano-rapa"
   },
   {
     "slug": "tapioca",
-    "name_en": "",
+    "name_en": "Tapioca",
     "name_it": "Tapioca",
     "category_slug": "funghi-e-tuberi",
     "fodmap": "unknown",
@@ -8429,11 +8923,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "tapioca",
+    "slug_en": "tapioca"
   },
   {
     "slug": "tartufo",
-    "name_en": "",
+    "name_en": "Tartufo",
     "name_it": "Tartufo",
     "category_slug": "funghi-e-tuberi",
     "fodmap": "unknown",
@@ -8463,11 +8959,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "tartufo",
+    "slug_en": "tartufo"
   },
   {
     "slug": "topinambur",
-    "name_en": "",
+    "name_en": "Topinambur",
     "name_it": "Topinambur",
     "category_slug": "funghi-e-tuberi",
     "fodmap": "unknown",
@@ -8497,11 +8995,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "topinambur",
+    "slug_en": "topinambur"
   },
   {
     "slug": "besciamella",
-    "name_en": "",
+    "name_en": "Besciamella",
     "name_it": "Besciamella",
     "category_slug": "latte-e-derivati",
     "fodmap": "unknown",
@@ -8531,11 +9031,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "besciamella",
+    "slug_en": "besciamella"
   },
   {
     "slug": "burro",
-    "name_en": "",
+    "name_en": "Burro",
     "name_it": "Burro",
     "category_slug": "latte-e-derivati",
     "fodmap": "unknown",
@@ -8565,11 +9067,13 @@
     "vit_b9": "450",
     "vit_c": "0",
     "vit_d": "1",
-    "vit_e": "2"
+    "vit_e": "2",
+    "slug_it": "burro",
+    "slug_en": "burro"
   },
   {
     "slug": "dulce-de-leche",
-    "name_en": "",
+    "name_en": "Dulce De Leche",
     "name_it": "Dulce de leche",
     "category_slug": "latte-e-derivati",
     "fodmap": "unknown",
@@ -8599,11 +9103,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "dulce-de-leche",
+    "slug_en": "dulce-de-leche"
   },
   {
     "slug": "fiocchi-di-latte",
-    "name_en": "",
+    "name_en": "Fiocchi Di Latte",
     "name_it": "Fiocchi di latte",
     "category_slug": "latte-e-derivati",
     "fodmap": "unknown",
@@ -8633,11 +9139,13 @@
     "vit_b9": "10",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "fiocchi-di-latte",
+    "slug_en": "fiocchi-di-latte"
   },
   {
     "slug": "gelato",
-    "name_en": "",
+    "name_en": "Gelato",
     "name_it": "Gelato",
     "category_slug": "latte-e-derivati",
     "fodmap": "unknown",
@@ -8667,11 +9175,13 @@
     "vit_b9": "60",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "gelato",
+    "slug_en": "gelato"
   },
   {
     "slug": "kefir",
-    "name_en": "",
+    "name_en": "Kefir",
     "name_it": "Kefir",
     "category_slug": "latte-e-derivati",
     "fodmap": "unknown",
@@ -8701,11 +9211,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "kefir",
+    "slug_en": "kefir"
   },
   {
     "slug": "latte",
-    "name_en": "",
+    "name_en": "Latte",
     "name_it": "Latte",
     "category_slug": "latte-e-derivati",
     "fodmap": "unknown",
@@ -8735,11 +9247,13 @@
     "vit_b9": "10",
     "vit_c": "1",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "latte",
+    "slug_en": "latte"
   },
   {
     "slug": "latte-condensato",
-    "name_en": "",
+    "name_en": "Latte Condensato",
     "name_it": "Latte condensato",
     "category_slug": "latte-e-derivati",
     "fodmap": "unknown",
@@ -8769,11 +9283,13 @@
     "vit_b9": "62",
     "vit_c": "3",
     "vit_d": "5",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "latte-condensato",
+    "slug_en": "latte-condensato"
   },
   {
     "slug": "latte-di-cocco",
-    "name_en": "",
+    "name_en": "Latte Di Cocco",
     "name_it": "Latte di cocco",
     "category_slug": "latte-e-derivati",
     "fodmap": "unknown",
@@ -8803,11 +9319,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "latte-di-cocco",
+    "slug_en": "latte-di-cocco"
   },
   {
     "slug": "latte-di-mandorla",
-    "name_en": "",
+    "name_en": "Latte Di Mandorla",
     "name_it": "Latte di mandorla",
     "category_slug": "latte-e-derivati",
     "fodmap": "unknown",
@@ -8837,11 +9355,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "latte-di-mandorla",
+    "slug_en": "latte-di-mandorla"
   },
   {
     "slug": "latte-di-soia",
-    "name_en": "",
+    "name_en": "Latte Di Soia",
     "name_it": "Latte di soia",
     "category_slug": "latte-e-derivati",
     "fodmap": "unknown",
@@ -8871,11 +9391,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "latte-di-soia",
+    "slug_en": "latte-di-soia"
   },
   {
     "slug": "latticello",
-    "name_en": "",
+    "name_en": "Latticello",
     "name_it": "Latticello",
     "category_slug": "latte-e-derivati",
     "fodmap": "unknown",
@@ -8905,11 +9427,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "latticello",
+    "slug_en": "latticello"
   },
   {
     "slug": "panna-acida",
-    "name_en": "",
+    "name_en": "Panna Acida",
     "name_it": "Panna acida",
     "category_slug": "latte-e-derivati",
     "fodmap": "unknown",
@@ -8939,11 +9463,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "panna-acida",
+    "slug_en": "panna-acida"
   },
   {
     "slug": "panna-da-cucina",
-    "name_en": "",
+    "name_en": "Panna Da Cucina",
     "name_it": "Panna da cucina",
     "category_slug": "latte-e-derivati",
     "fodmap": "unknown",
@@ -8973,11 +9499,13 @@
     "vit_b9": "110",
     "vit_c": "1",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "panna-da-cucina",
+    "slug_en": "panna-da-cucina"
   },
   {
     "slug": "panna-fresca",
-    "name_en": "",
+    "name_en": "Panna Fresca",
     "name_it": "Panna fresca",
     "category_slug": "latte-e-derivati",
     "fodmap": "unknown",
@@ -9007,11 +9535,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "panna-fresca",
+    "slug_en": "panna-fresca"
   },
   {
     "slug": "panna-per-dolci",
-    "name_en": "",
+    "name_en": "Panna Per Dolci",
     "name_it": "Panna per dolci",
     "category_slug": "latte-e-derivati",
     "fodmap": "unknown",
@@ -9041,11 +9571,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "panna-per-dolci",
+    "slug_en": "panna-per-dolci"
   },
   {
     "slug": "yogurt",
-    "name_en": "",
+    "name_en": "Yogurt",
     "name_it": "Yogurt",
     "category_slug": "latte-e-derivati",
     "fodmap": "unknown",
@@ -9075,11 +9607,13 @@
     "vit_b9": "13",
     "vit_c": "1",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "yogurt",
+    "slug_en": "yogurt"
   },
   {
     "slug": "yogurt-greco",
-    "name_en": "",
+    "name_en": "Yogurt Greco",
     "name_it": "Yogurt greco",
     "category_slug": "latte-e-derivati",
     "fodmap": "unknown",
@@ -9109,11 +9643,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "yogurt-greco",
+    "slug_en": "yogurt-greco"
   },
   {
     "slug": "burrata",
-    "name_en": "",
+    "name_en": "Burrata",
     "name_it": "Burrata",
     "category_slug": "latticini",
     "fodmap": "unknown",
@@ -9143,11 +9679,13 @@
     "vit_b9": "209",
     "vit_c": "1",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "burrata",
+    "slug_en": "burrata"
   },
   {
     "slug": "mozzarella",
-    "name_en": "",
+    "name_en": "Mozzarella",
     "name_it": "Mozzarella",
     "category_slug": "latticini",
     "fodmap": "unknown",
@@ -9177,11 +9715,13 @@
     "vit_b9": "104",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "mozzarella",
+    "slug_en": "mozzarella"
   },
   {
     "slug": "provola",
-    "name_en": "",
+    "name_en": "Provola",
     "name_it": "Provola",
     "category_slug": "latticini",
     "fodmap": "unknown",
@@ -9211,11 +9751,13 @@
     "vit_b9": "20",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "provola",
+    "slug_en": "provola"
   },
   {
     "slug": "ricotta",
-    "name_en": "",
+    "name_en": "Ricotta",
     "name_it": "Ricotta",
     "category_slug": "latticini",
     "fodmap": "unknown",
@@ -9245,11 +9787,13 @@
     "vit_b9": "92",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "ricotta",
+    "slug_en": "ricotta"
   },
   {
     "slug": "ceci",
-    "name_en": "",
+    "name_en": "Ceci",
     "name_it": "Ceci",
     "category_slug": "legumi",
     "fodmap": "unknown",
@@ -9279,11 +9823,13 @@
     "vit_b9": "180",
     "vit_c": "5",
     "vit_d": "0",
-    "vit_e": "3"
+    "vit_e": "3",
+    "slug_it": "ceci",
+    "slug_en": "ceci"
   },
   {
     "slug": "edamame",
-    "name_en": "",
+    "name_en": "Edamame",
     "name_it": "Edamame",
     "category_slug": "legumi",
     "fodmap": "unknown",
@@ -9313,11 +9859,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "edamame",
+    "slug_en": "edamame"
   },
   {
     "slug": "fagioli",
-    "name_en": "",
+    "name_en": "Fagioli",
     "name_it": "Fagioli",
     "category_slug": "legumi",
     "fodmap": "unknown",
@@ -9347,11 +9895,13 @@
     "vit_b9": "18",
     "vit_c": "3",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "fagioli",
+    "slug_en": "fagioli"
   },
   {
     "slug": "fagiolini",
-    "name_en": "",
+    "name_en": "Fagiolini",
     "name_it": "Fagiolini",
     "category_slug": "legumi",
     "fodmap": "unknown",
@@ -9381,11 +9931,13 @@
     "vit_b9": "259",
     "vit_c": "17",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "fagiolini",
+    "slug_en": "fagiolini"
   },
   {
     "slug": "fave",
-    "name_en": "",
+    "name_en": "Fave",
     "name_it": "Fave",
     "category_slug": "legumi",
     "fodmap": "unknown",
@@ -9415,11 +9967,13 @@
     "vit_b9": "220",
     "vit_c": "80",
     "vit_d": "0",
-    "vit_e": "2"
+    "vit_e": "2",
+    "slug_it": "fave",
+    "slug_en": "fave"
   },
   {
     "slug": "lenticchie",
-    "name_en": "",
+    "name_en": "Lenticchie",
     "name_it": "Lenticchie",
     "category_slug": "legumi",
     "fodmap": "unknown",
@@ -9449,11 +10003,13 @@
     "vit_b9": "60",
     "vit_c": "3",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "lenticchie",
+    "slug_en": "lenticchie"
   },
   {
     "slug": "lupini",
-    "name_en": "",
+    "name_en": "Lupini",
     "name_it": "Lupini",
     "category_slug": "legumi",
     "fodmap": "unknown",
@@ -9483,11 +10039,13 @@
     "vit_b9": "71",
     "vit_c": "3",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "lupini",
+    "slug_en": "lupini"
   },
   {
     "slug": "piselli",
-    "name_en": "",
+    "name_en": "Piselli",
     "name_it": "Piselli",
     "category_slug": "legumi",
     "fodmap": "unknown",
@@ -9517,11 +10075,13 @@
     "vit_b9": "626",
     "vit_c": "60",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "piselli",
+    "slug_en": "piselli"
   },
   {
     "slug": "soia",
-    "name_en": "",
+    "name_en": "Soia",
     "name_it": "Soia",
     "category_slug": "legumi",
     "fodmap": "unknown",
@@ -9551,11 +10111,13 @@
     "vit_b9": "12",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "3"
+    "vit_e": "3",
+    "slug_it": "soia",
+    "slug_en": "soia"
   },
   {
     "slug": "taccole",
-    "name_en": "",
+    "name_en": "Taccole",
     "name_it": "Taccole",
     "category_slug": "legumi",
     "fodmap": "unknown",
@@ -9585,11 +10147,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "taccole",
+    "slug_en": "taccole"
   },
   {
     "slug": "aceto-balsamico",
-    "name_en": "",
+    "name_en": "Aceto Balsamico",
     "name_it": "Aceto balsamico",
     "category_slug": "olio-e-condimenti",
     "fodmap": "unknown",
@@ -9619,11 +10183,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "aceto-balsamico",
+    "slug_en": "aceto-balsamico"
   },
   {
     "slug": "brodo",
-    "name_en": "",
+    "name_en": "Brodo",
     "name_it": "Brodo",
     "category_slug": "olio-e-condimenti",
     "fodmap": "unknown",
@@ -9653,11 +10219,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "brodo",
+    "slug_en": "brodo"
   },
   {
     "slug": "burro-di-arachidi",
-    "name_en": "",
+    "name_en": "Burro Di Arachidi",
     "name_it": "Burro di arachidi",
     "category_slug": "olio-e-condimenti",
     "fodmap": "unknown",
@@ -9687,11 +10255,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "5"
+    "vit_e": "5",
+    "slug_it": "burro-di-arachidi",
+    "slug_en": "burro-di-arachidi"
   },
   {
     "slug": "colatura-di-alici",
-    "name_en": "",
+    "name_en": "Colatura Di Alici",
     "name_it": "Colatura di alici",
     "category_slug": "olio-e-condimenti",
     "fodmap": "unknown",
@@ -9721,11 +10291,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "colatura-di-alici",
+    "slug_en": "colatura-di-alici"
   },
   {
     "slug": "ketchup",
-    "name_en": "",
+    "name_en": "Ketchup",
     "name_it": "Ketchup",
     "category_slug": "olio-e-condimenti",
     "fodmap": "unknown",
@@ -9755,11 +10327,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "ketchup",
+    "slug_en": "ketchup"
   },
   {
     "slug": "maionese",
-    "name_en": "",
+    "name_en": "Maionese",
     "name_it": "Maionese",
     "category_slug": "olio-e-condimenti",
     "fodmap": "unknown",
@@ -9789,11 +10363,13 @@
     "vit_b9": "100",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "19"
+    "vit_e": "19",
+    "slug_it": "maionese",
+    "slug_en": "maionese"
   },
   {
     "slug": "margarina",
-    "name_en": "",
+    "name_en": "Margarina",
     "name_it": "Margarina",
     "category_slug": "olio-e-condimenti",
     "fodmap": "unknown",
@@ -9823,11 +10399,13 @@
     "vit_b9": "20",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "12"
+    "vit_e": "12",
+    "slug_it": "margarina",
+    "slug_en": "margarina"
   },
   {
     "slug": "miso",
-    "name_en": "",
+    "name_en": "Miso",
     "name_it": "Miso",
     "category_slug": "olio-e-condimenti",
     "fodmap": "unknown",
@@ -9857,11 +10435,13 @@
     "vit_b9": "54",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "miso",
+    "slug_en": "miso"
   },
   {
     "slug": "nero-di-seppia",
-    "name_en": "",
+    "name_en": "Nero Di Seppia",
     "name_it": "Nero di seppia",
     "category_slug": "olio-e-condimenti",
     "fodmap": "unknown",
@@ -9891,11 +10471,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "nero-di-seppia",
+    "slug_en": "nero-di-seppia"
   },
   {
     "slug": "olio-di-cocco",
-    "name_en": "",
+    "name_en": "Olio Di Cocco",
     "name_it": "Olio di cocco",
     "category_slug": "olio-e-condimenti",
     "fodmap": "unknown",
@@ -9925,11 +10507,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "olio-di-cocco",
+    "slug_en": "olio-di-cocco"
   },
   {
     "slug": "olio-di-oliva",
-    "name_en": "",
+    "name_en": "Olio Di Oliva",
     "name_it": "Olio di oliva",
     "category_slug": "olio-e-condimenti",
     "fodmap": "unknown",
@@ -9959,11 +10543,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "5"
+    "vit_e": "5",
+    "slug_it": "olio-di-oliva",
+    "slug_en": "olio-di-oliva"
   },
   {
     "slug": "olio-di-semi",
-    "name_en": "",
+    "name_en": "Olio Di Semi",
     "name_it": "Olio di semi",
     "category_slug": "olio-e-condimenti",
     "fodmap": "unknown",
@@ -9993,11 +10579,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "27"
+    "vit_e": "27",
+    "slug_it": "olio-di-semi",
+    "slug_en": "olio-di-semi"
   },
   {
     "slug": "pasta-wasabi",
-    "name_en": "",
+    "name_en": "Pasta Wasabi",
     "name_it": "Pasta wasabi",
     "category_slug": "olio-e-condimenti",
     "fodmap": "unknown",
@@ -10027,11 +10615,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "pasta-wasabi",
+    "slug_en": "pasta-wasabi"
   },
   {
     "slug": "sale",
-    "name_en": "",
+    "name_en": "Sale",
     "name_it": "Sale",
     "category_slug": "olio-e-condimenti",
     "fodmap": "unknown",
@@ -10061,11 +10651,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "sale",
+    "slug_en": "sale"
   },
   {
     "slug": "salsa-di-pesce",
-    "name_en": "",
+    "name_en": "Salsa Di Pesce",
     "name_it": "Salsa di pesce",
     "category_slug": "olio-e-condimenti",
     "fodmap": "unknown",
@@ -10095,11 +10687,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "salsa-di-pesce",
+    "slug_en": "salsa-di-pesce"
   },
   {
     "slug": "salsa-di-soia",
-    "name_en": "",
+    "name_en": "Salsa Di Soia",
     "name_it": "Salsa di soia",
     "category_slug": "olio-e-condimenti",
     "fodmap": "unknown",
@@ -10129,11 +10723,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "salsa-di-soia",
+    "slug_en": "salsa-di-soia"
   },
   {
     "slug": "salsa-worcester",
-    "name_en": "",
+    "name_en": "Salsa Worcester",
     "name_it": "Salsa worcester",
     "category_slug": "olio-e-condimenti",
     "fodmap": "unknown",
@@ -10163,11 +10759,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "salsa-worcester",
+    "slug_en": "salsa-worcester"
   },
   {
     "slug": "senape",
-    "name_en": "",
+    "name_en": "Senape",
     "name_it": "Senape",
     "category_slug": "olio-e-condimenti",
     "fodmap": "unknown",
@@ -10197,11 +10795,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "senape",
+    "slug_en": "senape"
   },
   {
     "slug": "strutto",
-    "name_en": "",
+    "name_en": "Strutto",
     "name_it": "Strutto",
     "category_slug": "olio-e-condimenti",
     "fodmap": "unknown",
@@ -10231,11 +10831,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "strutto",
+    "slug_en": "strutto"
   },
   {
     "slug": "tabasco",
-    "name_en": "",
+    "name_en": "Tabasco",
     "name_it": "Tabasco",
     "category_slug": "olio-e-condimenti",
     "fodmap": "unknown",
@@ -10265,11 +10867,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "tabasco",
+    "slug_en": "tabasco"
   },
   {
     "slug": "tahina",
-    "name_en": "",
+    "name_en": "Tahina",
     "name_it": "Tahina",
     "category_slug": "olio-e-condimenti",
     "fodmap": "unknown",
@@ -10299,11 +10903,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "tahina",
+    "slug_en": "tahina"
   },
   {
     "slug": "aglio",
-    "name_en": "",
+    "name_en": "Aglio",
     "name_it": "Aglio",
     "category_slug": "ortaggi",
     "fodmap": "unknown",
@@ -10333,11 +10939,13 @@
     "vit_b9": "40",
     "vit_c": "7",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "aglio",
+    "slug_en": "aglio"
   },
   {
     "slug": "asparagi",
-    "name_en": "",
+    "name_en": "Asparagi",
     "name_it": "Asparagi",
     "category_slug": "ortaggi",
     "fodmap": "unknown",
@@ -10367,11 +10975,13 @@
     "vit_b9": "566",
     "vit_c": "21",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "asparagi",
+    "slug_en": "asparagi"
   },
   {
     "slug": "carciofi",
-    "name_en": "",
+    "name_en": "Carciofi",
     "name_it": "Carciofi",
     "category_slug": "ortaggi",
     "fodmap": "unknown",
@@ -10401,11 +11011,13 @@
     "vit_b9": "318",
     "vit_c": "35",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "carciofi",
+    "slug_en": "carciofi"
   },
   {
     "slug": "cardi",
-    "name_en": "",
+    "name_en": "Cardi",
     "name_it": "Cardi",
     "category_slug": "ortaggi",
     "fodmap": "unknown",
@@ -10435,11 +11047,13 @@
     "vit_b9": "0",
     "vit_c": "6",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "cardi",
+    "slug_en": "cardi"
   },
   {
     "slug": "cavolfiore",
-    "name_en": "",
+    "name_en": "Cavolfiore",
     "name_it": "Cavolfiore",
     "category_slug": "ortaggi",
     "fodmap": "unknown",
@@ -10469,11 +11083,13 @@
     "vit_b9": "0",
     "vit_c": "89",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "cavolfiore",
+    "slug_en": "cavolfiore"
   },
   {
     "slug": "cavolini-di-bruxelles",
-    "name_en": "",
+    "name_en": "Cavolini Di Bruxelles",
     "name_it": "Cavolini di Bruxelles",
     "category_slug": "ortaggi",
     "fodmap": "unknown",
@@ -10503,11 +11119,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "cavolini-di-bruxelles",
+    "slug_en": "cavolini-di-bruxelles"
   },
   {
     "slug": "cavolo-rosso",
-    "name_en": "",
+    "name_en": "Cavolo Rosso",
     "name_it": "Cavolo rosso",
     "category_slug": "ortaggi",
     "fodmap": "unknown",
@@ -10537,11 +11155,13 @@
     "vit_b9": "0",
     "vit_c": "55",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "cavolo-rosso",
+    "slug_en": "cavolo-rosso"
   },
   {
     "slug": "cetrioli",
-    "name_en": "",
+    "name_en": "Cetrioli",
     "name_it": "Cetrioli",
     "category_slug": "ortaggi",
     "fodmap": "unknown",
@@ -10571,11 +11191,13 @@
     "vit_b9": "0",
     "vit_c": "14",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "cetrioli",
+    "slug_en": "cetrioli"
   },
   {
     "slug": "cime-di-rapa",
-    "name_en": "",
+    "name_en": "Cime Di Rapa",
     "name_it": "Cime di rapa",
     "category_slug": "ortaggi",
     "fodmap": "unknown",
@@ -10605,11 +11227,13 @@
     "vit_b9": "0",
     "vit_c": "33",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "cime-di-rapa",
+    "slug_en": "cime-di-rapa"
   },
   {
     "slug": "cipolla-di-tropea",
-    "name_en": "",
+    "name_en": "Cipolla Di Tropea",
     "name_it": "Cipolla di Tropea",
     "category_slug": "ortaggi",
     "fodmap": "unknown",
@@ -10639,11 +11263,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "cipolla-di-tropea",
+    "slug_en": "cipolla-di-tropea"
   },
   {
     "slug": "cipolle",
-    "name_en": "",
+    "name_en": "Cipolle",
     "name_it": "Cipolle",
     "category_slug": "ortaggi",
     "fodmap": "unknown",
@@ -10673,11 +11299,13 @@
     "vit_b9": "0",
     "vit_c": "6",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "cipolle",
+    "slug_en": "cipolle"
   },
   {
     "slug": "cipollotti",
-    "name_en": "",
+    "name_en": "Cipollotti",
     "name_it": "Cipollotti",
     "category_slug": "ortaggi",
     "fodmap": "unknown",
@@ -10707,11 +11335,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "cipollotti",
+    "slug_en": "cipollotti"
   },
   {
     "slug": "finocchi",
-    "name_en": "",
+    "name_en": "Finocchi",
     "name_it": "Finocchi",
     "category_slug": "ortaggi",
     "fodmap": "unknown",
@@ -10741,11 +11371,13 @@
     "vit_b9": "20",
     "vit_c": "20",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "finocchi",
+    "slug_en": "finocchi"
   },
   {
     "slug": "friggitelli",
-    "name_en": "",
+    "name_en": "Friggitelli",
     "name_it": "Friggitelli",
     "category_slug": "ortaggi",
     "fodmap": "unknown",
@@ -10775,11 +11407,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "friggitelli",
+    "slug_en": "friggitelli"
   },
   {
     "slug": "melanzane",
-    "name_en": "",
+    "name_en": "Melanzane",
     "name_it": "Melanzane",
     "category_slug": "ortaggi",
     "fodmap": "unknown",
@@ -10809,11 +11443,13 @@
     "vit_b9": "0",
     "vit_c": "12",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "melanzane",
+    "slug_en": "melanzane"
   },
   {
     "slug": "peperoni",
-    "name_en": "",
+    "name_en": "Peperoni",
     "name_it": "Peperoni",
     "category_slug": "ortaggi",
     "fodmap": "unknown",
@@ -10843,11 +11479,13 @@
     "vit_b9": "1017",
     "vit_c": "184",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "peperoni",
+    "slug_en": "peperoni"
   },
   {
     "slug": "pomodori",
-    "name_en": "",
+    "name_en": "Pomodori",
     "name_it": "Pomodori",
     "category_slug": "ortaggi",
     "fodmap": "unknown",
@@ -10877,11 +11515,13 @@
     "vit_b9": "252",
     "vit_c": "21",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "pomodori",
+    "slug_en": "pomodori"
   },
   {
     "slug": "pomodorini",
-    "name_en": "",
+    "name_en": "Pomodorini",
     "name_it": "Pomodorini",
     "category_slug": "ortaggi",
     "fodmap": "unknown",
@@ -10911,11 +11551,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "pomodorini",
+    "slug_en": "pomodorini"
   },
   {
     "slug": "porro",
-    "name_en": "",
+    "name_en": "Porro",
     "name_it": "Porro",
     "category_slug": "ortaggi",
     "fodmap": "unknown",
@@ -10945,11 +11587,13 @@
     "vit_b9": "0",
     "vit_c": "12",
     "vit_d": "0",
-    "vit_e": "2"
+    "vit_e": "2",
+    "slug_it": "porro",
+    "slug_en": "porro"
   },
   {
     "slug": "scalogno",
-    "name_en": "",
+    "name_en": "Scalogno",
     "name_it": "Scalogno",
     "category_slug": "ortaggi",
     "fodmap": "unknown",
@@ -10979,11 +11623,13 @@
     "vit_b9": "3707",
     "vit_c": "18",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "scalogno",
+    "slug_en": "scalogno"
   },
   {
     "slug": "sedano",
-    "name_en": "",
+    "name_en": "Sedano",
     "name_it": "Sedano",
     "category_slug": "ortaggi",
     "fodmap": "unknown",
@@ -11013,11 +11659,13 @@
     "vit_b9": "1552",
     "vit_c": "40",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "sedano",
+    "slug_en": "sedano"
   },
   {
     "slug": "zucca",
-    "name_en": "",
+    "name_en": "Zucca",
     "name_it": "Zucca",
     "category_slug": "ortaggi",
     "fodmap": "unknown",
@@ -11047,11 +11695,13 @@
     "vit_b9": "4437",
     "vit_c": "11",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "zucca",
+    "slug_en": "zucca"
   },
   {
     "slug": "zucchine",
-    "name_en": "",
+    "name_en": "Zucchine",
     "name_it": "Zucchine",
     "category_slug": "ortaggi",
     "fodmap": "unknown",
@@ -11081,11 +11731,13 @@
     "vit_b9": "41",
     "vit_c": "12",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "zucchine",
+    "slug_en": "zucchine"
   },
   {
     "slug": "bucatini",
-    "name_en": "",
+    "name_en": "Bucatini",
     "name_it": "Bucatini",
     "category_slug": "pasta",
     "fodmap": "unknown",
@@ -11115,11 +11767,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "bucatini",
+    "slug_en": "bucatini"
   },
   {
     "slug": "cannelloni",
-    "name_en": "",
+    "name_en": "Cannelloni",
     "name_it": "Cannelloni",
     "category_slug": "pasta",
     "fodmap": "unknown",
@@ -11149,11 +11803,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "cannelloni",
+    "slug_en": "cannelloni"
   },
   {
     "slug": "conchiglioni",
-    "name_en": "",
+    "name_en": "Conchiglioni",
     "name_it": "Conchiglioni",
     "category_slug": "pasta",
     "fodmap": "unknown",
@@ -11183,11 +11839,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "conchiglioni",
+    "slug_en": "conchiglioni"
   },
   {
     "slug": "fettuccine",
-    "name_en": "",
+    "name_en": "Fettuccine",
     "name_it": "Fettuccine",
     "category_slug": "pasta",
     "fodmap": "unknown",
@@ -11217,11 +11875,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "fettuccine",
+    "slug_en": "fettuccine"
   },
   {
     "slug": "fregola",
-    "name_en": "",
+    "name_en": "Fregola",
     "name_it": "Fregola",
     "category_slug": "pasta",
     "fodmap": "unknown",
@@ -11251,11 +11911,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "fregola",
+    "slug_en": "fregola"
   },
   {
     "slug": "fusilli",
-    "name_en": "",
+    "name_en": "Fusilli",
     "name_it": "Fusilli",
     "category_slug": "pasta",
     "fodmap": "unknown",
@@ -11285,11 +11947,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "fusilli",
+    "slug_en": "fusilli"
   },
   {
     "slug": "gnocchi",
-    "name_en": "",
+    "name_en": "Gnocchi",
     "name_it": "Gnocchi",
     "category_slug": "pasta",
     "fodmap": "unknown",
@@ -11319,11 +11983,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "gnocchi",
+    "slug_en": "gnocchi"
   },
   {
     "slug": "lasagne",
-    "name_en": "",
+    "name_en": "Lasagne",
     "name_it": "Lasagne",
     "category_slug": "pasta",
     "fodmap": "unknown",
@@ -11353,11 +12019,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "lasagne",
+    "slug_en": "lasagne"
   },
   {
     "slug": "linguine",
-    "name_en": "",
+    "name_en": "Linguine",
     "name_it": "Linguine",
     "category_slug": "pasta",
     "fodmap": "unknown",
@@ -11387,11 +12055,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "linguine",
+    "slug_en": "linguine"
   },
   {
     "slug": "noodles",
-    "name_en": "",
+    "name_en": "Noodles",
     "name_it": "Noodles",
     "category_slug": "pasta",
     "fodmap": "unknown",
@@ -11421,11 +12091,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "noodles",
+    "slug_en": "noodles"
   },
   {
     "slug": "orecchiette",
-    "name_en": "",
+    "name_en": "Orecchiette",
     "name_it": "Orecchiette",
     "category_slug": "pasta",
     "fodmap": "unknown",
@@ -11455,11 +12127,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "orecchiette",
+    "slug_en": "orecchiette"
   },
   {
     "slug": "paccheri",
-    "name_en": "",
+    "name_en": "Paccheri",
     "name_it": "Paccheri",
     "category_slug": "pasta",
     "fodmap": "unknown",
@@ -11489,11 +12163,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "paccheri",
+    "slug_en": "paccheri"
   },
   {
     "slug": "pappardelle",
-    "name_en": "",
+    "name_en": "Pappardelle",
     "name_it": "Pappardelle",
     "category_slug": "pasta",
     "fodmap": "unknown",
@@ -11523,11 +12199,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "pappardelle",
+    "slug_en": "pappardelle"
   },
   {
     "slug": "penne",
-    "name_en": "",
+    "name_en": "Penne",
     "name_it": "Penne",
     "category_slug": "pasta",
     "fodmap": "unknown",
@@ -11557,11 +12235,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "penne",
+    "slug_en": "penne"
   },
   {
     "slug": "scialatielli",
-    "name_en": "",
+    "name_en": "Scialatielli",
     "name_it": "Scialatielli",
     "category_slug": "pasta",
     "fodmap": "unknown",
@@ -11591,11 +12271,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "scialatielli",
+    "slug_en": "scialatielli"
   },
   {
     "slug": "spaghetti",
-    "name_en": "",
+    "name_en": "Spaghetti",
     "name_it": "Spaghetti",
     "category_slug": "pasta",
     "fodmap": "unknown",
@@ -11625,11 +12307,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "spaghetti",
+    "slug_en": "spaghetti"
   },
   {
     "slug": "tagliatelle",
-    "name_en": "",
+    "name_en": "Tagliatelle",
     "name_it": "Tagliatelle",
     "category_slug": "pasta",
     "fodmap": "unknown",
@@ -11659,11 +12343,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "tagliatelle",
+    "slug_en": "tagliatelle"
   },
   {
     "slug": "tagliolini",
-    "name_en": "",
+    "name_en": "Tagliolini",
     "name_it": "Tagliolini",
     "category_slug": "pasta",
     "fodmap": "unknown",
@@ -11693,11 +12379,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "tagliolini",
+    "slug_en": "tagliolini"
   },
   {
     "slug": "trofie",
-    "name_en": "",
+    "name_en": "Trofie",
     "name_it": "Trofie",
     "category_slug": "pasta",
     "fodmap": "unknown",
@@ -11727,11 +12415,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "trofie",
+    "slug_en": "trofie"
   },
   {
     "slug": "vermicelli",
-    "name_en": "",
+    "name_en": "Vermicelli",
     "name_it": "Vermicelli",
     "category_slug": "pasta",
     "fodmap": "unknown",
@@ -11761,11 +12451,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "vermicelli",
+    "slug_en": "vermicelli"
   },
   {
     "slug": "acciughe",
-    "name_en": "",
+    "name_en": "Acciughe",
     "name_it": "Acciughe",
     "category_slug": "pesce-azzurro",
     "fodmap": "unknown",
@@ -11795,11 +12487,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "15",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "acciughe",
+    "slug_en": "acciughe"
   },
   {
     "slug": "baccala",
-    "name_en": "",
+    "name_en": "Baccala",
     "name_it": "Baccalà",
     "category_slug": "pesce",
     "fodmap": "unknown",
@@ -11829,11 +12523,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "baccala",
+    "slug_en": "baccala"
   },
   {
     "slug": "bianchetti",
-    "name_en": "",
+    "name_en": "Bianchetti",
     "name_it": "Bianchetti",
     "category_slug": "pesce",
     "fodmap": "unknown",
@@ -11863,11 +12559,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "bianchetti",
+    "slug_en": "bianchetti"
   },
   {
     "slug": "cefalo",
-    "name_en": "",
+    "name_en": "Cefalo",
     "name_it": "Cefalo",
     "category_slug": "pesce",
     "fodmap": "unknown",
@@ -11897,11 +12595,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "1",
-    "vit_e": "2"
+    "vit_e": "2",
+    "slug_it": "cefalo",
+    "slug_en": "cefalo"
   },
   {
     "slug": "cernia",
-    "name_en": "",
+    "name_en": "Cernia",
     "name_it": "Cernia",
     "category_slug": "pesce",
     "fodmap": "unknown",
@@ -11931,11 +12631,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "cernia",
+    "slug_en": "cernia"
   },
   {
     "slug": "dentice",
-    "name_en": "",
+    "name_en": "Dentice",
     "name_it": "Dentice",
     "category_slug": "pesce",
     "fodmap": "unknown",
@@ -11965,11 +12667,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "dentice",
+    "slug_en": "dentice"
   },
   {
     "slug": "gallinella",
-    "name_en": "",
+    "name_en": "Gallinella",
     "name_it": "Gallinella",
     "category_slug": "pesce",
     "fodmap": "unknown",
@@ -11999,11 +12703,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "gallinella",
+    "slug_en": "gallinella"
   },
   {
     "slug": "katsuobushi",
-    "name_en": "",
+    "name_en": "Katsuobushi",
     "name_it": "Katsuobushi",
     "category_slug": "pesce",
     "fodmap": "unknown",
@@ -12033,11 +12739,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "katsuobushi",
+    "slug_en": "katsuobushi"
   },
   {
     "slug": "merluzzo",
-    "name_en": "",
+    "name_en": "Merluzzo",
     "name_it": "Merluzzo",
     "category_slug": "pesce",
     "fodmap": "unknown",
@@ -12067,11 +12775,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "merluzzo",
+    "slug_en": "merluzzo"
   },
   {
     "slug": "orata",
-    "name_en": "",
+    "name_en": "Orata",
     "name_it": "Orata",
     "category_slug": "pesce",
     "fodmap": "unknown",
@@ -12101,11 +12811,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "orata",
+    "slug_en": "orata"
   },
   {
     "slug": "pesce-persico",
-    "name_en": "",
+    "name_en": "Pesce Persico",
     "name_it": "Pesce persico",
     "category_slug": "pesce",
     "fodmap": "unknown",
@@ -12135,11 +12847,13 @@
     "vit_b9": "0",
     "vit_c": "5",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "pesce-persico",
+    "slug_en": "pesce-persico"
   },
   {
     "slug": "pesce-spada",
-    "name_en": "",
+    "name_en": "Pesce Spada",
     "name_it": "Pesce spada",
     "category_slug": "pesce",
     "fodmap": "unknown",
@@ -12169,11 +12883,13 @@
     "vit_b9": "0",
     "vit_c": "1",
     "vit_d": "11",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "pesce-spada",
+    "slug_en": "pesce-spada"
   },
   {
     "slug": "platessa",
-    "name_en": "",
+    "name_en": "Platessa",
     "name_it": "Platessa",
     "category_slug": "pesce",
     "fodmap": "unknown",
@@ -12203,11 +12919,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "platessa",
+    "slug_en": "platessa"
   },
   {
     "slug": "rana-pescatrice",
-    "name_en": "",
+    "name_en": "Rana Pescatrice",
     "name_it": "Rana pescatrice",
     "category_slug": "pesce",
     "fodmap": "unknown",
@@ -12237,11 +12955,13 @@
     "vit_b9": "0",
     "vit_c": "3",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "rana-pescatrice",
+    "slug_en": "rana-pescatrice"
   },
   {
     "slug": "ricci-di-mare",
-    "name_en": "",
+    "name_en": "Ricci Di Mare",
     "name_it": "Ricci di mare",
     "category_slug": "pesce",
     "fodmap": "unknown",
@@ -12271,11 +12991,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "ricci-di-mare",
+    "slug_en": "ricci-di-mare"
   },
   {
     "slug": "rombo",
-    "name_en": "",
+    "name_en": "Rombo",
     "name_it": "Rombo",
     "category_slug": "pesce",
     "fodmap": "unknown",
@@ -12305,11 +13027,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "rombo",
+    "slug_en": "rombo"
   },
   {
     "slug": "salmone",
-    "name_en": "",
+    "name_en": "Salmone",
     "name_it": "Salmone",
     "category_slug": "pesce",
     "fodmap": "unknown",
@@ -12339,11 +13063,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "10",
-    "vit_e": "2"
+    "vit_e": "2",
+    "slug_it": "salmone",
+    "slug_en": "salmone"
   },
   {
     "slug": "salmone-affumicato",
-    "name_en": "",
+    "name_en": "Salmone Affumicato",
     "name_it": "Salmone affumicato",
     "category_slug": "pesce",
     "fodmap": "unknown",
@@ -12373,11 +13099,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "salmone-affumicato",
+    "slug_en": "salmone-affumicato"
   },
   {
     "slug": "sogliola",
-    "name_en": "",
+    "name_en": "Sogliola",
     "name_it": "Sogliola",
     "category_slug": "pesce",
     "fodmap": "unknown",
@@ -12407,11 +13135,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "sogliola",
+    "slug_en": "sogliola"
   },
   {
     "slug": "branzino",
-    "name_en": "",
+    "name_en": "Branzino",
     "name_it": "Branzino",
     "category_slug": "pesce",
     "fodmap": "unknown",
@@ -12441,11 +13171,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "branzino",
+    "slug_en": "branzino"
   },
   {
     "slug": "surimi",
-    "name_en": "",
+    "name_en": "Surimi",
     "name_it": "Surimi",
     "category_slug": "pesce",
     "fodmap": "unknown",
@@ -12475,11 +13207,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "surimi",
+    "slug_en": "surimi"
   },
   {
     "slug": "tonno",
-    "name_en": "",
+    "name_en": "Tonno",
     "name_it": "Tonno",
     "category_slug": "pesce",
     "fodmap": "unknown",
@@ -12509,11 +13243,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "18",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "tonno",
+    "slug_en": "tonno"
   },
   {
     "slug": "triglie",
-    "name_en": "",
+    "name_en": "Triglie",
     "name_it": "Triglie",
     "category_slug": "pesce",
     "fodmap": "unknown",
@@ -12543,11 +13279,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "2",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "triglie",
+    "slug_en": "triglie"
   },
   {
     "slug": "trota-salmonata",
-    "name_en": "",
+    "name_en": "Trota Salmonata",
     "name_it": "Trota salmonata",
     "category_slug": "pesce",
     "fodmap": "unknown",
@@ -12577,11 +13315,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "trota-salmonata",
+    "slug_en": "trota-salmonata"
   },
   {
     "slug": "pesce-spatola",
-    "name_en": "",
+    "name_en": "Pesce Spatola",
     "name_it": "Pesce spatola",
     "category_slug": "pesce-azzurro",
     "fodmap": "unknown",
@@ -12611,11 +13351,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "pesce-spatola",
+    "slug_en": "pesce-spatola"
   },
   {
     "slug": "sarde",
-    "name_en": "",
+    "name_en": "Sarde",
     "name_it": "Sarde",
     "category_slug": "pesce-azzurro",
     "fodmap": "unknown",
@@ -12645,11 +13387,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "6",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "sarde",
+    "slug_en": "sarde"
   },
   {
     "slug": "sgombro",
-    "name_en": "",
+    "name_en": "Sgombro",
     "name_it": "Sgombro",
     "category_slug": "pesce-azzurro",
     "fodmap": "unknown",
@@ -12679,11 +13423,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "4",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "sgombro",
+    "slug_en": "sgombro"
   },
   {
     "slug": "amaretti",
-    "name_en": "",
+    "name_en": "Amaretti",
     "name_it": "Amaretti",
     "category_slug": "prodotti-da-forno",
     "fodmap": "unknown",
@@ -12713,11 +13459,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "amaretti",
+    "slug_en": "amaretti"
   },
   {
     "slug": "biscotti",
-    "name_en": "",
+    "name_en": "Biscotti",
     "name_it": "Biscotti",
     "category_slug": "prodotti-da-forno",
     "fodmap": "unknown",
@@ -12747,11 +13495,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "biscotti",
+    "slug_en": "biscotti"
   },
   {
     "slug": "cracker",
-    "name_en": "",
+    "name_en": "Cracker",
     "name_it": "Cracker",
     "category_slug": "prodotti-da-forno",
     "fodmap": "unknown",
@@ -12781,11 +13531,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "cracker",
+    "slug_en": "cracker"
   },
   {
     "slug": "oreo-biscotti",
-    "name_en": "",
+    "name_en": "Oreo Biscotti",
     "name_it": "Oreo Biscotti",
     "category_slug": "prodotti-da-forno",
     "fodmap": "unknown",
@@ -12815,11 +13567,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "oreo-biscotti",
+    "slug_en": "oreo-biscotti"
   },
   {
     "slug": "oro-saiwa",
-    "name_en": "",
+    "name_en": "Oro Saiwa",
     "name_it": "Oro saiwa",
     "category_slug": "prodotti-da-forno",
     "fodmap": "unknown",
@@ -12849,11 +13603,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "oro-saiwa",
+    "slug_en": "oro-saiwa"
   },
   {
     "slug": "pancarre",
-    "name_en": "",
+    "name_en": "Pancarre",
     "name_it": "Pancarrè",
     "category_slug": "prodotti-da-forno",
     "fodmap": "unknown",
@@ -12883,11 +13639,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "pancarre",
+    "slug_en": "pancarre"
   },
   {
     "slug": "pane",
-    "name_en": "",
+    "name_en": "Pane",
     "name_it": "Pane",
     "category_slug": "prodotti-da-forno",
     "fodmap": "unknown",
@@ -12917,11 +13675,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "pane",
+    "slug_en": "pane"
   },
   {
     "slug": "pane-carasau",
-    "name_en": "",
+    "name_en": "Pane Carasau",
     "name_it": "Pane carasau",
     "category_slug": "prodotti-da-forno",
     "fodmap": "unknown",
@@ -12951,11 +13711,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "pane-carasau",
+    "slug_en": "pane-carasau"
   },
   {
     "slug": "pane-per-tramezzini",
-    "name_en": "",
+    "name_en": "Pane Per Tramezzini",
     "name_it": "Pane per tramezzini",
     "category_slug": "prodotti-da-forno",
     "fodmap": "unknown",
@@ -12985,11 +13747,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "pane-per-tramezzini",
+    "slug_en": "pane-per-tramezzini"
   },
   {
     "slug": "pangrattato",
-    "name_en": "",
+    "name_en": "Pangrattato",
     "name_it": "Pangrattato",
     "category_slug": "prodotti-da-forno",
     "fodmap": "unknown",
@@ -13019,11 +13783,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "pangrattato",
+    "slug_en": "pangrattato"
   },
   {
     "slug": "pavesini",
-    "name_en": "",
+    "name_en": "Pavesini",
     "name_it": "Pavesini",
     "category_slug": "prodotti-da-forno",
     "fodmap": "unknown",
@@ -13053,11 +13819,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "pavesini",
+    "slug_en": "pavesini"
   },
   {
     "slug": "savoiardi",
-    "name_en": "",
+    "name_en": "Savoiardi",
     "name_it": "Savoiardi",
     "category_slug": "prodotti-da-forno",
     "fodmap": "unknown",
@@ -13087,11 +13855,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "1",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "savoiardi",
+    "slug_en": "savoiardi"
   },
   {
     "slug": "wafer",
-    "name_en": "",
+    "name_en": "Wafer",
     "name_it": "Wafer",
     "category_slug": "prodotti-da-forno",
     "fodmap": "unknown",
@@ -13121,11 +13891,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "2"
+    "vit_e": "2",
+    "slug_it": "wafer",
+    "slug_en": "wafer"
   },
   {
     "slug": "bacon",
-    "name_en": "",
+    "name_en": "Bacon",
     "name_it": "Bacon",
     "category_slug": "salumi",
     "fodmap": "unknown",
@@ -13155,11 +13927,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "1",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "bacon",
+    "slug_en": "bacon"
   },
   {
     "slug": "bresaola",
-    "name_en": "",
+    "name_en": "Bresaola",
     "name_it": "Bresaola",
     "category_slug": "salumi",
     "fodmap": "unknown",
@@ -13189,11 +13963,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "bresaola",
+    "slug_en": "bresaola"
   },
   {
     "slug": "capicollo",
-    "name_en": "",
+    "name_en": "Capicollo",
     "name_it": "Capicollo",
     "category_slug": "salumi",
     "fodmap": "unknown",
@@ -13223,11 +13999,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "capicollo",
+    "slug_en": "capicollo"
   },
   {
     "slug": "cotechino",
-    "name_en": "",
+    "name_en": "Cotechino",
     "name_it": "Cotechino",
     "category_slug": "salumi",
     "fodmap": "unknown",
@@ -13257,11 +14035,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "cotechino",
+    "slug_en": "cotechino"
   },
   {
     "slug": "culatello",
-    "name_en": "",
+    "name_en": "Culatello",
     "name_it": "Culatello",
     "category_slug": "salumi",
     "fodmap": "unknown",
@@ -13291,11 +14071,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "culatello",
+    "slug_en": "culatello"
   },
   {
     "slug": "fesa-di-tacchino",
-    "name_en": "",
+    "name_en": "Fesa Di Tacchino",
     "name_it": "Fesa di tacchino",
     "category_slug": "salumi",
     "fodmap": "unknown",
@@ -13325,11 +14107,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "fesa-di-tacchino",
+    "slug_en": "fesa-di-tacchino"
   },
   {
     "slug": "guanciale",
-    "name_en": "",
+    "name_en": "Guanciale",
     "name_it": "Guanciale",
     "category_slug": "salumi",
     "fodmap": "unknown",
@@ -13359,11 +14143,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "guanciale",
+    "slug_en": "guanciale"
   },
   {
     "slug": "mortadella",
-    "name_en": "",
+    "name_en": "Mortadella",
     "name_it": "Mortadella",
     "category_slug": "salumi",
     "fodmap": "unknown",
@@ -13393,11 +14179,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "mortadella",
+    "slug_en": "mortadella"
   },
   {
     "slug": "pancetta",
-    "name_en": "",
+    "name_en": "Pancetta",
     "name_it": "Pancetta",
     "category_slug": "salumi",
     "fodmap": "unknown",
@@ -13427,11 +14215,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "pancetta",
+    "slug_en": "pancetta"
   },
   {
     "slug": "prosciutto-cotto",
-    "name_en": "",
+    "name_en": "Prosciutto Cotto",
     "name_it": "Prosciutto cotto",
     "category_slug": "salumi",
     "fodmap": "unknown",
@@ -13461,11 +14251,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "prosciutto-cotto",
+    "slug_en": "prosciutto-cotto"
   },
   {
     "slug": "prosciutto-crudo",
-    "name_en": "",
+    "name_en": "Prosciutto Crudo",
     "name_it": "Prosciutto crudo",
     "category_slug": "salumi",
     "fodmap": "unknown",
@@ -13495,11 +14287,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "1",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "prosciutto-crudo",
+    "slug_en": "prosciutto-crudo"
   },
   {
     "slug": "salame",
-    "name_en": "",
+    "name_en": "Salame",
     "name_it": "Salame",
     "category_slug": "salumi",
     "fodmap": "unknown",
@@ -13529,11 +14323,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "salame",
+    "slug_en": "salame"
   },
   {
     "slug": "speck",
-    "name_en": "",
+    "name_en": "Speck",
     "name_it": "Speck",
     "category_slug": "salumi",
     "fodmap": "unknown",
@@ -13563,11 +14359,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "1",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "speck",
+    "slug_en": "speck"
   },
   {
     "slug": "wurstel",
-    "name_en": "",
+    "name_en": "Wurstel",
     "name_it": "Wurstel",
     "category_slug": "salumi",
     "fodmap": "unknown",
@@ -13597,11 +14395,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "wurstel",
+    "slug_en": "wurstel"
   },
   {
     "slug": "bambu-germogli",
-    "name_en": "",
+    "name_en": "Bambu Germogli",
     "name_it": "Bambù germogli",
     "category_slug": "semi-e-germogli",
     "fodmap": "unknown",
@@ -13631,11 +14431,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "bambu-germogli",
+    "slug_en": "bambu-germogli"
   },
   {
     "slug": "capperi",
-    "name_en": "",
+    "name_en": "Capperi",
     "name_it": "Capperi",
     "category_slug": "semi-e-germogli",
     "fodmap": "unknown",
@@ -13665,11 +14467,13 @@
     "vit_b9": "0",
     "vit_c": "17",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "capperi",
+    "slug_en": "capperi"
   },
   {
     "slug": "germogli-di-soia",
-    "name_en": "",
+    "name_en": "Germogli Di Soia",
     "name_it": "Germogli di soia",
     "category_slug": "semi-e-germogli",
     "fodmap": "unknown",
@@ -13699,11 +14503,13 @@
     "vit_b9": "147",
     "vit_c": "13",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "germogli-di-soia",
+    "slug_en": "germogli-di-soia"
   },
   {
     "slug": "semi-di-chia",
-    "name_en": "",
+    "name_en": "Semi Di Chia",
     "name_it": "Semi di chia",
     "category_slug": "semi-e-germogli",
     "fodmap": "unknown",
@@ -13733,11 +14539,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "semi-di-chia",
+    "slug_en": "semi-di-chia"
   },
   {
     "slug": "semi-di-cumino",
-    "name_en": "",
+    "name_en": "Semi Di Cumino",
     "name_it": "Semi di cumino",
     "category_slug": "semi-e-germogli",
     "fodmap": "unknown",
@@ -13767,11 +14575,13 @@
     "vit_b9": "762",
     "vit_c": "8",
     "vit_d": "0",
-    "vit_e": "3"
+    "vit_e": "3",
+    "slug_it": "semi-di-cumino",
+    "slug_en": "semi-di-cumino"
   },
   {
     "slug": "semi-di-finocchio",
-    "name_en": "",
+    "name_en": "Semi Di Finocchio",
     "name_it": "Semi di finocchio",
     "category_slug": "semi-e-germogli",
     "fodmap": "unknown",
@@ -13801,11 +14611,13 @@
     "vit_b9": "81",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "3"
+    "vit_e": "3",
+    "slug_it": "semi-di-finocchio",
+    "slug_en": "semi-di-finocchio"
   },
   {
     "slug": "semi-di-lino",
-    "name_en": "",
+    "name_en": "Semi Di Lino",
     "name_it": "Semi di lino",
     "category_slug": "semi-e-germogli",
     "fodmap": "unknown",
@@ -13835,11 +14647,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "semi-di-lino",
+    "slug_en": "semi-di-lino"
   },
   {
     "slug": "semi-di-papavero",
-    "name_en": "",
+    "name_en": "Semi Di Papavero",
     "name_it": "Semi di papavero",
     "category_slug": "semi-e-germogli",
     "fodmap": "unknown",
@@ -13869,11 +14683,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "semi-di-papavero",
+    "slug_en": "semi-di-papavero"
   },
   {
     "slug": "semi-di-sesamo",
-    "name_en": "",
+    "name_en": "Semi Di Sesamo",
     "name_it": "Semi di sesamo",
     "category_slug": "semi-e-germogli",
     "fodmap": "unknown",
@@ -13903,11 +14719,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "semi-di-sesamo",
+    "slug_en": "semi-di-sesamo"
   },
   {
     "slug": "semi-di-zucca",
-    "name_en": "",
+    "name_en": "Semi Di Zucca",
     "name_it": "Semi di zucca",
     "category_slug": "semi-e-germogli",
     "fodmap": "unknown",
@@ -13937,11 +14755,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "semi-di-zucca",
+    "slug_en": "semi-di-zucca"
   },
   {
     "slug": "anice",
-    "name_en": "",
+    "name_en": "Anice",
     "name_it": "Anice",
     "category_slug": "spezie",
     "fodmap": "unknown",
@@ -13971,11 +14791,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "anice",
+    "slug_en": "anice"
   },
   {
     "slug": "anice-stellato",
-    "name_en": "",
+    "name_en": "Anice Stellato",
     "name_it": "Anice stellato",
     "category_slug": "spezie",
     "fodmap": "unknown",
@@ -14005,11 +14827,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "anice-stellato",
+    "slug_en": "anice-stellato"
   },
   {
     "slug": "cannella",
-    "name_en": "",
+    "name_en": "Cannella",
     "name_it": "Cannella",
     "category_slug": "spezie",
     "fodmap": "unknown",
@@ -14039,11 +14863,13 @@
     "vit_b9": "156",
     "vit_c": "28",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "cannella",
+    "slug_en": "cannella"
   },
   {
     "slug": "cardamomo",
-    "name_en": "",
+    "name_en": "Cardamomo",
     "name_it": "Cardamomo",
     "category_slug": "spezie",
     "fodmap": "unknown",
@@ -14073,11 +14899,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "cardamomo",
+    "slug_en": "cardamomo"
   },
   {
     "slug": "chiodi-di-garofano",
-    "name_en": "",
+    "name_en": "Chiodi Di Garofano",
     "name_it": "Chiodi di garofano",
     "category_slug": "spezie",
     "fodmap": "unknown",
@@ -14107,11 +14935,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "chiodi-di-garofano",
+    "slug_en": "chiodi-di-garofano"
   },
   {
     "slug": "curcuma",
-    "name_en": "",
+    "name_en": "Curcuma",
     "name_it": "Curcuma",
     "category_slug": "spezie",
     "fodmap": "unknown",
@@ -14141,11 +14971,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "curcuma",
+    "slug_en": "curcuma"
   },
   {
     "slug": "curry",
-    "name_en": "",
+    "name_en": "Curry",
     "name_it": "Curry",
     "category_slug": "spezie",
     "fodmap": "unknown",
@@ -14175,11 +15007,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "curry",
+    "slug_en": "curry"
   },
   {
     "slug": "vaniglia",
-    "name_en": "",
+    "name_en": "Vaniglia",
     "name_it": "Vaniglia",
     "category_slug": "spezie",
     "fodmap": "unknown",
@@ -14209,11 +15043,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "vaniglia",
+    "slug_en": "vaniglia"
   },
   {
     "slug": "liquirizia",
-    "name_en": "",
+    "name_en": "Liquirizia",
     "name_it": "Liquirizia",
     "category_slug": "spezie",
     "fodmap": "unknown",
@@ -14243,11 +15079,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "liquirizia",
+    "slug_en": "liquirizia"
   },
   {
     "slug": "noce-moscata",
-    "name_en": "",
+    "name_en": "Noce Moscata",
     "name_it": "Noce moscata",
     "category_slug": "spezie",
     "fodmap": "unknown",
@@ -14277,11 +15115,13 @@
     "vit_b9": "48",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "3"
+    "vit_e": "3",
+    "slug_it": "noce-moscata",
+    "slug_en": "noce-moscata"
   },
   {
     "slug": "paprica",
-    "name_en": "",
+    "name_en": "Paprica",
     "name_it": "Paprica",
     "category_slug": "spezie",
     "fodmap": "unknown",
@@ -14311,11 +15151,13 @@
     "vit_b9": "36360",
     "vit_c": "71",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "paprica",
+    "slug_en": "paprica"
   },
   {
     "slug": "pepe",
-    "name_en": "",
+    "name_en": "Pepe",
     "name_it": "Pepe",
     "category_slug": "spezie",
     "fodmap": "unknown",
@@ -14345,11 +15187,13 @@
     "vit_b9": "114",
     "vit_c": "21",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "pepe",
+    "slug_en": "pepe"
   },
   {
     "slug": "pepe-rosa",
-    "name_en": "",
+    "name_en": "Pepe Rosa",
     "name_it": "Pepe rosa",
     "category_slug": "spezie",
     "fodmap": "unknown",
@@ -14379,11 +15223,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "pepe-rosa",
+    "slug_en": "pepe-rosa"
   },
   {
     "slug": "pepe-verde",
-    "name_en": "",
+    "name_en": "Pepe Verde",
     "name_it": "Pepe verde",
     "category_slug": "spezie",
     "fodmap": "unknown",
@@ -14413,11 +15259,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "pepe-verde",
+    "slug_en": "pepe-verde"
   },
   {
     "slug": "peperoncino",
-    "name_en": "",
+    "name_en": "Peperoncino",
     "name_it": "Peperoncino",
     "category_slug": "spezie",
     "fodmap": "unknown",
@@ -14447,11 +15295,13 @@
     "vit_b9": "5555",
     "vit_c": "257",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "peperoncino",
+    "slug_en": "peperoncino"
   },
   {
     "slug": "pisto",
-    "name_en": "",
+    "name_en": "Pisto",
     "name_it": "Pisto",
     "category_slug": "spezie",
     "fodmap": "unknown",
@@ -14481,11 +15331,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "pisto",
+    "slug_en": "pisto"
   },
   {
     "slug": "zafferano",
-    "name_en": "",
+    "name_en": "Zafferano",
     "name_it": "Zafferano",
     "category_slug": "spezie",
     "fodmap": "unknown",
@@ -14515,11 +15367,13 @@
     "vit_b9": "318",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "2"
+    "vit_e": "2",
+    "slug_it": "zafferano",
+    "slug_en": "zafferano"
   },
   {
     "slug": "zenzero",
-    "name_en": "",
+    "name_en": "Zenzero",
     "name_it": "Zenzero",
     "category_slug": "spezie",
     "fodmap": "unknown",
@@ -14549,11 +15403,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "zenzero",
+    "slug_en": "zenzero"
   },
   {
     "slug": "albumi",
-    "name_en": "",
+    "name_en": "Albumi",
     "name_it": "Albumi",
     "category_slug": "uova",
     "fodmap": "unknown",
@@ -14583,11 +15439,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "albumi",
+    "slug_en": "albumi"
   },
   {
     "slug": "bottarga",
-    "name_en": "",
+    "name_en": "Bottarga",
     "name_it": "Bottarga",
     "category_slug": "uova",
     "fodmap": "unknown",
@@ -14617,11 +15475,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "bottarga",
+    "slug_en": "bottarga"
   },
   {
     "slug": "caviale",
-    "name_en": "",
+    "name_en": "Caviale",
     "name_it": "Caviale",
     "category_slug": "uova",
     "fodmap": "unknown",
@@ -14651,11 +15511,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "6",
-    "vit_e": "7"
+    "vit_e": "7",
+    "slug_it": "caviale",
+    "slug_en": "caviale"
   },
   {
     "slug": "tuorli",
-    "name_en": "",
+    "name_en": "Tuorli",
     "name_it": "Tuorli",
     "category_slug": "uova",
     "fodmap": "unknown",
@@ -14685,11 +15547,13 @@
     "vit_b9": "198",
     "vit_c": "0",
     "vit_d": "5",
-    "vit_e": "3"
+    "vit_e": "3",
+    "slug_it": "tuorli",
+    "slug_en": "tuorli"
   },
   {
     "slug": "uova",
-    "name_en": "",
+    "name_en": "Uova",
     "name_it": "Uova",
     "category_slug": "uova",
     "fodmap": "unknown",
@@ -14719,11 +15583,13 @@
     "vit_b9": "94",
     "vit_c": "0",
     "vit_d": "2",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "uova",
+    "slug_en": "uova"
   },
   {
     "slug": "uova-di-lompo",
-    "name_en": "",
+    "name_en": "Uova Di Lompo",
     "name_it": "Uova di lompo",
     "category_slug": "uova",
     "fodmap": "unknown",
@@ -14753,11 +15619,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "uova-di-lompo",
+    "slug_en": "uova-di-lompo"
   },
   {
     "slug": "uova-di-quaglia",
-    "name_en": "",
+    "name_en": "Uova Di Quaglia",
     "name_it": "Uova di quaglia",
     "category_slug": "uova",
     "fodmap": "unknown",
@@ -14787,11 +15655,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "uova-di-quaglia",
+    "slug_en": "uova-di-quaglia"
   },
   {
     "slug": "uova-di-struzzo",
-    "name_en": "",
+    "name_en": "Uova Di Struzzo",
     "name_it": "Uova di struzzo",
     "category_slug": "uova",
     "fodmap": "unknown",
@@ -14821,11 +15691,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "uova-di-struzzo",
+    "slug_en": "uova-di-struzzo"
   },
   {
     "slug": "agretti",
-    "name_en": "",
+    "name_en": "Agretti",
     "name_it": "Agretti",
     "category_slug": "verdure",
     "fodmap": "unknown",
@@ -14855,11 +15727,13 @@
     "vit_b9": "2425",
     "vit_c": "25",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "agretti",
+    "slug_en": "agretti"
   },
   {
     "slug": "alga-kombu",
-    "name_en": "",
+    "name_en": "Alga Kombu",
     "name_it": "Alga kombu",
     "category_slug": "verdure",
     "fodmap": "unknown",
@@ -14889,11 +15763,13 @@
     "vit_b9": "340",
     "vit_c": "13",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "alga-kombu",
+    "slug_en": "alga-kombu"
   },
   {
     "slug": "alga-nori",
-    "name_en": "",
+    "name_en": "Alga Nori",
     "name_it": "Alga nori",
     "category_slug": "verdure",
     "fodmap": "unknown",
@@ -14923,11 +15799,13 @@
     "vit_b9": "14910",
     "vit_c": "14",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "alga-nori",
+    "slug_en": "alga-nori"
   },
   {
     "slug": "alga-spirulina",
-    "name_en": "",
+    "name_en": "Alga Spirulina",
     "name_it": "Alga spirulina",
     "category_slug": "verdure",
     "fodmap": "unknown",
@@ -14957,11 +15835,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "alga-spirulina",
+    "slug_en": "alga-spirulina"
   },
   {
     "slug": "alga-wakame",
-    "name_en": "",
+    "name_en": "Alga Wakame",
     "name_it": "Alga wakame",
     "category_slug": "verdure",
     "fodmap": "unknown",
@@ -14991,11 +15871,13 @@
     "vit_b9": "515",
     "vit_c": "15",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "alga-wakame",
+    "slug_en": "alga-wakame"
   },
   {
     "slug": "alghe",
-    "name_en": "",
+    "name_en": "Alghe",
     "name_it": "Alghe",
     "category_slug": "verdure",
     "fodmap": "unknown",
@@ -15025,11 +15907,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "alghe",
+    "slug_en": "alghe"
   },
   {
     "slug": "bietole",
-    "name_en": "",
+    "name_en": "Bietole",
     "name_it": "Bietole",
     "category_slug": "verdure",
     "fodmap": "unknown",
@@ -15059,11 +15943,13 @@
     "vit_b9": "1924",
     "vit_c": "29",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "bietole",
+    "slug_en": "bietole"
   },
   {
     "slug": "borragine",
-    "name_en": "",
+    "name_en": "Borragine",
     "name_it": "Borragine",
     "category_slug": "verdure",
     "fodmap": "unknown",
@@ -15093,11 +15979,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "borragine",
+    "slug_en": "borragine"
   },
   {
     "slug": "broccoli",
-    "name_en": "",
+    "name_en": "Broccoli",
     "name_it": "Broccoli",
     "category_slug": "verdure",
     "fodmap": "unknown",
@@ -15127,11 +16015,13 @@
     "vit_b9": "24",
     "vit_c": "106",
     "vit_d": "0",
-    "vit_e": "2"
+    "vit_e": "2",
+    "slug_it": "broccoli",
+    "slug_en": "broccoli"
   },
   {
     "slug": "cavolo-nero",
-    "name_en": "",
+    "name_en": "Cavolo Nero",
     "name_it": "Cavolo nero",
     "category_slug": "verdure",
     "fodmap": "unknown",
@@ -15161,11 +16051,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "cavolo-nero",
+    "slug_en": "cavolo-nero"
   },
   {
     "slug": "cicoria",
-    "name_en": "",
+    "name_en": "Cicoria",
     "name_it": "Cicoria",
     "category_slug": "verdure",
     "fodmap": "unknown",
@@ -15195,11 +16087,13 @@
     "vit_b9": "1642",
     "vit_c": "21",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "cicoria",
+    "slug_en": "cicoria"
   },
   {
     "slug": "fiori-di-zucca",
-    "name_en": "",
+    "name_en": "Fiori Di Zucca",
     "name_it": "Fiori di zucca",
     "category_slug": "verdure",
     "fodmap": "unknown",
@@ -15229,11 +16123,13 @@
     "vit_b9": "1914",
     "vit_c": "35",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "fiori-di-zucca",
+    "slug_en": "fiori-di-zucca"
   },
   {
     "slug": "fiori-di-zucchine",
-    "name_en": "",
+    "name_en": "Fiori Di Zucchine",
     "name_it": "Fiori di zucchine",
     "category_slug": "verdure",
     "fodmap": "unknown",
@@ -15263,11 +16159,13 @@
     "vit_b9": "1914",
     "vit_c": "35",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "fiori-di-zucchine",
+    "slug_en": "fiori-di-zucchine"
   },
   {
     "slug": "friarielli",
-    "name_en": "",
+    "name_en": "Friarielli",
     "name_it": "Friarielli",
     "category_slug": "verdure",
     "fodmap": "unknown",
@@ -15297,11 +16195,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "friarielli",
+    "slug_en": "friarielli"
   },
   {
     "slug": "indivia",
-    "name_en": "",
+    "name_en": "Indivia",
     "name_it": "Indivia",
     "category_slug": "verdure",
     "fodmap": "unknown",
@@ -15331,11 +16231,13 @@
     "vit_b9": "1852",
     "vit_c": "51",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "indivia",
+    "slug_en": "indivia"
   },
   {
     "slug": "lattuga",
-    "name_en": "",
+    "name_en": "Lattuga",
     "name_it": "Lattuga",
     "category_slug": "verdure",
     "fodmap": "unknown",
@@ -15365,11 +16267,13 @@
     "vit_b9": "1718",
     "vit_c": "8",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "lattuga",
+    "slug_en": "lattuga"
   },
   {
     "slug": "ortica",
-    "name_en": "",
+    "name_en": "Ortica",
     "name_it": "Ortica",
     "category_slug": "verdure",
     "fodmap": "unknown",
@@ -15399,11 +16303,13 @@
     "vit_b9": "2150",
     "vit_c": "175",
     "vit_d": "0",
-    "vit_e": "2"
+    "vit_e": "2",
+    "slug_it": "ortica",
+    "slug_en": "ortica"
   },
   {
     "slug": "puntarelle",
-    "name_en": "",
+    "name_en": "Puntarelle",
     "name_it": "Puntarelle",
     "category_slug": "verdure",
     "fodmap": "unknown",
@@ -15433,11 +16339,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "puntarelle",
+    "slug_en": "puntarelle"
   },
   {
     "slug": "radicchio",
-    "name_en": "",
+    "name_en": "Radicchio",
     "name_it": "Radicchio",
     "category_slug": "verdure",
     "fodmap": "unknown",
@@ -15467,11 +16375,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "radicchio",
+    "slug_en": "radicchio"
   },
   {
     "slug": "rucola",
-    "name_en": "",
+    "name_en": "Rucola",
     "name_it": "Rucola",
     "category_slug": "verdure",
     "fodmap": "unknown",
@@ -15501,11 +16411,13 @@
     "vit_b9": "3555",
     "vit_c": "38",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "rucola",
+    "slug_en": "rucola"
   },
   {
     "slug": "scarole",
-    "name_en": "",
+    "name_en": "Scarole",
     "name_it": "Scarole",
     "category_slug": "verdure",
     "fodmap": "unknown",
@@ -15535,11 +16447,13 @@
     "vit_b9": "1667",
     "vit_c": "25",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "scarole",
+    "slug_en": "scarole"
   },
   {
     "slug": "songino",
-    "name_en": "",
+    "name_en": "Songino",
     "name_it": "Songino",
     "category_slug": "verdure",
     "fodmap": "unknown",
@@ -15569,11 +16483,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "songino",
+    "slug_en": "songino"
   },
   {
     "slug": "spinaci",
-    "name_en": "",
+    "name_en": "Spinaci",
     "name_it": "Spinaci",
     "category_slug": "verdure",
     "fodmap": "unknown",
@@ -15603,11 +16519,13 @@
     "vit_b9": "3506",
     "vit_c": "65",
     "vit_d": "0",
-    "vit_e": "2"
+    "vit_e": "2",
+    "slug_it": "spinaci",
+    "slug_en": "spinaci"
   },
   {
     "slug": "verza",
-    "name_en": "",
+    "name_en": "Verza",
     "name_it": "Verza",
     "category_slug": "verdure",
     "fodmap": "unknown",
@@ -15637,11 +16555,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "verza",
+    "slug_en": "verza"
   },
   {
     "slug": "cacao",
-    "name_en": "",
+    "name_en": "Cacao",
     "name_it": "Cacao",
     "category_slug": "alimenti-vari",
     "fodmap": "unknown",
@@ -15671,11 +16591,13 @@
     "vit_b9": "42",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "cacao",
+    "slug_en": "cacao"
   },
   {
     "slug": "canditi",
-    "name_en": "",
+    "name_en": "Canditi",
     "name_it": "Canditi",
     "category_slug": "alimenti-vari",
     "fodmap": "unknown",
@@ -15705,11 +16627,13 @@
     "vit_b9": "48",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "canditi",
+    "slug_en": "canditi"
   },
   {
     "slug": "caramelle",
-    "name_en": "",
+    "name_en": "Caramelle",
     "name_it": "Caramelle",
     "category_slug": "alimenti-vari",
     "fodmap": "unknown",
@@ -15739,11 +16663,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "caramelle",
+    "slug_en": "caramelle"
   },
   {
     "slug": "cetriolini",
-    "name_en": "",
+    "name_en": "Cetriolini",
     "name_it": "Cetriolini",
     "category_slug": "alimenti-vari",
     "fodmap": "unknown",
@@ -15773,11 +16699,13 @@
     "vit_b9": "3",
     "vit_c": "1",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "cetriolini",
+    "slug_en": "cetriolini"
   },
   {
     "slug": "ciliegie-candite",
-    "name_en": "",
+    "name_en": "Ciliegie Candite",
     "name_it": "Ciliegie candite",
     "category_slug": "alimenti-vari",
     "fodmap": "unknown",
@@ -15807,11 +16735,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "ciliegie-candite",
+    "slug_en": "ciliegie-candite"
   },
   {
     "slug": "codette-di-zucchero",
-    "name_en": "",
+    "name_en": "Codette Di Zucchero",
     "name_it": "Codette di zucchero",
     "category_slug": "alimenti-vari",
     "fodmap": "unknown",
@@ -15841,11 +16771,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "codette-di-zucchero",
+    "slug_en": "codette-di-zucchero"
   },
   {
     "slug": "concentrato-di-pomodoro",
-    "name_en": "",
+    "name_en": "Concentrato Di Pomodoro",
     "name_it": "Concentrato di pomodoro",
     "category_slug": "alimenti-vari",
     "fodmap": "unknown",
@@ -15875,11 +16807,13 @@
     "vit_b9": "6500",
     "vit_c": "28",
     "vit_d": "0",
-    "vit_e": "5"
+    "vit_e": "5",
+    "slug_it": "concentrato-di-pomodoro",
+    "slug_en": "concentrato-di-pomodoro"
   },
   {
     "slug": "ghiaccio",
-    "name_en": "",
+    "name_en": "Ghiaccio",
     "name_it": "Ghiaccio",
     "category_slug": "alimenti-vari",
     "fodmap": "unknown",
@@ -15909,11 +16843,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "ghiaccio",
+    "slug_en": "ghiaccio"
   },
   {
     "slug": "granella-di-zucchero",
-    "name_en": "",
+    "name_en": "Granella Di Zucchero",
     "name_it": "Granella di zucchero",
     "category_slug": "alimenti-vari",
     "fodmap": "unknown",
@@ -15943,11 +16879,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "granella-di-zucchero",
+    "slug_en": "granella-di-zucchero"
   },
   {
     "slug": "lievito-di-birra",
-    "name_en": "",
+    "name_en": "Lievito Di Birra",
     "name_it": "Lievito di birra",
     "category_slug": "alimenti-vari",
     "fodmap": "unknown",
@@ -15977,11 +16915,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "lievito-di-birra",
+    "slug_en": "lievito-di-birra"
   },
   {
     "slug": "marmellata",
-    "name_en": "",
+    "name_en": "Marmellata",
     "name_it": "Marmellata",
     "category_slug": "alimenti-vari",
     "fodmap": "unknown",
@@ -16011,11 +16951,13 @@
     "vit_b9": "0",
     "vit_c": "4",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "marmellata",
+    "slug_en": "marmellata"
   },
   {
     "slug": "marron-glace",
-    "name_en": "",
+    "name_en": "Marron Glace",
     "name_it": "Marron glacé",
     "category_slug": "alimenti-vari",
     "fodmap": "unknown",
@@ -16045,11 +16987,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "marron-glace",
+    "slug_en": "marron-glace"
   },
   {
     "slug": "marshmallows",
-    "name_en": "",
+    "name_en": "Marshmallows",
     "name_it": "Marshmallows",
     "category_slug": "alimenti-vari",
     "fodmap": "unknown",
@@ -16079,11 +17023,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "marshmallows",
+    "slug_en": "marshmallows"
   },
   {
     "slug": "marzapane",
-    "name_en": "",
+    "name_en": "Marzapane",
     "name_it": "Marzapane",
     "category_slug": "alimenti-vari",
     "fodmap": "unknown",
@@ -16113,11 +17059,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "marzapane",
+    "slug_en": "marzapane"
   },
   {
     "slug": "passata-di-pomodoro",
-    "name_en": "",
+    "name_en": "Passata Di Pomodoro",
     "name_it": "Passata di pomodoro",
     "category_slug": "alimenti-vari",
     "fodmap": "unknown",
@@ -16147,11 +17095,13 @@
     "vit_b9": "1300",
     "vit_c": "43",
     "vit_d": "0",
-    "vit_e": "5"
+    "vit_e": "5",
+    "slug_it": "passata-di-pomodoro",
+    "slug_en": "passata-di-pomodoro"
   },
   {
     "slug": "pomodori-secchi",
-    "name_en": "",
+    "name_en": "Pomodori Secchi",
     "name_it": "Pomodori secchi",
     "category_slug": "alimenti-vari",
     "fodmap": "unknown",
@@ -16181,11 +17131,13 @@
     "vit_b9": "522",
     "vit_c": "39",
     "vit_d": "0",
-    "vit_e": "0"
+    "vit_e": "0",
+    "slug_it": "pomodori-secchi",
+    "slug_en": "pomodori-secchi"
   },
   {
     "slug": "sottaceti",
-    "name_en": "",
+    "name_en": "Sottaceti",
     "name_it": "Sottaceti",
     "category_slug": "alimenti-vari",
     "fodmap": "unknown",
@@ -16215,11 +17167,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "sottaceti",
+    "slug_en": "sottaceti"
   },
   {
     "slug": "torrone",
-    "name_en": "",
+    "name_en": "Torrone",
     "name_it": "Torrone",
     "category_slug": "alimenti-vari",
     "fodmap": "unknown",
@@ -16249,11 +17203,13 @@
     "vit_b9": "0",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "12"
+    "vit_e": "12",
+    "slug_it": "torrone",
+    "slug_en": "torrone"
   },
   {
     "slug": "cioccolato-bianco",
-    "name_en": "",
+    "name_en": "Cioccolato Bianco",
     "name_it": "Cioccolato bianco",
     "category_slug": "cioccolato",
     "fodmap": "unknown",
@@ -16283,11 +17239,13 @@
     "vit_b9": "75",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "cioccolato-bianco",
+    "slug_en": "cioccolato-bianco"
   },
   {
     "slug": "cioccolato-fondente",
-    "name_en": "",
+    "name_en": "Cioccolato Fondente",
     "name_it": "Cioccolato fondente",
     "category_slug": "cioccolato",
     "fodmap": "unknown",
@@ -16317,11 +17275,13 @@
     "vit_b9": "54",
     "vit_c": "0",
     "vit_d": "0",
-    "vit_e": "1"
+    "vit_e": "1",
+    "slug_it": "cioccolato-fondente",
+    "slug_en": "cioccolato-fondente"
   },
   {
     "slug": "pagro",
-    "name_en": "",
+    "name_en": "Pagro",
     "name_it": "Pagro",
     "category_slug": "pesce",
     "fodmap": "unknown",
@@ -16351,11 +17311,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "pagro",
+    "slug_en": "pagro"
   },
   {
     "slug": "farfalle",
-    "name_en": "",
+    "name_en": "Farfalle",
     "name_it": "Farfalle",
     "category_slug": "pasta",
     "fodmap": "unknown",
@@ -16385,11 +17347,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "farfalle",
+    "slug_en": "farfalle"
   },
   {
     "slug": "olive-taggiasche",
-    "name_en": "",
+    "name_en": "Olive Taggiasche",
     "name_it": "Olive taggiasche",
     "category_slug": "frutta",
     "fodmap": "unknown",
@@ -16419,11 +17383,13 @@
     "vit_b9": "217",
     "vit_c": "24",
     "vit_d": "0",
-    "vit_e": "2"
+    "vit_e": "2",
+    "slug_it": "olive-taggiasche",
+    "slug_en": "olive-taggiasche"
   },
   {
     "slug": "pizzoccheri",
-    "name_en": "",
+    "name_en": "Pizzoccheri",
     "name_it": "Pizzoccheri",
     "category_slug": "pasta",
     "fodmap": "unknown",
@@ -16453,11 +17419,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "pizzoccheri",
+    "slug_en": "pizzoccheri"
   },
   {
     "slug": "pipe",
-    "name_en": "",
+    "name_en": "Pipe",
     "name_it": "Pipe",
     "category_slug": "pasta",
     "fodmap": "unknown",
@@ -16487,11 +17455,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "pipe",
+    "slug_en": "pipe"
   },
   {
     "slug": "uovo-di-pasqua",
-    "name_en": "",
+    "name_en": "Uovo Di Pasqua",
     "name_it": "Uovo di pasqua",
     "category_slug": "cioccolato",
     "fodmap": "unknown",
@@ -16521,11 +17491,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "uovo-di-pasqua",
+    "slug_en": "uovo-di-pasqua"
   },
   {
     "slug": "lievito-di-riporto",
-    "name_en": "",
+    "name_en": "Lievito Di Riporto",
     "name_it": "Lievito di riporto",
     "category_slug": "alimenti-vari",
     "fodmap": "unknown",
@@ -16555,11 +17527,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "lievito-di-riporto",
+    "slug_en": "lievito-di-riporto"
   },
   {
     "slug": "sciroppo-alla-menta",
-    "name_en": "",
+    "name_en": "Sciroppo Alla Menta",
     "name_it": "Sciroppo alla menta",
     "category_slug": "dolcificanti",
     "fodmap": "unknown",
@@ -16589,11 +17563,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "sciroppo-alla-menta",
+    "slug_en": "sciroppo-alla-menta"
   },
   {
     "slug": "scorfano",
-    "name_en": "",
+    "name_en": "Scorfano",
     "name_it": "Scorfano",
     "category_slug": "pesce",
     "fodmap": "unknown",
@@ -16623,11 +17599,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "scorfano",
+    "slug_en": "scorfano"
   },
   {
     "slug": "farina-manitoba",
-    "name_en": "",
+    "name_en": "Farina Manitoba",
     "name_it": "Farina manitoba",
     "category_slug": "cereali-e-derivati",
     "fodmap": "unknown",
@@ -16657,11 +17635,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "farina-manitoba",
+    "slug_en": "farina-manitoba"
   },
   {
     "slug": "lippia-citriodora",
-    "name_en": "",
+    "name_en": "Lippia Citriodora",
     "name_it": "Lippia citriodora",
     "category_slug": "erbe-aromatiche",
     "fodmap": "unknown",
@@ -16691,11 +17671,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "lippia-citriodora",
+    "slug_en": "lippia-citriodora"
   },
   {
     "slug": "salvia-ananas",
-    "name_en": "",
+    "name_en": "Salvia Ananas",
     "name_it": "Salvia ananas",
     "category_slug": "erbe-aromatiche",
     "fodmap": "unknown",
@@ -16725,11 +17707,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "salvia-ananas",
+    "slug_en": "salvia-ananas"
   },
   {
     "slug": "galletto",
-    "name_en": "",
+    "name_en": "Galletto",
     "name_it": "Galletto",
     "category_slug": "carni-bianche",
     "fodmap": "unknown",
@@ -16759,11 +17743,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "galletto",
+    "slug_en": "galletto"
   },
   {
     "slug": "faraona",
-    "name_en": "",
+    "name_en": "Faraona",
     "name_it": "Faraona",
     "category_slug": "carni-bianche",
     "fodmap": "unknown",
@@ -16793,11 +17779,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "faraona",
+    "slug_en": "faraona"
   },
   {
     "slug": "sambuca",
-    "name_en": "",
+    "name_en": "Sambuca",
     "name_it": "Sambuca",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -16827,11 +17815,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "sambuca",
+    "slug_en": "sambuca"
   },
   {
     "slug": "stevia",
-    "name_en": "",
+    "name_en": "Stevia",
     "name_it": "Stevia",
     "category_slug": "erbe-aromatiche",
     "fodmap": "unknown",
@@ -16861,11 +17851,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "stevia",
+    "slug_en": "stevia"
   },
   {
     "slug": "fette-biscottate",
-    "name_en": "",
+    "name_en": "Fette Biscottate",
     "name_it": "Fette biscottate",
     "category_slug": "cereali-e-derivati",
     "fodmap": "unknown",
@@ -16895,11 +17887,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "fette-biscottate",
+    "slug_en": "fette-biscottate"
   },
   {
     "slug": "sfoglie-di-pasta-alluovo",
-    "name_en": "",
+    "name_en": "Sfoglie Di Pasta Alluovo",
     "name_it": "Sfoglie di pasta all'uovo",
     "category_slug": "cereali-e-derivati",
     "fodmap": "unknown",
@@ -16929,11 +17923,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "sfoglie-di-pasta-alluovo",
+    "slug_en": "sfoglie-di-pasta-alluovo"
   },
   {
     "slug": "spaghetti-di-lenticchie",
-    "name_en": "",
+    "name_en": "Spaghetti Di Lenticchie",
     "name_it": "Spaghetti di lenticchie",
     "category_slug": "legumi",
     "fodmap": "unknown",
@@ -16963,11 +17959,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "spaghetti-di-lenticchie",
+    "slug_en": "spaghetti-di-lenticchie"
   },
   {
     "slug": "fusilli-di-ceci",
-    "name_en": "",
+    "name_en": "Fusilli Di Ceci",
     "name_it": "Fusilli di ceci",
     "category_slug": "legumi",
     "fodmap": "unknown",
@@ -16997,11 +17995,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "fusilli-di-ceci",
+    "slug_en": "fusilli-di-ceci"
   },
   {
     "slug": "lievito-disidratato",
-    "name_en": "",
+    "name_en": "Lievito Disidratato",
     "name_it": "Lievito disidratato",
     "category_slug": "alimenti-vari",
     "fodmap": "unknown",
@@ -17031,11 +18031,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "lievito-disidratato",
+    "slug_en": "lievito-disidratato"
   },
   {
     "slug": "farina-di-quinoa",
-    "name_en": "",
+    "name_en": "Farina Di Quinoa",
     "name_it": "Farina di quinoa",
     "category_slug": "farine",
     "fodmap": "unknown",
@@ -17065,11 +18067,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "farina-di-quinoa",
+    "slug_en": "farina-di-quinoa"
   },
   {
     "slug": "porto",
-    "name_en": "",
+    "name_en": "Porto",
     "name_it": "Porto",
     "category_slug": "alcool-e-alcolici",
     "fodmap": "unknown",
@@ -17099,11 +18103,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "porto",
+    "slug_en": "porto"
   },
   {
     "slug": "anatra",
-    "name_en": "",
+    "name_en": "Anatra",
     "name_it": "Anatra",
     "category_slug": "carni-rosse",
     "fodmap": "unknown",
@@ -17133,11 +18139,13 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "anatra",
+    "slug_en": "anatra"
   },
   {
     "slug": "lievito-madre",
-    "name_en": "",
+    "name_en": "Lievito Madre",
     "name_it": "Lievito madre",
     "category_slug": "alimenti-vari",
     "fodmap": "unknown",
@@ -17167,6 +18175,8 @@
     "vit_b9": null,
     "vit_c": null,
     "vit_d": null,
-    "vit_e": null
+    "vit_e": null,
+    "slug_it": "lievito-madre",
+    "slug_en": "lievito-madre"
   }
 ]

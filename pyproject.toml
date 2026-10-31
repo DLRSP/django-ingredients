@@ -50,14 +50,17 @@ classifiers = [
 ]
 dependencies = [
     "Django>=4.2",
-    "django-allergens>=0.1.0",
+    "django-allergens @ git+https://github.com/DLRSP/django-allergens.git@main",
     "django-filer>=3.0",
+    "django-mptt",
+    "easy-thumbnails",
+    "django-polymorphic",
     "django-modeltranslation>=0.18",
 ]
 
 [project.urls]
 Homepage = "https://github.com/DLRSP/django-ingredients"
-Documentation = "https://github.com/DLRSP/django-ingredients/"
+Documentation = "https://dlrsp.github.io/django-ingredients/"
 Repository = "https://github.com/DLRSP/django-ingredients"
 Issues = "https://github.com/DLRSP/django-ingredients/issues"
 Changelog = "https://github.com/DLRSP/django-ingredients/blob/main/CHANGELOG.rst"

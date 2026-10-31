@@ -1,4 +1,7 @@
 django>=4.2
-django-allergens>=0.1.0
 django-filer>=3.0
+django-mptt
+easy-thumbnails
+django-polymorphic
 django-modeltranslation>=0.18
+tzdata; sys_platform == "win32"

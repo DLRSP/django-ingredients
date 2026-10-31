@@ -1,0 +1,28 @@
+# English catalog for django-ingredients (source language; msgid == msgstr).
+msgid ""
+msgstr ""
+"Project-Id-Version: django-ingredients 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Ingredients"
+msgstr "Ingredients"
+
+msgid "Ingredient"
+msgstr "Ingredient"
+
+msgid "ingredients/"
+msgstr "ingredients/"
+
+msgid "ingredients/<slug:slug_type>/"
+msgstr "ingredients/<slug:slug_type>/"
+
+msgid "ingredients/<slug:slug_type>/<slug:slug_cat>/"
+msgstr "ingredients/<slug:slug_type>/<slug:slug_cat>/"
+
+msgid "ingredients/<slug:slug_type>/<slug:slug_cat>/<slug:slug>/"
+msgstr "ingredients/<slug:slug_type>/<slug:slug_cat>/<slug:slug>/"

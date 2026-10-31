@@ -1,10 +1,18 @@
-"""URL patterns for django-ingredients."""
+"""URL patterns for django-ingredients (translated path prefixes)."""
 
 from django.http import HttpResponse
 from django.shortcuts import get_object_or_404
 from django.urls import path
+from django.utils.translation import gettext_lazy as _
 
 from ingredients.models import Ingredient, IngredientCategory, IngredientType
+
+
+def ingredient_list(request):
+    names = ", ".join(
+        Ingredient.objects.order_by("name").values_list("name", flat=True)[:50]
+    )
+    return HttpResponse(names or "ingredients")
 
 
 def type_detail(request, slug_type):
@@ -30,18 +38,19 @@ def ingredient_detail(request, slug_type, slug_cat, slug):
 
 
 urlpatterns = [
+    path(_("ingredients/"), ingredient_list, name="ingredients"),
     path(
-        "ingredients/<slug:slug_type>/",
+        _("ingredients/<slug:slug_type>/"),
         type_detail,
         name="ingredients-type-detail",
     ),
     path(
-        "ingredients/<slug:slug_type>/<slug:slug_cat>/",
+        _("ingredients/<slug:slug_type>/<slug:slug_cat>/"),
         category_detail,
         name="ingredients-category-detail",
     ),
     path(
-        "ingredients/<slug:slug_type>/<slug:slug_cat>/<slug:slug>/",
+        _("ingredients/<slug:slug_type>/<slug:slug_cat>/<slug:slug>/"),
         ingredient_detail,
         name="ingredient-detail",
     ),
