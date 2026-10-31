@@ -75,7 +75,7 @@
   },
   {
     "slug": "amaretto-di-saronno",
-    "name_en": "Amaretto Di Saronno",
+    "name_en": "Amaretto di Saronno",
     "name_it": "Amaretto di saronno",
     "category_slug": "alcohol-and-spirits",
     "fodmap": "unknown",
@@ -260,7 +260,7 @@
   },
   {
     "slug": "cherry-liqueur",
-    "name_en": "Cherry Liqueur",
+    "name_en": "Cherry liqueur",
     "name_it": "Cherry",
     "category_slug": "alcohol-and-spirits",
     "fodmap": "unknown",
@@ -408,7 +408,7 @@
   },
   {
     "slug": "grand-marnier",
-    "name_en": "Grand marnier",
+    "name_en": "Grand Marnier",
     "name_it": "Grand marnier",
     "category_slug": "alcohol-and-spirits",
     "fodmap": "unknown",
@@ -518,8 +518,8 @@
     "image": "ingredients/alcohol-and-spirits/limoncello.jpg"
   },
   {
-    "slug": "liqueur-marsala",
-    "name_en": "Liqueur Marsala",
+    "slug": "marsala-liqueur",
+    "name_en": "Marsala liqueur",
     "name_it": "Liquore marsala",
     "category_slug": "alcohol-and-spirits",
     "fodmap": "unknown",
@@ -551,12 +551,12 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "liquore-marsala",
-    "slug_en": "liqueur-marsala",
-    "image": "ingredients/alcohol-and-spirits/liqueur-marsala.jpg"
+    "slug_en": "marsala-liqueur",
+    "image": "ingredients/alcohol-and-spirits/marsala-liqueur.jpg"
   },
   {
-    "slug": "liqueur-strega",
-    "name_en": "Liqueur Strega",
+    "slug": "strega-liqueur",
+    "name_en": "Strega liqueur",
     "name_it": "Liquore strega",
     "category_slug": "alcohol-and-spirits",
     "fodmap": "unknown",
@@ -588,8 +588,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "liquore-strega",
-    "slug_en": "liqueur-strega",
-    "image": "ingredients/alcohol-and-spirits/liqueur-strega.jpg"
+    "slug_en": "strega-liqueur",
+    "image": "ingredients/alcohol-and-spirits/strega-liqueur.jpg"
   },
   {
     "slug": "maraschino",
@@ -740,8 +740,8 @@
     "image": "ingredients/alcohol-and-spirits/sake.jpg"
   },
   {
-    "slug": "spumante",
-    "name_en": "Spumante",
+    "slug": "sparkling-wine",
+    "name_en": "Sparkling wine",
     "name_it": "Spumante",
     "category_slug": "alcohol-and-spirits",
     "fodmap": "unknown",
@@ -773,12 +773,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "spumante",
-    "slug_en": "spumante",
-    "image": "ingredients/alcohol-and-spirits/spumante.jpg"
+    "slug_en": "sparkling-wine",
+    "image": "ingredients/alcohol-and-spirits/sparkling-wine.jpg"
   },
   {
     "slug": "white-wine",
-    "name_en": "White Wine",
+    "name_en": "White wine",
     "name_it": "Vino bianco",
     "category_slug": "alcohol-and-spirits",
     "fodmap": "unknown",
@@ -815,7 +815,7 @@
   },
   {
     "slug": "red-wine",
-    "name_en": "Red Wine",
+    "name_en": "Red wine",
     "name_it": "Vino rosso",
     "category_slug": "alcohol-and-spirits",
     "fodmap": "unknown",
@@ -925,8 +925,8 @@
     "image": "ingredients/alcohol-and-spirits/whisky.jpg"
   },
   {
-    "slug": "ammoniaca-for-sweets",
-    "name_en": "Ammoniaca for Sweets",
+    "slug": "bakers-ammonia",
+    "name_en": "Bakers ammonia",
     "name_it": "Ammoniaca per dolci",
     "category_slug": "food-additives",
     "fodmap": "unknown",
@@ -958,12 +958,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "ammoniaca-per-dolci",
-    "slug_en": "ammoniaca-for-sweets",
-    "image": "ingredients/food-additives/ammoniaca-for-sweets.jpg"
+    "slug_en": "bakers-ammonia",
+    "image": "ingredients/food-additives/bakers-ammonia.jpg"
   },
   {
-    "slug": "bicarbonate",
-    "name_en": "Bicarbonate",
+    "slug": "baking-soda",
+    "name_en": "Baking soda",
     "name_it": "Bicarbonato",
     "category_slug": "food-additives",
     "fodmap": "unknown",
@@ -995,12 +995,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "bicarbonato",
-    "slug_en": "bicarbonate",
-    "image": "ingredients/food-additives/bicarbonate.jpg"
+    "slug_en": "baking-soda",
+    "image": "ingredients/food-additives/baking-soda.jpg"
   },
   {
     "slug": "gelatin-sheets",
-    "name_en": "Gelatin Sheets",
+    "name_en": "Gelatin sheets",
     "name_it": "Colla di pesce",
     "category_slug": "food-additives",
     "fodmap": "unknown",
@@ -1036,8 +1036,8 @@
     "image": "ingredients/food-additives/gelatin-sheets.jpg"
   },
   {
-    "slug": "coloranti-alimentari",
-    "name_en": "Coloranti alimentari",
+    "slug": "food-coloring",
+    "name_en": "Food coloring",
     "name_it": "Coloranti alimentari",
     "category_slug": "food-additives",
     "fodmap": "unknown",
@@ -1069,12 +1069,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "coloranti-alimentari",
-    "slug_en": "coloranti-alimentari",
-    "image": "ingredients/food-additives/coloranti-alimentari.jpg"
+    "slug_en": "food-coloring",
+    "image": "ingredients/food-additives/food-coloring.jpg"
   },
   {
-    "slug": "tartar-cream",
-    "name_en": "Tartar Cream",
+    "slug": "cream-of-tartar",
+    "name_en": "Cream of tartar",
     "name_it": "Cremor tartaro",
     "category_slug": "food-additives",
     "fodmap": "unknown",
@@ -1106,12 +1106,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "cremor-tartaro",
-    "slug_en": "tartar-cream",
-    "image": "ingredients/food-additives/tartar-cream.jpg"
+    "slug_en": "cream-of-tartar",
+    "image": "ingredients/food-additives/cream-of-tartar.jpg"
   },
   {
     "slug": "stock-cube",
-    "name_en": "Stock Cube",
+    "name_en": "Stock cube",
     "name_it": "Dado",
     "category_slug": "food-additives",
     "fodmap": "unknown",
@@ -1147,8 +1147,8 @@
     "image": "ingredients/food-additives/stock-cube.jpg"
   },
   {
-    "slug": "fiocchi-of-potatoes",
-    "name_en": "Fiocchi of Potatoes",
+    "slug": "instant-mashed-potato-flakes",
+    "name_en": "Instant mashed potato flakes",
     "name_it": "Fiocchi di patate",
     "category_slug": "food-additives",
     "fodmap": "unknown",
@@ -1180,8 +1180,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "fiocchi-di-patate",
-    "slug_en": "fiocchi-of-potatoes",
-    "image": "ingredients/food-additives/fiocchi-of-potatoes.jpg"
+    "slug_en": "instant-mashed-potato-flakes",
+    "image": "ingredients/food-additives/instant-mashed-potato-flakes.jpg"
   },
   {
     "slug": "glucose",
@@ -1221,8 +1221,8 @@
     "image": "ingredients/food-additives/glucose.jpg"
   },
   {
-    "slug": "lecithin-of-soy",
-    "name_en": "Lecithin of Soy",
+    "slug": "soy-lecithin",
+    "name_en": "Soy lecithin",
     "name_it": "Lecitina di soia",
     "category_slug": "food-additives",
     "fodmap": "unknown",
@@ -1254,12 +1254,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "lecitina-di-soia",
-    "slug_en": "lecithin-of-soy",
-    "image": "ingredients/food-additives/lecithin-of-soy.jpg"
+    "slug_en": "soy-lecithin",
+    "image": "ingredients/food-additives/soy-lecithin.jpg"
   },
   {
-    "slug": "lievito-istantaneo",
-    "name_en": "Lievito istantaneo",
+    "slug": "instant-yeast",
+    "name_en": "Instant yeast",
     "name_it": "Lievito istantaneo",
     "category_slug": "food-additives",
     "fodmap": "unknown",
@@ -1291,12 +1291,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "lievito-istantaneo",
-    "slug_en": "lievito-istantaneo",
-    "image": "ingredients/food-additives/lievito-istantaneo.jpg"
+    "slug_en": "instant-yeast",
+    "image": "ingredients/food-additives/instant-yeast.jpg"
   },
   {
     "slug": "baking-powder",
-    "name_en": "Baking Powder",
+    "name_en": "Baking powder",
     "name_it": "Lievito per dolci",
     "category_slug": "food-additives",
     "fodmap": "unknown",
@@ -1332,8 +1332,8 @@
     "image": "ingredients/food-additives/baking-powder.jpg"
   },
   {
-    "slug": "vanillina",
-    "name_en": "Vanillina",
+    "slug": "vanillin",
+    "name_en": "Vanillin",
     "name_it": "Vanillina",
     "category_slug": "food-additives",
     "fodmap": "unknown",
@@ -1365,8 +1365,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "vanillina",
-    "slug_en": "vanillina",
-    "image": "ingredients/food-additives/vanillina.jpg"
+    "slug_en": "vanillin",
+    "image": "ingredients/food-additives/vanillin.jpg"
   },
   {
     "slug": "water",
@@ -1406,8 +1406,8 @@
     "image": "ingredients/soft-drinks/water.jpg"
   },
   {
-    "slug": "water-tonica",
-    "name_en": "Water Tonica",
+    "slug": "tonic-water",
+    "name_en": "Tonic water",
     "name_it": "Acqua tonica",
     "category_slug": "soft-drinks",
     "fodmap": "unknown",
@@ -1439,12 +1439,12 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "acqua-tonica",
-    "slug_en": "water-tonica",
-    "image": "ingredients/soft-drinks/water-tonica.jpg"
+    "slug_en": "tonic-water",
+    "image": "ingredients/soft-drinks/tonic-water.jpg"
   },
   {
-    "slug": "caffe",
-    "name_en": "Caffé",
+    "slug": "coffee",
+    "name_en": "Coffee",
     "name_it": "Caffé",
     "category_slug": "soft-drinks",
     "fodmap": "unknown",
@@ -1476,12 +1476,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "caffe",
-    "slug_en": "caffe",
-    "image": "ingredients/soft-drinks/caffe.jpg"
+    "slug_en": "coffee",
+    "image": "ingredients/soft-drinks/coffee.jpg"
   },
   {
-    "slug": "caffe-solubile",
-    "name_en": "Caffé solubile",
+    "slug": "instant-coffee",
+    "name_en": "Instant coffee",
     "name_it": "Caffé solubile",
     "category_slug": "soft-drinks",
     "fodmap": "unknown",
@@ -1513,8 +1513,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "caffe-solubile",
-    "slug_en": "caffe-solubile",
-    "image": "ingredients/soft-drinks/caffe-solubile.jpg"
+    "slug_en": "instant-coffee",
+    "image": "ingredients/soft-drinks/instant-coffee.jpg"
   },
   {
     "slug": "coca-cola",
@@ -1554,8 +1554,8 @@
     "image": "ingredients/soft-drinks/coca-cola.jpg"
   },
   {
-    "slug": "lemon-lime-soda",
-    "name_en": "Lemon-lime Soda",
+    "slug": "lemon-soda",
+    "name_en": "Lemon soda",
     "name_it": "Gassosa",
     "category_slug": "soft-drinks",
     "fodmap": "unknown",
@@ -1587,12 +1587,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "gassosa",
-    "slug_en": "lemon-lime-soda",
-    "image": "ingredients/soft-drinks/lemon-lime-soda.jpg"
+    "slug_en": "lemon-soda",
+    "image": "ingredients/soft-drinks/lemon-soda.jpg"
   },
   {
-    "slug": "the",
-    "name_en": "Thé",
+    "slug": "tea",
+    "name_en": "Tea",
     "name_it": "Thé",
     "category_slug": "soft-drinks",
     "fodmap": "unknown",
@@ -1624,12 +1624,12 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "the",
-    "slug_en": "the",
-    "image": "ingredients/soft-drinks/the.jpg"
+    "slug_en": "tea",
+    "image": "ingredients/soft-drinks/tea.jpg"
   },
   {
-    "slug": "the-matcha",
-    "name_en": "Thé matcha",
+    "slug": "matcha-tea",
+    "name_en": "Matcha tea",
     "name_it": "Thé matcha",
     "category_slug": "soft-drinks",
     "fodmap": "unknown",
@@ -1661,12 +1661,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "the-matcha",
-    "slug_en": "the-matcha",
-    "image": "ingredients/soft-drinks/the-matcha.jpg"
+    "slug_en": "matcha-tea",
+    "image": "ingredients/soft-drinks/matcha-tea.jpg"
   },
   {
-    "slug": "arista",
-    "name_en": "Arista",
+    "slug": "pork-loin-roast",
+    "name_en": "Pork loin roast",
     "name_it": "Arista",
     "category_slug": "red-meats",
     "fodmap": "unknown",
@@ -1698,12 +1698,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "arista",
-    "slug_en": "arista",
-    "image": "ingredients/red-meats/arista.jpg"
+    "slug_en": "pork-loin-roast",
+    "image": "ingredients/red-meats/pork-loin-roast.jpg"
   },
   {
-    "slug": "minced-meat",
-    "name_en": "Minced Meat",
+    "slug": "ground-meat",
+    "name_en": "Ground meat",
     "name_it": "Carne macinata",
     "category_slug": "red-meats",
     "fodmap": "unknown",
@@ -1735,12 +1735,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "carne-macinata",
-    "slug_en": "minced-meat",
-    "image": "ingredients/red-meats/minced-meat.jpg"
+    "slug_en": "ground-meat",
+    "image": "ingredients/red-meats/ground-meat.jpg"
   },
   {
-    "slug": "cinghiale",
-    "name_en": "Cinghiale",
+    "slug": "wild-boar",
+    "name_en": "Wild boar",
     "name_it": "Cinghiale",
     "category_slug": "red-meats",
     "fodmap": "unknown",
@@ -1772,8 +1772,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "cinghiale",
-    "slug_en": "cinghiale",
-    "image": "ingredients/red-meats/cinghiale.jpg"
+    "slug_en": "wild-boar",
+    "image": "ingredients/red-meats/wild-boar.jpg"
   },
   {
     "slug": "liver",
@@ -1850,8 +1850,8 @@
     "image": "ingredients/red-meats/fillet.jpg"
   },
   {
-    "slug": "girello",
-    "name_en": "Girello",
+    "slug": "eye-of-round",
+    "name_en": "Eye of round",
     "name_it": "Girello",
     "category_slug": "red-meats",
     "fodmap": "unknown",
@@ -1883,8 +1883,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "girello",
-    "slug_en": "girello",
-    "image": "ingredients/red-meats/girello.jpg"
+    "slug_en": "eye-of-round",
+    "image": "ingredients/red-meats/eye-of-round.jpg"
   },
   {
     "slug": "beef",
@@ -1925,7 +1925,7 @@
   },
   {
     "slug": "osso-buco",
-    "name_en": "Osso Buco",
+    "name_en": "Osso buco",
     "name_it": "Ossobuco",
     "category_slug": "red-meats",
     "fodmap": "unknown",
@@ -1998,8 +1998,8 @@
     "image": "ingredients/white-meats/lamb.jpg"
   },
   {
-    "slug": "alette-of-chicken",
-    "name_en": "Alette of Chicken",
+    "slug": "chicken-wings",
+    "name_en": "Chicken wings",
     "name_it": "Alette di pollo",
     "category_slug": "white-meats",
     "fodmap": "unknown",
@@ -2031,8 +2031,8 @@
     "vit_d": "1",
     "vit_e": "0",
     "slug_it": "alette-di-pollo",
-    "slug_en": "alette-of-chicken",
-    "image": "ingredients/white-meats/alette-of-chicken.jpg"
+    "slug_en": "chicken-wings",
+    "image": "ingredients/white-meats/chicken-wings.jpg"
   },
   {
     "slug": "rabbit",
@@ -2072,8 +2072,8 @@
     "image": "ingredients/white-meats/rabbit.jpg"
   },
   {
-    "slug": "thighs-of-chicken",
-    "name_en": "Thighs of Chicken",
+    "slug": "chicken-thighs",
+    "name_en": "Chicken thighs",
     "name_it": "Cosce di pollo",
     "category_slug": "white-meats",
     "fodmap": "unknown",
@@ -2105,8 +2105,8 @@
     "vit_d": "1",
     "vit_e": "0",
     "slug_it": "cosce-di-pollo",
-    "slug_en": "thighs-of-chicken",
-    "image": "ingredients/white-meats/thighs-of-chicken.jpg"
+    "slug_en": "chicken-thighs",
+    "image": "ingredients/white-meats/chicken-thighs.jpg"
   },
   {
     "slug": "chops",
@@ -2146,8 +2146,8 @@
     "image": "ingredients/white-meats/chops.jpg"
   },
   {
-    "slug": "loin-of-pork",
-    "name_en": "Loin of Pork",
+    "slug": "pork-loin",
+    "name_en": "Pork loin",
     "name_it": "Lonza di maiale",
     "category_slug": "white-meats",
     "fodmap": "unknown",
@@ -2179,8 +2179,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "lonza-di-maiale",
-    "slug_en": "loin-of-pork",
-    "image": "ingredients/white-meats/loin-of-pork.jpg"
+    "slug_en": "pork-loin",
+    "image": "ingredients/white-meats/pork-loin.jpg"
   },
   {
     "slug": "pork",
@@ -2221,7 +2221,7 @@
   },
   {
     "slug": "chicken-breast",
-    "name_en": "Chicken Breast",
+    "name_en": "Chicken breast",
     "name_it": "Petto di pollo",
     "category_slug": "white-meats",
     "fodmap": "unknown",
@@ -2294,8 +2294,8 @@
     "image": "ingredients/white-meats/chicken.jpg"
   },
   {
-    "slug": "quaglie",
-    "name_en": "Quaglie",
+    "slug": "quails",
+    "name_en": "Quails",
     "name_it": "Quaglie",
     "category_slug": "white-meats",
     "fodmap": "unknown",
@@ -2327,8 +2327,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "quaglie",
-    "slug_en": "quaglie",
-    "image": "ingredients/white-meats/quaglie.jpg"
+    "slug_en": "quails",
+    "image": "ingredients/white-meats/quails.jpg"
   },
   {
     "slug": "sausages",
@@ -2553,8 +2553,8 @@
     "image": "ingredients/cereals-and-derivatives/bulgur.jpg"
   },
   {
-    "slug": "cereali",
-    "name_en": "Cereali",
+    "slug": "cereals",
+    "name_en": "Cereals",
     "name_it": "Cereali",
     "category_slug": "cereals-and-derivatives",
     "fodmap": "unknown",
@@ -2586,12 +2586,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "cereali",
-    "slug_en": "cereali",
-    "image": "ingredients/cereals-and-derivatives/cereali.jpg"
+    "slug_en": "cereals",
+    "image": "ingredients/cereals-and-derivatives/cereals.jpg"
   },
   {
-    "slug": "cous-cous",
-    "name_en": "Cous cous",
+    "slug": "couscous",
+    "name_en": "Couscous",
     "name_it": "Cous cous",
     "category_slug": "cereals-and-derivatives",
     "fodmap": "unknown",
@@ -2623,12 +2623,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "cous-cous",
-    "slug_en": "cous-cous",
-    "image": "ingredients/cereals-and-derivatives/cous-cous.jpg"
+    "slug_en": "couscous",
+    "image": "ingredients/cereals-and-derivatives/couscous.jpg"
   },
   {
-    "slug": "spelt",
-    "name_en": "Spelt",
+    "slug": "farro",
+    "name_en": "Farro",
     "name_it": "Farro",
     "category_slug": "cereals-and-derivatives",
     "fodmap": "unknown",
@@ -2660,8 +2660,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "farro",
-    "slug_en": "spelt",
-    "image": "ingredients/cereals-and-derivatives/spelt.jpg"
+    "slug_en": "farro",
+    "image": "ingredients/cereals-and-derivatives/farro.jpg"
   },
   {
     "slug": "corn",
@@ -2887,7 +2887,7 @@
   },
   {
     "slug": "puffed-rice",
-    "name_en": "Puffed Rice",
+    "name_en": "Puffed rice",
     "name_it": "Riso soffiato",
     "category_slug": "cereals-and-derivatives",
     "fodmap": "unknown",
@@ -2923,8 +2923,8 @@
     "image": "ingredients/cereals-and-derivatives/puffed-rice.jpg"
   },
   {
-    "slug": "rice-venere",
-    "name_en": "Rice Venere",
+    "slug": "black-venus-rice",
+    "name_en": "Black Venus rice",
     "name_it": "Riso venere",
     "category_slug": "cereals-and-derivatives",
     "fodmap": "unknown",
@@ -2956,8 +2956,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "riso-venere",
-    "slug_en": "rice-venere",
-    "image": "ingredients/cereals-and-derivatives/rice-venere.jpg"
+    "slug_en": "black-venus-rice",
+    "image": "ingredients/cereals-and-derivatives/black-venus-rice.jpg"
   },
   {
     "slug": "seitan",
@@ -3035,7 +3035,7 @@
   },
   {
     "slug": "milk-chocolate",
-    "name_en": "Milk Chocolate",
+    "name_en": "Milk chocolate",
     "name_it": "Cioccolato al latte",
     "category_slug": "chocolate",
     "fodmap": "unknown",
@@ -3071,8 +3071,8 @@
     "image": "ingredients/chocolate/milk-chocolate.jpg"
   },
   {
-    "slug": "chocolate-kinder",
-    "name_en": "Chocolate Kinder",
+    "slug": "kinder-chocolate",
+    "name_en": "Kinder chocolate",
     "name_it": "Cioccolato kinder",
     "category_slug": "chocolate",
     "fodmap": "unknown",
@@ -3104,12 +3104,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "cioccolato-kinder",
-    "slug_en": "chocolate-kinder",
-    "image": "ingredients/chocolate/chocolate-kinder.jpg"
+    "slug_en": "kinder-chocolate",
+    "image": "ingredients/chocolate/kinder-chocolate.jpg"
   },
   {
-    "slug": "gianduia",
-    "name_en": "Gianduia",
+    "slug": "gianduja",
+    "name_en": "Gianduja",
     "name_it": "Gianduia",
     "category_slug": "chocolate",
     "fodmap": "unknown",
@@ -3141,12 +3141,12 @@
     "vit_d": "0",
     "vit_e": "1",
     "slug_it": "gianduia",
-    "slug_en": "gianduia",
-    "image": "ingredients/chocolate/gianduia.jpg"
+    "slug_en": "gianduja",
+    "image": "ingredients/chocolate/gianduja.jpg"
   },
   {
-    "slug": "gocce-of-chocolate",
-    "name_en": "Gocce of Chocolate",
+    "slug": "chocolate-chips",
+    "name_en": "Chocolate chips",
     "name_it": "Gocce di cioccolato",
     "category_slug": "chocolate",
     "fodmap": "unknown",
@@ -3178,12 +3178,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "gocce-di-cioccolato",
-    "slug_en": "gocce-of-chocolate",
-    "image": "ingredients/chocolate/gocce-of-chocolate.jpg"
+    "slug_en": "chocolate-chips",
+    "image": "ingredients/chocolate/chocolate-chips.jpg"
   },
   {
     "slug": "kit-kat",
-    "name_en": "Kit kat",
+    "name_en": "Kit Kat",
     "name_it": "Kit kat",
     "category_slug": "chocolate",
     "fodmap": "unknown",
@@ -3220,7 +3220,7 @@
   },
   {
     "slug": "m-ms",
-    "name_en": "M&M's",
+    "name_en": "M&Ms",
     "name_it": "M&M's",
     "category_slug": "chocolate",
     "fodmap": "unknown",
@@ -3330,8 +3330,8 @@
     "image": "ingredients/chocolate/nutella.jpg"
   },
   {
-    "slug": "lobster",
-    "name_en": "Lobster",
+    "slug": "spiny-lobster",
+    "name_en": "Spiny lobster",
     "name_it": "Aragosta",
     "category_slug": "crustaceans-and-molluscs",
     "fodmap": "unknown",
@@ -3363,12 +3363,12 @@
     "vit_d": "0",
     "vit_e": "5",
     "slug_it": "aragosta",
-    "slug_en": "lobster",
-    "image": "ingredients/crustaceans-and-molluscs/lobster.jpg"
+    "slug_en": "spiny-lobster",
+    "image": "ingredients/crustaceans-and-molluscs/spiny-lobster.jpg"
   },
   {
-    "slug": "astice",
-    "name_en": "Astice",
+    "slug": "lobster",
+    "name_en": "Lobster",
     "name_it": "Astice",
     "category_slug": "crustaceans-and-molluscs",
     "fodmap": "unknown",
@@ -3400,8 +3400,8 @@
     "vit_d": "0",
     "vit_e": "4",
     "slug_it": "astice",
-    "slug_en": "astice",
-    "image": "ingredients/crustaceans-and-molluscs/astice.jpg"
+    "slug_en": "lobster",
+    "image": "ingredients/crustaceans-and-molluscs/lobster.jpg"
   },
   {
     "slug": "squid",
@@ -3441,8 +3441,8 @@
     "image": "ingredients/crustaceans-and-molluscs/squid.jpg"
   },
   {
-    "slug": "cannolicchi",
-    "name_en": "Cannolicchi",
+    "slug": "razor-clams",
+    "name_en": "Razor clams",
     "name_it": "Cannolicchi",
     "category_slug": "crustaceans-and-molluscs",
     "fodmap": "unknown",
@@ -3474,12 +3474,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "cannolicchi",
-    "slug_en": "cannolicchi",
-    "image": "ingredients/crustaceans-and-molluscs/cannolicchi.jpg"
+    "slug_en": "razor-clams",
+    "image": "ingredients/crustaceans-and-molluscs/razor-clams.jpg"
   },
   {
-    "slug": "capesante",
-    "name_en": "Capesante",
+    "slug": "scallops",
+    "name_en": "Scallops",
     "name_it": "Capesante",
     "category_slug": "crustaceans-and-molluscs",
     "fodmap": "unknown",
@@ -3511,12 +3511,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "capesante",
-    "slug_en": "capesante",
-    "image": "ingredients/crustaceans-and-molluscs/capesante.jpg"
+    "slug_en": "scallops",
+    "image": "ingredients/crustaceans-and-molluscs/scallops.jpg"
   },
   {
-    "slug": "cicale-seafood",
-    "name_en": "Cicale Seafood",
+    "slug": "mantis-shrimp",
+    "name_en": "Mantis shrimp",
     "name_it": "Cicale di mare",
     "category_slug": "crustaceans-and-molluscs",
     "fodmap": "unknown",
@@ -3548,8 +3548,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "cicale-di-mare",
-    "slug_en": "cicale-seafood",
-    "image": "ingredients/crustaceans-and-molluscs/cicale-seafood.jpg"
+    "slug_en": "mantis-shrimp",
+    "image": "ingredients/crustaceans-and-molluscs/mantis-shrimp.jpg"
   },
   {
     "slug": "mussels",
@@ -3589,8 +3589,8 @@
     "image": "ingredients/crustaceans-and-molluscs/mussels.jpg"
   },
   {
-    "slug": "fasolari",
-    "name_en": "Fasolari",
+    "slug": "smooth-clams",
+    "name_en": "Smooth clams",
     "name_it": "Fasolari",
     "category_slug": "crustaceans-and-molluscs",
     "fodmap": "unknown",
@@ -3622,12 +3622,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "fasolari",
-    "slug_en": "fasolari",
-    "image": "ingredients/crustaceans-and-molluscs/fasolari.jpg"
+    "slug_en": "smooth-clams",
+    "image": "ingredients/crustaceans-and-molluscs/smooth-clams.jpg"
   },
   {
-    "slug": "frutti-seafood",
-    "name_en": "Frutti Seafood",
+    "slug": "seafood",
+    "name_en": "Seafood",
     "name_it": "Frutti di mare",
     "category_slug": "crustaceans-and-molluscs",
     "fodmap": "unknown",
@@ -3659,8 +3659,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "frutti-di-mare",
-    "slug_en": "frutti-seafood",
-    "image": "ingredients/crustaceans-and-molluscs/frutti-seafood.jpg"
+    "slug_en": "seafood",
+    "image": "ingredients/crustaceans-and-molluscs/seafood.jpg"
   },
   {
     "slug": "shrimp",
@@ -3737,8 +3737,8 @@
     "image": "ingredients/crustaceans-and-molluscs/prawns.jpg"
   },
   {
-    "slug": "gamberoni",
-    "name_en": "Gamberoni",
+    "slug": "jumbo-prawns",
+    "name_en": "Jumbo prawns",
     "name_it": "Gamberoni",
     "category_slug": "crustaceans-and-molluscs",
     "fodmap": "unknown",
@@ -3770,12 +3770,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "gamberoni",
-    "slug_en": "gamberoni",
-    "image": "ingredients/crustaceans-and-molluscs/gamberoni.jpg"
+    "slug_en": "jumbo-prawns",
+    "image": "ingredients/crustaceans-and-molluscs/jumbo-prawns.jpg"
   },
   {
-    "slug": "moscardini",
-    "name_en": "Moscardini",
+    "slug": "baby-octopus",
+    "name_en": "Baby octopus",
     "name_it": "Moscardini",
     "category_slug": "crustaceans-and-molluscs",
     "fodmap": "unknown",
@@ -3807,12 +3807,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "moscardini",
-    "slug_en": "moscardini",
-    "image": "ingredients/crustaceans-and-molluscs/moscardini.jpg"
+    "slug_en": "baby-octopus",
+    "image": "ingredients/crustaceans-and-molluscs/baby-octopus.jpg"
   },
   {
-    "slug": "murici",
-    "name_en": "Murici",
+    "slug": "murex-snails",
+    "name_en": "Murex snails",
     "name_it": "Murici",
     "category_slug": "crustaceans-and-molluscs",
     "fodmap": "unknown",
@@ -3844,8 +3844,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "murici",
-    "slug_en": "murici",
-    "image": "ingredients/crustaceans-and-molluscs/murici.jpg"
+    "slug_en": "murex-snails",
+    "image": "ingredients/crustaceans-and-molluscs/murex-snails.jpg"
   },
   {
     "slug": "oysters",
@@ -3885,8 +3885,8 @@
     "image": "ingredients/crustaceans-and-molluscs/oysters.jpg"
   },
   {
-    "slug": "polipetti",
-    "name_en": "Polipetti",
+    "slug": "baby-octopuses",
+    "name_en": "Baby octopuses",
     "name_it": "Polipetti",
     "category_slug": "crustaceans-and-molluscs",
     "fodmap": "unknown",
@@ -3918,12 +3918,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "polipetti",
-    "slug_en": "polipetti",
-    "image": "ingredients/crustaceans-and-molluscs/polipetti.jpg"
+    "slug_en": "baby-octopuses",
+    "image": "ingredients/crustaceans-and-molluscs/baby-octopuses.jpg"
   },
   {
-    "slug": "pulp-of-crab",
-    "name_en": "Pulp of Crab",
+    "slug": "crab-meat",
+    "name_en": "Crab meat",
     "name_it": "Polpa di granchio",
     "category_slug": "crustaceans-and-molluscs",
     "fodmap": "unknown",
@@ -3955,8 +3955,8 @@
     "vit_d": "0",
     "vit_e": "1",
     "slug_it": "polpa-di-granchio",
-    "slug_en": "pulp-of-crab",
-    "image": "ingredients/crustaceans-and-molluscs/pulp-of-crab.jpg"
+    "slug_en": "crab-meat",
+    "image": "ingredients/crustaceans-and-molluscs/crab-meat.jpg"
   },
   {
     "slug": "octopus",
@@ -4070,8 +4070,8 @@
     "image": "ingredients/crustaceans-and-molluscs/cuttlefish.jpg"
   },
   {
-    "slug": "seppioline",
-    "name_en": "Seppioline",
+    "slug": "baby-cuttlefish",
+    "name_en": "Baby cuttlefish",
     "name_it": "Seppioline",
     "category_slug": "crustaceans-and-molluscs",
     "fodmap": "unknown",
@@ -4103,12 +4103,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "seppioline",
-    "slug_en": "seppioline",
-    "image": "ingredients/crustaceans-and-molluscs/seppioline.jpg"
+    "slug_en": "baby-cuttlefish",
+    "image": "ingredients/crustaceans-and-molluscs/baby-cuttlefish.jpg"
   },
   {
-    "slug": "tartufi-seafood",
-    "name_en": "Tartufi Seafood",
+    "slug": "warty-venus-clams",
+    "name_en": "Warty Venus clams",
     "name_it": "Tartufi di mare",
     "category_slug": "crustaceans-and-molluscs",
     "fodmap": "unknown",
@@ -4140,12 +4140,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "tartufi-di-mare",
-    "slug_en": "tartufi-seafood",
-    "image": "ingredients/crustaceans-and-molluscs/tartufi-seafood.jpg"
+    "slug_en": "warty-venus-clams",
+    "image": "ingredients/crustaceans-and-molluscs/warty-venus-clams.jpg"
   },
   {
-    "slug": "telline",
-    "name_en": "Telline",
+    "slug": "wedge-clams",
+    "name_en": "Wedge clams",
     "name_it": "Telline",
     "category_slug": "crustaceans-and-molluscs",
     "fodmap": "unknown",
@@ -4177,8 +4177,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "telline",
-    "slug_en": "telline",
-    "image": "ingredients/crustaceans-and-molluscs/telline.jpg"
+    "slug_en": "wedge-clams",
+    "image": "ingredients/crustaceans-and-molluscs/wedge-clams.jpg"
   },
   {
     "slug": "clams",
@@ -4330,7 +4330,7 @@
   },
   {
     "slug": "maple-syrup",
-    "name_en": "Maple Syrup",
+    "name_en": "Maple syrup",
     "name_it": "Sciroppo d'acero",
     "category_slug": "sweeteners",
     "fodmap": "unknown",
@@ -4367,7 +4367,7 @@
   },
   {
     "slug": "agave-syrup",
-    "name_en": "Agave Syrup",
+    "name_en": "Agave syrup",
     "name_it": "Sciroppo d'agave",
     "category_slug": "sweeteners",
     "fodmap": "unknown",
@@ -4440,8 +4440,8 @@
     "image": "ingredients/sweeteners/sugar.jpg"
   },
   {
-    "slug": "icing-sugar",
-    "name_en": "Icing Sugar",
+    "slug": "powdered-sugar",
+    "name_en": "Powdered sugar",
     "name_it": "Zucchero a velo",
     "category_slug": "sweeteners",
     "fodmap": "unknown",
@@ -4473,12 +4473,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "zucchero-a-velo",
-    "slug_en": "icing-sugar",
-    "image": "ingredients/sweeteners/icing-sugar.jpg"
+    "slug_en": "powdered-sugar",
+    "image": "ingredients/sweeteners/powdered-sugar.jpg"
   },
   {
     "slug": "cane-sugar",
-    "name_en": "Cane Sugar",
+    "name_en": "Cane sugar",
     "name_it": "Zucchero di canna",
     "category_slug": "sweeteners",
     "fodmap": "unknown",
@@ -4515,7 +4515,7 @@
   },
   {
     "slug": "bay-leaf",
-    "name_en": "Bay Leaf",
+    "name_en": "Bay leaf",
     "name_it": "Alloro",
     "category_slug": "aromatic-herbs",
     "fodmap": "unknown",
@@ -4773,8 +4773,8 @@
     "image": "ingredients/aromatic-herbs/juniper.jpg"
   },
   {
-    "slug": "lavanda",
-    "name_en": "Lavanda",
+    "slug": "lavender",
+    "name_en": "Lavender",
     "name_it": "Lavanda",
     "category_slug": "aromatic-herbs",
     "fodmap": "unknown",
@@ -4806,8 +4806,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "lavanda",
-    "slug_en": "lavanda",
-    "image": "ingredients/aromatic-herbs/lavanda.jpg"
+    "slug_en": "lavender",
+    "image": "ingredients/aromatic-herbs/lavender.jpg"
   },
   {
     "slug": "marjoram",
@@ -5070,7 +5070,7 @@
   },
   {
     "slug": "tipo-0-flour",
-    "name_en": "Tipo 0 Flour",
+    "name_en": "Tipo 0 flour",
     "name_it": "Farina 0",
     "category_slug": "flours",
     "fodmap": "unknown",
@@ -5107,7 +5107,7 @@
   },
   {
     "slug": "tipo-00-flour",
-    "name_en": "Tipo 00 Flour",
+    "name_en": "Tipo 00 flour",
     "name_it": "Farina 00",
     "category_slug": "flours",
     "fodmap": "unknown",
@@ -5144,7 +5144,7 @@
   },
   {
     "slug": "hemp-flour",
-    "name_en": "Hemp Flour",
+    "name_en": "Hemp flour",
     "name_it": "Farina di canapa",
     "category_slug": "flours",
     "fodmap": "unknown",
@@ -5181,7 +5181,7 @@
   },
   {
     "slug": "chickpea-flour",
-    "name_en": "Chickpea Flour",
+    "name_en": "Chickpea flour",
     "name_it": "Farina di ceci",
     "category_slug": "flours",
     "fodmap": "unknown",
@@ -5218,7 +5218,7 @@
   },
   {
     "slug": "coconut-flour",
-    "name_en": "Coconut Flour",
+    "name_en": "Coconut flour",
     "name_it": "Farina di cocco",
     "category_slug": "flours",
     "fodmap": "unknown",
@@ -5254,8 +5254,8 @@
     "image": "ingredients/flours/coconut-flour.jpg"
   },
   {
-    "slug": "spelt-flour",
-    "name_en": "Spelt Flour",
+    "slug": "farro-flour",
+    "name_en": "Farro flour",
     "name_it": "Farina di farro",
     "category_slug": "flours",
     "fodmap": "unknown",
@@ -5287,12 +5287,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "farina-di-farro",
-    "slug_en": "spelt-flour",
-    "image": "ingredients/flours/spelt-flour.jpg"
+    "slug_en": "farro-flour",
+    "image": "ingredients/flours/farro-flour.jpg"
   },
   {
     "slug": "buckwheat-flour",
-    "name_en": "Buckwheat Flour",
+    "name_en": "Buckwheat flour",
     "name_it": "Farina di grano saraceno",
     "category_slug": "flours",
     "fodmap": "unknown",
@@ -5328,8 +5328,8 @@
     "image": "ingredients/flours/buckwheat-flour.jpg"
   },
   {
-    "slug": "corn-flour",
-    "name_en": "Corn Flour",
+    "slug": "cornmeal",
+    "name_en": "Cornmeal",
     "name_it": "Farina di mais",
     "category_slug": "flours",
     "fodmap": "unknown",
@@ -5361,12 +5361,12 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "farina-di-mais",
-    "slug_en": "corn-flour",
-    "image": "ingredients/flours/corn-flour.jpg"
+    "slug_en": "cornmeal",
+    "image": "ingredients/flours/cornmeal.jpg"
   },
   {
     "slug": "almond-flour",
-    "name_en": "Almond Flour",
+    "name_en": "Almond flour",
     "name_it": "Farina di mandorle",
     "category_slug": "flours",
     "fodmap": "unknown",
@@ -5403,7 +5403,7 @@
   },
   {
     "slug": "rice-flour",
-    "name_en": "Rice Flour",
+    "name_en": "Rice flour",
     "name_it": "Farina di riso",
     "category_slug": "flours",
     "fodmap": "unknown",
@@ -5440,7 +5440,7 @@
   },
   {
     "slug": "rye-flour",
-    "name_en": "Rye Flour",
+    "name_en": "Rye flour",
     "name_it": "Farina di segale",
     "category_slug": "flours",
     "fodmap": "unknown",
@@ -5476,8 +5476,8 @@
     "image": "ingredients/flours/rye-flour.jpg"
   },
   {
-    "slug": "wholemeal-flour",
-    "name_en": "Wholemeal Flour",
+    "slug": "whole-wheat-flour",
+    "name_en": "Whole wheat flour",
     "name_it": "Farina integrale",
     "category_slug": "flours",
     "fodmap": "unknown",
@@ -5509,12 +5509,12 @@
     "vit_d": "0",
     "vit_e": "1",
     "slug_it": "farina-integrale",
-    "slug_en": "wholemeal-flour",
-    "image": "ingredients/flours/wholemeal-flour.jpg"
+    "slug_en": "whole-wheat-flour",
+    "image": "ingredients/flours/whole-wheat-flour.jpg"
   },
   {
     "slug": "potato-starch",
-    "name_en": "Potato Starch",
+    "name_en": "Potato starch",
     "name_it": "Fecola di patate",
     "category_slug": "flours",
     "fodmap": "unknown",
@@ -5661,8 +5661,8 @@
     "image": "ingredients/flours/semolina.jpg"
   },
   {
-    "slug": "semolino",
-    "name_en": "Semolino",
+    "slug": "semolina-meal",
+    "name_en": "Semolina meal",
     "name_it": "Semolino",
     "category_slug": "flours",
     "fodmap": "unknown",
@@ -5694,8 +5694,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "semolino",
-    "slug_en": "semolino",
-    "image": "ingredients/flours/semolino.jpg"
+    "slug_en": "semolina-meal",
+    "image": "ingredients/flours/semolina-meal.jpg"
   },
   {
     "slug": "brie",
@@ -5809,8 +5809,8 @@
     "image": "ingredients/cheeses/caciotta.jpg"
   },
   {
-    "slug": "caprino",
-    "name_en": "Caprino",
+    "slug": "goat-cheese",
+    "name_en": "Goat cheese",
     "name_it": "Caprino",
     "category_slug": "cheeses",
     "fodmap": "unknown",
@@ -5842,8 +5842,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "caprino",
-    "slug_en": "caprino",
-    "image": "ingredients/cheeses/caprino.jpg"
+    "slug_en": "goat-cheese",
+    "image": "ingredients/cheeses/goat-cheese.jpg"
   },
   {
     "slug": "cheddar",
@@ -5994,8 +5994,8 @@
     "image": "ingredients/cheeses/feta.jpg"
   },
   {
-    "slug": "fior-of-latte",
-    "name_en": "Fior of Latte",
+    "slug": "fior-di-latte",
+    "name_en": "Fior di latte",
     "name_it": "Fior di latte",
     "category_slug": "cheeses",
     "fodmap": "unknown",
@@ -6027,8 +6027,8 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "fior-di-latte",
-    "slug_en": "fior-of-latte",
-    "image": "ingredients/cheeses/fior-of-latte.jpg"
+    "slug_en": "fior-di-latte",
+    "image": "ingredients/cheeses/fior-di-latte.jpg"
   },
   {
     "slug": "fontina",
@@ -6068,8 +6068,8 @@
     "image": "ingredients/cheeses/fontina.jpg"
   },
   {
-    "slug": "cheese-asiago",
-    "name_en": "Cheese Asiago",
+    "slug": "asiago-cheese",
+    "name_en": "Asiago cheese",
     "name_it": "Formaggio asiago",
     "category_slug": "cheeses",
     "fodmap": "unknown",
@@ -6101,12 +6101,12 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "formaggio-asiago",
-    "slug_en": "cheese-asiago",
-    "image": "ingredients/cheeses/cheese-asiago.jpg"
+    "slug_en": "asiago-cheese",
+    "image": "ingredients/cheeses/asiago-cheese.jpg"
   },
   {
-    "slug": "cheese-philadelphia",
-    "name_en": "Cheese Philadelphia",
+    "slug": "philadelphia-cream-cheese",
+    "name_en": "Philadelphia cream cheese",
     "name_it": "Formaggio philadelphia",
     "category_slug": "cheeses",
     "fodmap": "unknown",
@@ -6138,8 +6138,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "formaggio-philadelphia",
-    "slug_en": "cheese-philadelphia",
-    "image": "ingredients/cheeses/cheese-philadelphia.jpg"
+    "slug_en": "philadelphia-cream-cheese",
+    "image": "ingredients/cheeses/philadelphia-cream-cheese.jpg"
   },
   {
     "slug": "galbanino",
@@ -6253,8 +6253,8 @@
     "image": "ingredients/cheeses/grana.jpg"
   },
   {
-    "slug": "gruviera",
-    "name_en": "Gruviera",
+    "slug": "gruyere",
+    "name_en": "Gruyère",
     "name_it": "Gruviera",
     "category_slug": "cheeses",
     "fodmap": "unknown",
@@ -6286,8 +6286,8 @@
     "vit_d": "0",
     "vit_e": "1",
     "slug_it": "gruviera",
-    "slug_en": "gruviera",
-    "image": "ingredients/cheeses/gruviera.jpg"
+    "slug_en": "gruyere",
+    "image": "ingredients/cheeses/gruyere.jpg"
   },
   {
     "slug": "mascarpone",
@@ -6549,8 +6549,8 @@
     "image": "ingredients/cheeses/scamorza.jpg"
   },
   {
-    "slug": "sottilette",
-    "name_en": "Sottilette",
+    "slug": "processed-cheese-slices",
+    "name_en": "Processed cheese slices",
     "name_it": "Sottilette",
     "category_slug": "cheeses",
     "fodmap": "unknown",
@@ -6582,8 +6582,8 @@
     "vit_d": "0",
     "vit_e": "1",
     "slug_it": "sottilette",
-    "slug_en": "sottilette",
-    "image": "ingredients/cheeses/sottilette.jpg"
+    "slug_en": "processed-cheese-slices",
+    "image": "ingredients/cheeses/processed-cheese-slices.jpg"
   },
   {
     "slug": "stracchino",
@@ -6734,8 +6734,8 @@
     "image": "ingredients/fruit/apricots.jpg"
   },
   {
-    "slug": "amarene",
-    "name_en": "Amarene",
+    "slug": "sour-cherries",
+    "name_en": "Sour cherries",
     "name_it": "Amarene",
     "category_slug": "fruit",
     "fodmap": "unknown",
@@ -6767,12 +6767,12 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "amarene",
-    "slug_en": "amarene",
-    "image": "ingredients/fruit/amarene.jpg"
+    "slug_en": "sour-cherries",
+    "image": "ingredients/fruit/sour-cherries.jpg"
   },
   {
-    "slug": "anguria",
-    "name_en": "Anguria",
+    "slug": "watermelon",
+    "name_en": "Watermelon",
     "name_it": "Anguria",
     "category_slug": "fruit",
     "fodmap": "unknown",
@@ -6804,8 +6804,8 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "anguria",
-    "slug_en": "anguria",
-    "image": "ingredients/fruit/anguria.jpg"
+    "slug_en": "watermelon",
+    "image": "ingredients/fruit/watermelon.jpg"
   },
   {
     "slug": "oranges",
@@ -6882,8 +6882,8 @@
     "image": "ingredients/fruit/bananas.jpg"
   },
   {
-    "slug": "cachi",
-    "name_en": "Cachi",
+    "slug": "persimmons",
+    "name_en": "Persimmons",
     "name_it": "Cachi",
     "category_slug": "fruit",
     "fodmap": "unknown",
@@ -6915,8 +6915,8 @@
     "vit_d": "0",
     "vit_e": "1",
     "slug_it": "cachi",
-    "slug_en": "cachi",
-    "image": "ingredients/fruit/cachi.jpg"
+    "slug_en": "persimmons",
+    "image": "ingredients/fruit/persimmons.jpg"
   },
   {
     "slug": "cherries",
@@ -6993,8 +6993,8 @@
     "image": "ingredients/fruit/figs.jpg"
   },
   {
-    "slug": "figs-dindia",
-    "name_en": "Figs D'india",
+    "slug": "prickly-pears",
+    "name_en": "Prickly pears",
     "name_it": "Fichi d'india",
     "category_slug": "fruit",
     "fodmap": "unknown",
@@ -7026,8 +7026,8 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "fichi-dindia",
-    "slug_en": "figs-dindia",
-    "image": "ingredients/fruit/figs-dindia.jpg"
+    "slug_en": "prickly-pears",
+    "image": "ingredients/fruit/prickly-pears.jpg"
   },
   {
     "slug": "strawberries",
@@ -7067,8 +7067,8 @@
     "image": "ingredients/fruit/strawberries.jpg"
   },
   {
-    "slug": "fragoline",
-    "name_en": "Fragoline",
+    "slug": "wild-strawberries",
+    "name_en": "Wild strawberries",
     "name_it": "Fragoline",
     "category_slug": "fruit",
     "fodmap": "unknown",
@@ -7100,12 +7100,12 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "fragoline",
-    "slug_en": "fragoline",
-    "image": "ingredients/fruit/fragoline.jpg"
+    "slug_en": "wild-strawberries",
+    "image": "ingredients/fruit/wild-strawberries.jpg"
   },
   {
-    "slug": "frutti-of-bosco",
-    "name_en": "Frutti of Bosco",
+    "slug": "berries",
+    "name_en": "Berries",
     "name_it": "Frutti di bosco",
     "category_slug": "fruit",
     "fodmap": "unknown",
@@ -7137,12 +7137,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "frutti-di-bosco",
-    "slug_en": "frutti-of-bosco",
-    "image": "ingredients/fruit/frutti-of-bosco.jpg"
+    "slug_en": "berries",
+    "image": "ingredients/fruit/berries.jpg"
   },
   {
-    "slug": "gelsi",
-    "name_en": "Gelsi",
+    "slug": "mulberries",
+    "name_en": "Mulberries",
     "name_it": "Gelsi",
     "category_slug": "fruit",
     "fodmap": "unknown",
@@ -7174,8 +7174,8 @@
     "vit_d": "0",
     "vit_e": "1",
     "slug_it": "gelsi",
-    "slug_en": "gelsi",
-    "image": "ingredients/fruit/gelsi.jpg"
+    "slug_en": "mulberries",
+    "image": "ingredients/fruit/mulberries.jpg"
   },
   {
     "slug": "kiwi",
@@ -7289,8 +7289,8 @@
     "image": "ingredients/fruit/lemon.jpg"
   },
   {
-    "slug": "mandarini",
-    "name_en": "Mandarini",
+    "slug": "tangerines",
+    "name_en": "Tangerines",
     "name_it": "Mandarini",
     "category_slug": "fruit",
     "fodmap": "unknown",
@@ -7322,8 +7322,8 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "mandarini",
-    "slug_en": "mandarini",
-    "image": "ingredients/fruit/mandarini.jpg"
+    "slug_en": "tangerines",
+    "image": "ingredients/fruit/tangerines.jpg"
   },
   {
     "slug": "mapo",
@@ -7400,8 +7400,8 @@
     "image": "ingredients/fruit/apple.jpg"
   },
   {
-    "slug": "melograno",
-    "name_en": "Melograno",
+    "slug": "pomegranate",
+    "name_en": "Pomegranate",
     "name_it": "Melograno",
     "category_slug": "fruit",
     "fodmap": "unknown",
@@ -7433,12 +7433,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "melograno",
-    "slug_en": "melograno",
-    "image": "ingredients/fruit/melograno.jpg"
+    "slug_en": "pomegranate",
+    "image": "ingredients/fruit/pomegranate.jpg"
   },
   {
-    "slug": "melone",
-    "name_en": "Melone",
+    "slug": "melon",
+    "name_en": "Melon",
     "name_it": "Melone",
     "category_slug": "fruit",
     "fodmap": "unknown",
@@ -7470,8 +7470,8 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "melone",
-    "slug_en": "melone",
-    "image": "ingredients/fruit/melone.jpg"
+    "slug_en": "melon",
+    "image": "ingredients/fruit/melon.jpg"
   },
   {
     "slug": "blueberries",
@@ -7548,8 +7548,8 @@
     "image": "ingredients/fruit/blackberries.jpg"
   },
   {
-    "slug": "nespole",
-    "name_en": "Nespole",
+    "slug": "loquats",
+    "name_en": "Loquats",
     "name_it": "Nespole",
     "category_slug": "fruit",
     "fodmap": "unknown",
@@ -7581,12 +7581,12 @@
     "vit_d": "0",
     "vit_e": "1",
     "slug_it": "nespole",
-    "slug_en": "nespole",
-    "image": "ingredients/fruit/nespole.jpg"
+    "slug_en": "loquats",
+    "image": "ingredients/fruit/loquats.jpg"
   },
   {
     "slug": "black-olives",
-    "name_en": "Black Olives",
+    "name_en": "Black olives",
     "name_it": "Olive nere",
     "category_slug": "fruit",
     "fodmap": "unknown",
@@ -7623,7 +7623,7 @@
   },
   {
     "slug": "green-olives",
-    "name_en": "Green Olives",
+    "name_en": "Green olives",
     "name_it": "Olive verdi",
     "category_slug": "fruit",
     "fodmap": "unknown",
@@ -7770,8 +7770,8 @@
     "image": "ingredients/fruit/plums.jpg"
   },
   {
-    "slug": "ribes",
-    "name_en": "Ribes",
+    "slug": "currants",
+    "name_en": "Currants",
     "name_it": "Ribes",
     "category_slug": "fruit",
     "fodmap": "unknown",
@@ -7803,8 +7803,8 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "ribes",
-    "slug_en": "ribes",
-    "image": "ingredients/fruit/ribes.jpg"
+    "slug_en": "currants",
+    "image": "ingredients/fruit/currants.jpg"
   },
   {
     "slug": "grapes",
@@ -8140,8 +8140,8 @@
     "image": "ingredients/exotic-fruit/papaya.jpg"
   },
   {
-    "slug": "platano",
-    "name_en": "Platano",
+    "slug": "plantain",
+    "name_en": "Plantain",
     "name_it": "Platano",
     "category_slug": "exotic-fruit",
     "fodmap": "unknown",
@@ -8173,12 +8173,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "platano",
-    "slug_en": "platano",
-    "image": "ingredients/exotic-fruit/platano.jpg"
+    "slug_en": "plantain",
+    "image": "ingredients/exotic-fruit/plantain.jpg"
   },
   {
-    "slug": "tamarindo",
-    "name_en": "Tamarindo",
+    "slug": "tamarind",
+    "name_en": "Tamarind",
     "name_it": "Tamarindo",
     "category_slug": "exotic-fruit",
     "fodmap": "unknown",
@@ -8210,8 +8210,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "tamarindo",
-    "slug_en": "tamarindo",
-    "image": "ingredients/exotic-fruit/tamarindo.jpg"
+    "slug_en": "tamarind",
+    "image": "ingredients/exotic-fruit/tamarind.jpg"
   },
   {
     "slug": "cashews",
@@ -8288,8 +8288,8 @@
     "image": "ingredients/dried-fruit/peanuts.jpg"
   },
   {
-    "slug": "bacche-of-goji",
-    "name_en": "Bacche of Goji",
+    "slug": "goji-berries",
+    "name_en": "Goji berries",
     "name_it": "Bacche di Goji",
     "category_slug": "dried-fruit",
     "fodmap": "unknown",
@@ -8321,8 +8321,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "bacche-di-goji",
-    "slug_en": "bacche-of-goji",
-    "image": "ingredients/dried-fruit/bacche-of-goji.jpg"
+    "slug_en": "goji-berries",
+    "image": "ingredients/dried-fruit/goji-berries.jpg"
   },
   {
     "slug": "chestnuts",
@@ -8362,8 +8362,8 @@
     "image": "ingredients/dried-fruit/chestnuts.jpg"
   },
   {
-    "slug": "figs-dried",
-    "name_en": "Figs Dried",
+    "slug": "dried-figs",
+    "name_en": "Dried figs",
     "name_it": "Fichi secchi",
     "category_slug": "dried-fruit",
     "fodmap": "unknown",
@@ -8395,12 +8395,12 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "fichi-secchi",
-    "slug_en": "figs-dried",
-    "image": "ingredients/dried-fruit/figs-dried.jpg"
+    "slug_en": "dried-figs",
+    "image": "ingredients/dried-fruit/dried-figs.jpg"
   },
   {
-    "slug": "granella-of-hazelnuts",
-    "name_en": "Granella of Hazelnuts",
+    "slug": "chopped-hazelnuts",
+    "name_en": "Chopped hazelnuts",
     "name_it": "Granella di nocciole",
     "category_slug": "dried-fruit",
     "fodmap": "unknown",
@@ -8432,8 +8432,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "granella-di-nocciole",
-    "slug_en": "granella-of-hazelnuts",
-    "image": "ingredients/dried-fruit/granella-of-hazelnuts.jpg"
+    "slug_en": "chopped-hazelnuts",
+    "image": "ingredients/dried-fruit/chopped-hazelnuts.jpg"
   },
   {
     "slug": "almonds",
@@ -8585,7 +8585,7 @@
   },
   {
     "slug": "pine-nuts",
-    "name_en": "Pine Nuts",
+    "name_en": "Pine nuts",
     "name_it": "Pinoli",
     "category_slug": "dried-fruit",
     "fodmap": "unknown",
@@ -8695,8 +8695,8 @@
     "image": "ingredients/dried-fruit/raisins.jpg"
   },
   {
-    "slug": "barbabietole-rosse",
-    "name_en": "Barbabietole rosse",
+    "slug": "beets",
+    "name_en": "Beets",
     "name_it": "Barbabietole rosse",
     "category_slug": "mushrooms-and-tubers",
     "fodmap": "unknown",
@@ -8728,8 +8728,8 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "barbabietole-rosse",
-    "slug_en": "barbabietole-rosse",
-    "image": "ingredients/mushrooms-and-tubers/barbabietole-rosse.jpg"
+    "slug_en": "beets",
+    "image": "ingredients/mushrooms-and-tubers/beets.jpg"
   },
   {
     "slug": "carrots",
@@ -8843,8 +8843,8 @@
     "image": "ingredients/mushrooms-and-tubers/mushrooms.jpg"
   },
   {
-    "slug": "mushrooms-button-mushrooms",
-    "name_en": "Mushrooms Button Mushrooms",
+    "slug": "button-mushrooms",
+    "name_en": "Button mushrooms",
     "name_it": "Funghi champignon",
     "category_slug": "mushrooms-and-tubers",
     "fodmap": "unknown",
@@ -8876,12 +8876,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "funghi-champignon",
-    "slug_en": "mushrooms-button-mushrooms",
-    "image": "ingredients/mushrooms-and-tubers/mushrooms-button-mushrooms.jpg"
+    "slug_en": "button-mushrooms",
+    "image": "ingredients/mushrooms-and-tubers/button-mushrooms.jpg"
   },
   {
-    "slug": "mushrooms-porcini-mushrooms",
-    "name_en": "Mushrooms Porcini Mushrooms",
+    "slug": "porcini-mushrooms",
+    "name_en": "Porcini mushrooms",
     "name_it": "Funghi porcini",
     "category_slug": "mushrooms-and-tubers",
     "fodmap": "unknown",
@@ -8913,12 +8913,12 @@
     "vit_d": "3",
     "vit_e": "0",
     "slug_it": "funghi-porcini",
-    "slug_en": "mushrooms-porcini-mushrooms",
-    "image": "ingredients/mushrooms-and-tubers/mushrooms-porcini-mushrooms.jpg"
+    "slug_en": "porcini-mushrooms",
+    "image": "ingredients/mushrooms-and-tubers/porcini-mushrooms.jpg"
   },
   {
-    "slug": "mushrooms-dried",
-    "name_en": "Mushrooms Dried",
+    "slug": "dried-mushrooms",
+    "name_en": "Dried mushrooms",
     "name_it": "Funghi secchi",
     "category_slug": "mushrooms-and-tubers",
     "fodmap": "unknown",
@@ -8950,8 +8950,8 @@
     "vit_d": "2",
     "vit_e": "0",
     "slug_it": "funghi-secchi",
-    "slug_en": "mushrooms-dried",
-    "image": "ingredients/mushrooms-and-tubers/mushrooms-dried.jpg"
+    "slug_en": "dried-mushrooms",
+    "image": "ingredients/mushrooms-and-tubers/dried-mushrooms.jpg"
   },
   {
     "slug": "potatoes",
@@ -8992,7 +8992,7 @@
   },
   {
     "slug": "sweet-potatoes",
-    "name_en": "Sweet Potatoes",
+    "name_en": "Sweet potatoes",
     "name_it": "Patate dolci",
     "category_slug": "mushrooms-and-tubers",
     "fodmap": "unknown",
@@ -9028,8 +9028,8 @@
     "image": "ingredients/mushrooms-and-tubers/sweet-potatoes.jpg"
   },
   {
-    "slug": "potatoes-novelle",
-    "name_en": "Potatoes Novelle",
+    "slug": "new-potatoes",
+    "name_en": "New potatoes",
     "name_it": "Patate novelle",
     "category_slug": "mushrooms-and-tubers",
     "fodmap": "unknown",
@@ -9061,8 +9061,8 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "patate-novelle",
-    "slug_en": "potatoes-novelle",
-    "image": "ingredients/mushrooms-and-tubers/potatoes-novelle.jpg"
+    "slug_en": "new-potatoes",
+    "image": "ingredients/mushrooms-and-tubers/new-potatoes.jpg"
   },
   {
     "slug": "radishes",
@@ -9102,8 +9102,8 @@
     "image": "ingredients/mushrooms-and-tubers/radishes.jpg"
   },
   {
-    "slug": "celery-turnip",
-    "name_en": "Celery Turnip",
+    "slug": "celeriac",
+    "name_en": "Celeriac",
     "name_it": "Sedano rapa",
     "category_slug": "mushrooms-and-tubers",
     "fodmap": "unknown",
@@ -9135,8 +9135,8 @@
     "vit_d": "0",
     "vit_e": "1",
     "slug_it": "sedano-rapa",
-    "slug_en": "celery-turnip",
-    "image": "ingredients/mushrooms-and-tubers/celery-turnip.jpg"
+    "slug_en": "celeriac",
+    "image": "ingredients/mushrooms-and-tubers/celeriac.jpg"
   },
   {
     "slug": "tapioca",
@@ -9214,7 +9214,7 @@
   },
   {
     "slug": "jerusalem-artichoke",
-    "name_en": "Jerusalem Artichoke",
+    "name_en": "Jerusalem artichoke",
     "name_it": "Topinambur",
     "category_slug": "mushrooms-and-tubers",
     "fodmap": "unknown",
@@ -9361,8 +9361,8 @@
     "image": "ingredients/milk-and-derivatives/dulce-de-leche.jpg"
   },
   {
-    "slug": "fiocchi-of-latte",
-    "name_en": "Fiocchi of Latte",
+    "slug": "cottage-cheese",
+    "name_en": "Cottage cheese",
     "name_it": "Fiocchi di latte",
     "category_slug": "milk-and-derivatives",
     "fodmap": "unknown",
@@ -9394,12 +9394,12 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "fiocchi-di-latte",
-    "slug_en": "fiocchi-of-latte",
-    "image": "ingredients/milk-and-derivatives/fiocchi-of-latte.jpg"
+    "slug_en": "cottage-cheese",
+    "image": "ingredients/milk-and-derivatives/cottage-cheese.jpg"
   },
   {
     "slug": "ice-cream",
-    "name_en": "Ice Cream",
+    "name_en": "Ice cream",
     "name_it": "Gelato",
     "category_slug": "milk-and-derivatives",
     "fodmap": "unknown",
@@ -9472,8 +9472,8 @@
     "image": "ingredients/milk-and-derivatives/kefir.jpg"
   },
   {
-    "slug": "latte",
-    "name_en": "Latte",
+    "slug": "milk",
+    "name_en": "Milk",
     "name_it": "Latte",
     "category_slug": "milk-and-derivatives",
     "fodmap": "unknown",
@@ -9505,12 +9505,12 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "latte",
-    "slug_en": "latte",
-    "image": "ingredients/milk-and-derivatives/latte.jpg"
+    "slug_en": "milk",
+    "image": "ingredients/milk-and-derivatives/milk.jpg"
   },
   {
     "slug": "condensed-milk",
-    "name_en": "Condensed Milk",
+    "name_en": "Condensed milk",
     "name_it": "Latte condensato",
     "category_slug": "milk-and-derivatives",
     "fodmap": "unknown",
@@ -9547,7 +9547,7 @@
   },
   {
     "slug": "coconut-milk",
-    "name_en": "Coconut Milk",
+    "name_en": "Coconut milk",
     "name_it": "Latte di cocco",
     "category_slug": "milk-and-derivatives",
     "fodmap": "unknown",
@@ -9584,7 +9584,7 @@
   },
   {
     "slug": "almond-milk",
-    "name_en": "Almond Milk",
+    "name_en": "Almond milk",
     "name_it": "Latte di mandorla",
     "category_slug": "milk-and-derivatives",
     "fodmap": "unknown",
@@ -9621,7 +9621,7 @@
   },
   {
     "slug": "soy-milk",
-    "name_en": "Soy Milk",
+    "name_en": "Soy milk",
     "name_it": "Latte di soia",
     "category_slug": "milk-and-derivatives",
     "fodmap": "unknown",
@@ -9657,8 +9657,8 @@
     "image": "ingredients/milk-and-derivatives/soy-milk.jpg"
   },
   {
-    "slug": "latticello",
-    "name_en": "Latticello",
+    "slug": "buttermilk",
+    "name_en": "Buttermilk",
     "name_it": "Latticello",
     "category_slug": "milk-and-derivatives",
     "fodmap": "unknown",
@@ -9690,12 +9690,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "latticello",
-    "slug_en": "latticello",
-    "image": "ingredients/milk-and-derivatives/latticello.jpg"
+    "slug_en": "buttermilk",
+    "image": "ingredients/milk-and-derivatives/buttermilk.jpg"
   },
   {
     "slug": "sour-cream",
-    "name_en": "Sour Cream",
+    "name_en": "Sour cream",
     "name_it": "Panna acida",
     "category_slug": "milk-and-derivatives",
     "fodmap": "unknown",
@@ -9732,7 +9732,7 @@
   },
   {
     "slug": "cooking-cream",
-    "name_en": "Cooking Cream",
+    "name_en": "Cooking cream",
     "name_it": "Panna da cucina",
     "category_slug": "milk-and-derivatives",
     "fodmap": "unknown",
@@ -9769,7 +9769,7 @@
   },
   {
     "slug": "fresh-cream",
-    "name_en": "Fresh Cream",
+    "name_en": "Fresh cream",
     "name_it": "Panna fresca",
     "category_slug": "milk-and-derivatives",
     "fodmap": "unknown",
@@ -9805,8 +9805,8 @@
     "image": "ingredients/milk-and-derivatives/fresh-cream.jpg"
   },
   {
-    "slug": "panna-for-sweets",
-    "name_en": "Panna for Sweets",
+    "slug": "whipping-cream",
+    "name_en": "Whipping cream",
     "name_it": "Panna per dolci",
     "category_slug": "milk-and-derivatives",
     "fodmap": "unknown",
@@ -9838,8 +9838,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "panna-per-dolci",
-    "slug_en": "panna-for-sweets",
-    "image": "ingredients/milk-and-derivatives/panna-for-sweets.jpg"
+    "slug_en": "whipping-cream",
+    "image": "ingredients/milk-and-derivatives/whipping-cream.jpg"
   },
   {
     "slug": "yogurt",
@@ -9880,7 +9880,7 @@
   },
   {
     "slug": "greek-yogurt",
-    "name_en": "Greek Yogurt",
+    "name_en": "Greek yogurt",
     "name_it": "Yogurt greco",
     "category_slug": "milk-and-derivatives",
     "fodmap": "unknown",
@@ -10176,7 +10176,7 @@
   },
   {
     "slug": "green-beans",
-    "name_en": "Green Beans",
+    "name_en": "Green beans",
     "name_it": "Fagiolini",
     "category_slug": "legumes",
     "fodmap": "unknown",
@@ -10212,8 +10212,8 @@
     "image": "ingredients/legumes/green-beans.jpg"
   },
   {
-    "slug": "broad-beans",
-    "name_en": "Broad Beans",
+    "slug": "fava-beans",
+    "name_en": "Fava beans",
     "name_it": "Fave",
     "category_slug": "legumes",
     "fodmap": "unknown",
@@ -10245,8 +10245,8 @@
     "vit_d": "0",
     "vit_e": "2",
     "slug_it": "fave",
-    "slug_en": "broad-beans",
-    "image": "ingredients/legumes/broad-beans.jpg"
+    "slug_en": "fava-beans",
+    "image": "ingredients/legumes/fava-beans.jpg"
   },
   {
     "slug": "lentils",
@@ -10286,8 +10286,8 @@
     "image": "ingredients/legumes/lentils.jpg"
   },
   {
-    "slug": "lupini",
-    "name_en": "Lupini",
+    "slug": "lupini-beans",
+    "name_en": "Lupini beans",
     "name_it": "Lupini",
     "category_slug": "legumes",
     "fodmap": "unknown",
@@ -10319,8 +10319,8 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "lupini",
-    "slug_en": "lupini",
-    "image": "ingredients/legumes/lupini.jpg"
+    "slug_en": "lupini-beans",
+    "image": "ingredients/legumes/lupini-beans.jpg"
   },
   {
     "slug": "peas",
@@ -10397,8 +10397,8 @@
     "image": "ingredients/legumes/soy.jpg"
   },
   {
-    "slug": "taccole",
-    "name_en": "Taccole",
+    "slug": "snow-peas",
+    "name_en": "Snow peas",
     "name_it": "Taccole",
     "category_slug": "legumes",
     "fodmap": "unknown",
@@ -10430,12 +10430,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "taccole",
-    "slug_en": "taccole",
-    "image": "ingredients/legumes/taccole.jpg"
+    "slug_en": "snow-peas",
+    "image": "ingredients/legumes/snow-peas.jpg"
   },
   {
     "slug": "balsamic-vinegar",
-    "name_en": "Balsamic Vinegar",
+    "name_en": "Balsamic vinegar",
     "name_it": "Aceto balsamico",
     "category_slug": "oils-and-seasonings",
     "fodmap": "unknown",
@@ -10509,7 +10509,7 @@
   },
   {
     "slug": "peanut-butter",
-    "name_en": "Peanut Butter",
+    "name_en": "Peanut butter",
     "name_it": "Burro di arachidi",
     "category_slug": "oils-and-seasonings",
     "fodmap": "unknown",
@@ -10545,8 +10545,8 @@
     "image": "ingredients/oils-and-seasonings/peanut-butter.jpg"
   },
   {
-    "slug": "colatura-of-anchovies",
-    "name_en": "Colatura of Anchovies",
+    "slug": "anchovy-colatura",
+    "name_en": "Anchovy colatura",
     "name_it": "Colatura di alici",
     "category_slug": "oils-and-seasonings",
     "fodmap": "unknown",
@@ -10578,8 +10578,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "colatura-di-alici",
-    "slug_en": "colatura-of-anchovies",
-    "image": "ingredients/oils-and-seasonings/colatura-of-anchovies.jpg"
+    "slug_en": "anchovy-colatura",
+    "image": "ingredients/oils-and-seasonings/anchovy-colatura.jpg"
   },
   {
     "slug": "ketchup",
@@ -10730,8 +10730,8 @@
     "image": "ingredients/oils-and-seasonings/miso.jpg"
   },
   {
-    "slug": "nero-of-cuttlefish",
-    "name_en": "Nero of Cuttlefish",
+    "slug": "cuttlefish-ink",
+    "name_en": "Cuttlefish ink",
     "name_it": "Nero di seppia",
     "category_slug": "oils-and-seasonings",
     "fodmap": "unknown",
@@ -10763,12 +10763,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "nero-di-seppia",
-    "slug_en": "nero-of-cuttlefish",
-    "image": "ingredients/oils-and-seasonings/nero-of-cuttlefish.jpg"
+    "slug_en": "cuttlefish-ink",
+    "image": "ingredients/oils-and-seasonings/cuttlefish-ink.jpg"
   },
   {
     "slug": "coconut-oil",
-    "name_en": "Coconut Oil",
+    "name_en": "Coconut oil",
     "name_it": "Olio di cocco",
     "category_slug": "oils-and-seasonings",
     "fodmap": "unknown",
@@ -10805,7 +10805,7 @@
   },
   {
     "slug": "olive-oil",
-    "name_en": "Olive Oil",
+    "name_en": "Olive oil",
     "name_it": "Olio di oliva",
     "category_slug": "oils-and-seasonings",
     "fodmap": "unknown",
@@ -10842,7 +10842,7 @@
   },
   {
     "slug": "seed-oil",
-    "name_en": "Seed Oil",
+    "name_en": "Seed oil",
     "name_it": "Olio di semi",
     "category_slug": "oils-and-seasonings",
     "fodmap": "unknown",
@@ -10878,8 +10878,8 @@
     "image": "ingredients/oils-and-seasonings/seed-oil.jpg"
   },
   {
-    "slug": "pasta-wasabi",
-    "name_en": "Pasta wasabi",
+    "slug": "wasabi-paste",
+    "name_en": "Wasabi paste",
     "name_it": "Pasta wasabi",
     "category_slug": "oils-and-seasonings",
     "fodmap": "unknown",
@@ -10911,8 +10911,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "pasta-wasabi",
-    "slug_en": "pasta-wasabi",
-    "image": "ingredients/oils-and-seasonings/pasta-wasabi.jpg"
+    "slug_en": "wasabi-paste",
+    "image": "ingredients/oils-and-seasonings/wasabi-paste.jpg"
   },
   {
     "slug": "salt",
@@ -10953,7 +10953,7 @@
   },
   {
     "slug": "fish-sauce",
-    "name_en": "Fish Sauce",
+    "name_en": "Fish sauce",
     "name_it": "Salsa di pesce",
     "category_slug": "oils-and-seasonings",
     "fodmap": "unknown",
@@ -10990,7 +10990,7 @@
   },
   {
     "slug": "soy-sauce",
-    "name_en": "Soy Sauce",
+    "name_en": "Soy sauce",
     "name_it": "Salsa di soia",
     "category_slug": "oils-and-seasonings",
     "fodmap": "unknown",
@@ -11026,8 +11026,8 @@
     "image": "ingredients/oils-and-seasonings/soy-sauce.jpg"
   },
   {
-    "slug": "salsa-worcester",
-    "name_en": "Salsa worcester",
+    "slug": "worcestershire-sauce",
+    "name_en": "Worcestershire sauce",
     "name_it": "Salsa worcester",
     "category_slug": "oils-and-seasonings",
     "fodmap": "unknown",
@@ -11059,8 +11059,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "salsa-worcester",
-    "slug_en": "salsa-worcester",
-    "image": "ingredients/oils-and-seasonings/salsa-worcester.jpg"
+    "slug_en": "worcestershire-sauce",
+    "image": "ingredients/oils-and-seasonings/worcestershire-sauce.jpg"
   },
   {
     "slug": "mustard",
@@ -11322,8 +11322,8 @@
     "image": "ingredients/vegetables/artichokes.jpg"
   },
   {
-    "slug": "cardi",
-    "name_en": "Cardi",
+    "slug": "cardoons",
+    "name_en": "Cardoons",
     "name_it": "Cardi",
     "category_slug": "vegetables",
     "fodmap": "unknown",
@@ -11355,8 +11355,8 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "cardi",
-    "slug_en": "cardi",
-    "image": "ingredients/vegetables/cardi.jpg"
+    "slug_en": "cardoons",
+    "image": "ingredients/vegetables/cardoons.jpg"
   },
   {
     "slug": "cauliflower",
@@ -11397,7 +11397,7 @@
   },
   {
     "slug": "brussels-sprouts",
-    "name_en": "Brussels Sprouts",
+    "name_en": "Brussels sprouts",
     "name_it": "Cavolini di Bruxelles",
     "category_slug": "vegetables",
     "fodmap": "unknown",
@@ -11434,7 +11434,7 @@
   },
   {
     "slug": "red-cabbage",
-    "name_en": "Red Cabbage",
+    "name_en": "Red cabbage",
     "name_it": "Cavolo rosso",
     "category_slug": "vegetables",
     "fodmap": "unknown",
@@ -11507,8 +11507,8 @@
     "image": "ingredients/vegetables/cucumbers.jpg"
   },
   {
-    "slug": "cime-of-turnip",
-    "name_en": "Cime of Turnip",
+    "slug": "broccoli-rabe",
+    "name_en": "Broccoli rabe",
     "name_it": "Cime di rapa",
     "category_slug": "vegetables",
     "fodmap": "unknown",
@@ -11540,12 +11540,12 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "cime-di-rapa",
-    "slug_en": "cime-of-turnip",
-    "image": "ingredients/vegetables/cime-of-turnip.jpg"
+    "slug_en": "broccoli-rabe",
+    "image": "ingredients/vegetables/broccoli-rabe.jpg"
   },
   {
-    "slug": "onion-of-tropea",
-    "name_en": "Onion of Tropea",
+    "slug": "tropea-onion",
+    "name_en": "Tropea onion",
     "name_it": "Cipolla di Tropea",
     "category_slug": "vegetables",
     "fodmap": "unknown",
@@ -11577,8 +11577,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "cipolla-di-tropea",
-    "slug_en": "onion-of-tropea",
-    "image": "ingredients/vegetables/onion-of-tropea.jpg"
+    "slug_en": "tropea-onion",
+    "image": "ingredients/vegetables/tropea-onion.jpg"
   },
   {
     "slug": "onions",
@@ -11618,8 +11618,8 @@
     "image": "ingredients/vegetables/onions.jpg"
   },
   {
-    "slug": "cipollotti",
-    "name_en": "Cipollotti",
+    "slug": "spring-onions",
+    "name_en": "Spring onions",
     "name_it": "Cipollotti",
     "category_slug": "vegetables",
     "fodmap": "unknown",
@@ -11651,12 +11651,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "cipollotti",
-    "slug_en": "cipollotti",
-    "image": "ingredients/vegetables/cipollotti.jpg"
+    "slug_en": "spring-onions",
+    "image": "ingredients/vegetables/spring-onions.jpg"
   },
   {
-    "slug": "finocchi",
-    "name_en": "Finocchi",
+    "slug": "fennel",
+    "name_en": "Fennel",
     "name_it": "Finocchi",
     "category_slug": "vegetables",
     "fodmap": "unknown",
@@ -11688,12 +11688,12 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "finocchi",
-    "slug_en": "finocchi",
-    "image": "ingredients/vegetables/finocchi.jpg"
+    "slug_en": "fennel",
+    "image": "ingredients/vegetables/fennel.jpg"
   },
   {
-    "slug": "friggitelli",
-    "name_en": "Friggitelli",
+    "slug": "friggitelli-peppers",
+    "name_en": "Friggitelli peppers",
     "name_it": "Friggitelli",
     "category_slug": "vegetables",
     "fodmap": "unknown",
@@ -11725,12 +11725,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "friggitelli",
-    "slug_en": "friggitelli",
-    "image": "ingredients/vegetables/friggitelli.jpg"
+    "slug_en": "friggitelli-peppers",
+    "image": "ingredients/vegetables/friggitelli-peppers.jpg"
   },
   {
-    "slug": "eggplants",
-    "name_en": "Eggplants",
+    "slug": "eggplant",
+    "name_en": "Eggplant",
     "name_it": "Melanzane",
     "category_slug": "vegetables",
     "fodmap": "unknown",
@@ -11762,12 +11762,12 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "melanzane",
-    "slug_en": "eggplants",
-    "image": "ingredients/vegetables/eggplants.jpg"
+    "slug_en": "eggplant",
+    "image": "ingredients/vegetables/eggplant.jpg"
   },
   {
     "slug": "bell-peppers",
-    "name_en": "Bell Peppers",
+    "name_en": "Bell peppers",
     "name_it": "Peperoni",
     "category_slug": "vegetables",
     "fodmap": "unknown",
@@ -11841,7 +11841,7 @@
   },
   {
     "slug": "cherry-tomatoes",
-    "name_en": "Cherry Tomatoes",
+    "name_en": "Cherry tomatoes",
     "name_it": "Pomodorini",
     "category_slug": "vegetables",
     "fodmap": "unknown",
@@ -12840,7 +12840,7 @@
   },
   {
     "slug": "salt-cod",
-    "name_en": "Salt Cod",
+    "name_en": "Salt cod",
     "name_it": "Baccalà",
     "category_slug": "fish",
     "fodmap": "unknown",
@@ -12876,8 +12876,8 @@
     "image": "ingredients/fish/salt-cod.jpg"
   },
   {
-    "slug": "bianchetti",
-    "name_en": "Bianchetti",
+    "slug": "whitebait",
+    "name_en": "Whitebait",
     "name_it": "Bianchetti",
     "category_slug": "fish",
     "fodmap": "unknown",
@@ -12909,12 +12909,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "bianchetti",
-    "slug_en": "bianchetti",
-    "image": "ingredients/fish/bianchetti.jpg"
+    "slug_en": "whitebait",
+    "image": "ingredients/fish/whitebait.jpg"
   },
   {
-    "slug": "cefalo",
-    "name_en": "Cefalo",
+    "slug": "mullet",
+    "name_en": "Mullet",
     "name_it": "Cefalo",
     "category_slug": "fish",
     "fodmap": "unknown",
@@ -12946,12 +12946,12 @@
     "vit_d": "1",
     "vit_e": "2",
     "slug_it": "cefalo",
-    "slug_en": "cefalo",
-    "image": "ingredients/fish/cefalo.jpg"
+    "slug_en": "mullet",
+    "image": "ingredients/fish/mullet.jpg"
   },
   {
-    "slug": "cernia",
-    "name_en": "Cernia",
+    "slug": "grouper",
+    "name_en": "Grouper",
     "name_it": "Cernia",
     "category_slug": "fish",
     "fodmap": "unknown",
@@ -12983,12 +12983,12 @@
     "vit_d": "0",
     "vit_e": "1",
     "slug_it": "cernia",
-    "slug_en": "cernia",
-    "image": "ingredients/fish/cernia.jpg"
+    "slug_en": "grouper",
+    "image": "ingredients/fish/grouper.jpg"
   },
   {
-    "slug": "dentice",
-    "name_en": "Dentice",
+    "slug": "dentex",
+    "name_en": "Dentex",
     "name_it": "Dentice",
     "category_slug": "fish",
     "fodmap": "unknown",
@@ -13020,12 +13020,12 @@
     "vit_d": "0",
     "vit_e": "1",
     "slug_it": "dentice",
-    "slug_en": "dentice",
-    "image": "ingredients/fish/dentice.jpg"
+    "slug_en": "dentex",
+    "image": "ingredients/fish/dentex.jpg"
   },
   {
-    "slug": "gallinella",
-    "name_en": "Gallinella",
+    "slug": "tub-gurnard",
+    "name_en": "Tub gurnard",
     "name_it": "Gallinella",
     "category_slug": "fish",
     "fodmap": "unknown",
@@ -13057,8 +13057,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "gallinella",
-    "slug_en": "gallinella",
-    "image": "ingredients/fish/gallinella.jpg"
+    "slug_en": "tub-gurnard",
+    "image": "ingredients/fish/tub-gurnard.jpg"
   },
   {
     "slug": "katsuobushi",
@@ -13136,7 +13136,7 @@
   },
   {
     "slug": "sea-bream",
-    "name_en": "Sea Bream",
+    "name_en": "Sea bream",
     "name_it": "Orata",
     "category_slug": "fish",
     "fodmap": "unknown",
@@ -13172,8 +13172,8 @@
     "image": "ingredients/fish/sea-bream.jpg"
   },
   {
-    "slug": "fish-persico",
-    "name_en": "Fish Persico",
+    "slug": "perch",
+    "name_en": "Perch",
     "name_it": "Pesce persico",
     "category_slug": "fish",
     "fodmap": "unknown",
@@ -13205,8 +13205,8 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "pesce-persico",
-    "slug_en": "fish-persico",
-    "image": "ingredients/fish/fish-persico.jpg"
+    "slug_en": "perch",
+    "image": "ingredients/fish/perch.jpg"
   },
   {
     "slug": "swordfish",
@@ -13246,8 +13246,8 @@
     "image": "ingredients/fish/swordfish.jpg"
   },
   {
-    "slug": "platessa",
-    "name_en": "Platessa",
+    "slug": "plaice",
+    "name_en": "Plaice",
     "name_it": "Platessa",
     "category_slug": "fish",
     "fodmap": "unknown",
@@ -13279,12 +13279,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "platessa",
-    "slug_en": "platessa",
-    "image": "ingredients/fish/platessa.jpg"
+    "slug_en": "plaice",
+    "image": "ingredients/fish/plaice.jpg"
   },
   {
-    "slug": "rana-pescatrice",
-    "name_en": "Rana pescatrice",
+    "slug": "monkfish",
+    "name_en": "Monkfish",
     "name_it": "Rana pescatrice",
     "category_slug": "fish",
     "fodmap": "unknown",
@@ -13316,12 +13316,12 @@
     "vit_d": "0",
     "vit_e": "1",
     "slug_it": "rana-pescatrice",
-    "slug_en": "rana-pescatrice",
-    "image": "ingredients/fish/rana-pescatrice.jpg"
+    "slug_en": "monkfish",
+    "image": "ingredients/fish/monkfish.jpg"
   },
   {
-    "slug": "sea-urchins-seafood",
-    "name_en": "Sea Urchins Seafood",
+    "slug": "sea-urchins",
+    "name_en": "Sea urchins",
     "name_it": "Ricci di mare",
     "category_slug": "fish",
     "fodmap": "unknown",
@@ -13353,8 +13353,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "ricci-di-mare",
-    "slug_en": "sea-urchins-seafood",
-    "image": "ingredients/fish/sea-urchins-seafood.jpg"
+    "slug_en": "sea-urchins",
+    "image": "ingredients/fish/sea-urchins.jpg"
   },
   {
     "slug": "turbot",
@@ -13431,8 +13431,8 @@
     "image": "ingredients/fish/salmon.jpg"
   },
   {
-    "slug": "salmon-smoked",
-    "name_en": "Salmon Smoked",
+    "slug": "smoked-salmon",
+    "name_en": "Smoked salmon",
     "name_it": "Salmone affumicato",
     "category_slug": "fish",
     "fodmap": "unknown",
@@ -13464,8 +13464,8 @@
     "vit_d": "0",
     "vit_e": "1",
     "slug_it": "salmone-affumicato",
-    "slug_en": "salmon-smoked",
-    "image": "ingredients/fish/salmon-smoked.jpg"
+    "slug_en": "smoked-salmon",
+    "image": "ingredients/fish/smoked-salmon.jpg"
   },
   {
     "slug": "sole",
@@ -13506,7 +13506,7 @@
   },
   {
     "slug": "sea-bass",
-    "name_en": "Sea Bass",
+    "name_en": "Sea bass",
     "name_it": "Branzino",
     "category_slug": "fish",
     "fodmap": "unknown",
@@ -13616,8 +13616,8 @@
     "image": "ingredients/fish/tuna.jpg"
   },
   {
-    "slug": "triglie",
-    "name_en": "Triglie",
+    "slug": "red-mullet",
+    "name_en": "Red mullet",
     "name_it": "Triglie",
     "category_slug": "fish",
     "fodmap": "unknown",
@@ -13649,12 +13649,12 @@
     "vit_d": "2",
     "vit_e": "1",
     "slug_it": "triglie",
-    "slug_en": "triglie",
-    "image": "ingredients/fish/triglie.jpg"
+    "slug_en": "red-mullet",
+    "image": "ingredients/fish/red-mullet.jpg"
   },
   {
-    "slug": "trout-salmonata",
-    "name_en": "Trout Salmonata",
+    "slug": "rainbow-trout",
+    "name_en": "Rainbow trout",
     "name_it": "Trota salmonata",
     "category_slug": "fish",
     "fodmap": "unknown",
@@ -13686,12 +13686,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "trota-salmonata",
-    "slug_en": "trout-salmonata",
-    "image": "ingredients/fish/trout-salmonata.jpg"
+    "slug_en": "rainbow-trout",
+    "image": "ingredients/fish/rainbow-trout.jpg"
   },
   {
-    "slug": "fish-spatola",
-    "name_en": "Fish Spatola",
+    "slug": "silver-scabbardfish",
+    "name_en": "Silver scabbardfish",
     "name_it": "Pesce spatola",
     "category_slug": "oily-fish",
     "fodmap": "unknown",
@@ -13723,12 +13723,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "pesce-spatola",
-    "slug_en": "fish-spatola",
-    "image": "ingredients/oily-fish/fish-spatola.jpg"
+    "slug_en": "silver-scabbardfish",
+    "image": "ingredients/oily-fish/silver-scabbardfish.jpg"
   },
   {
-    "slug": "sarde",
-    "name_en": "Sarde",
+    "slug": "sardines",
+    "name_en": "Sardines",
     "name_it": "Sarde",
     "category_slug": "oily-fish",
     "fodmap": "unknown",
@@ -13760,8 +13760,8 @@
     "vit_d": "6",
     "vit_e": "0",
     "slug_it": "sarde",
-    "slug_en": "sarde",
-    "image": "ingredients/oily-fish/sarde.jpg"
+    "slug_en": "sardines",
+    "image": "ingredients/oily-fish/sardines.jpg"
   },
   {
     "slug": "mackerel",
@@ -13912,8 +13912,8 @@
     "image": "ingredients/baked-goods/crackers.jpg"
   },
   {
-    "slug": "oreo-biscuits",
-    "name_en": "Oreo Biscuits",
+    "slug": "oreo-cookies",
+    "name_en": "Oreo cookies",
     "name_it": "Oreo Biscotti",
     "category_slug": "baked-goods",
     "fodmap": "unknown",
@@ -13945,12 +13945,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "oreo-biscotti",
-    "slug_en": "oreo-biscuits",
-    "image": "ingredients/baked-goods/oreo-biscuits.jpg"
+    "slug_en": "oreo-cookies",
+    "image": "ingredients/baked-goods/oreo-cookies.jpg"
   },
   {
     "slug": "oro-saiwa",
-    "name_en": "Oro saiwa",
+    "name_en": "Oro Saiwa",
     "name_it": "Oro saiwa",
     "category_slug": "baked-goods",
     "fodmap": "unknown",
@@ -13986,8 +13986,8 @@
     "image": "ingredients/baked-goods/oro-saiwa.jpg"
   },
   {
-    "slug": "pancarre",
-    "name_en": "Pancarrè",
+    "slug": "sandwich-bread",
+    "name_en": "Sandwich bread",
     "name_it": "Pancarrè",
     "category_slug": "baked-goods",
     "fodmap": "unknown",
@@ -14019,8 +14019,8 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "pancarre",
-    "slug_en": "pancarre",
-    "image": "ingredients/baked-goods/pancarre.jpg"
+    "slug_en": "sandwich-bread",
+    "image": "ingredients/baked-goods/sandwich-bread.jpg"
   },
   {
     "slug": "bread",
@@ -14060,8 +14060,8 @@
     "image": "ingredients/baked-goods/bread.jpg"
   },
   {
-    "slug": "bread-carasau",
-    "name_en": "Bread Carasau",
+    "slug": "pane-carasau",
+    "name_en": "Pane carasau",
     "name_it": "Pane carasau",
     "category_slug": "baked-goods",
     "fodmap": "unknown",
@@ -14093,12 +14093,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "pane-carasau",
-    "slug_en": "bread-carasau",
-    "image": "ingredients/baked-goods/bread-carasau.jpg"
+    "slug_en": "pane-carasau",
+    "image": "ingredients/baked-goods/pane-carasau.jpg"
   },
   {
-    "slug": "bread-for-tramezzini",
-    "name_en": "Bread for Tramezzini",
+    "slug": "sandwich-loaf",
+    "name_en": "Sandwich loaf",
     "name_it": "Pane per tramezzini",
     "category_slug": "baked-goods",
     "fodmap": "unknown",
@@ -14130,8 +14130,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "pane-per-tramezzini",
-    "slug_en": "bread-for-tramezzini",
-    "image": "ingredients/baked-goods/bread-for-tramezzini.jpg"
+    "slug_en": "sandwich-loaf",
+    "image": "ingredients/baked-goods/sandwich-loaf.jpg"
   },
   {
     "slug": "breadcrumbs",
@@ -14208,8 +14208,8 @@
     "image": "ingredients/baked-goods/pavesini.jpg"
   },
   {
-    "slug": "savoiardi",
-    "name_en": "Savoiardi",
+    "slug": "ladyfingers",
+    "name_en": "Ladyfingers",
     "name_it": "Savoiardi",
     "category_slug": "baked-goods",
     "fodmap": "unknown",
@@ -14241,8 +14241,8 @@
     "vit_d": "1",
     "vit_e": "1",
     "slug_it": "savoiardi",
-    "slug_en": "savoiardi",
-    "image": "ingredients/baked-goods/savoiardi.jpg"
+    "slug_en": "ladyfingers",
+    "image": "ingredients/baked-goods/ladyfingers.jpg"
   },
   {
     "slug": "wafer",
@@ -14467,8 +14467,8 @@
     "image": "ingredients/cured-meats/culatello.jpg"
   },
   {
-    "slug": "fesa-of-turkey",
-    "name_en": "Fesa of Turkey",
+    "slug": "turkey-breast",
+    "name_en": "Turkey breast",
     "name_it": "Fesa di tacchino",
     "category_slug": "cured-meats",
     "fodmap": "unknown",
@@ -14500,8 +14500,8 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "fesa-di-tacchino",
-    "slug_en": "fesa-of-turkey",
-    "image": "ingredients/cured-meats/fesa-of-turkey.jpg"
+    "slug_en": "turkey-breast",
+    "image": "ingredients/cured-meats/turkey-breast.jpg"
   },
   {
     "slug": "guanciale",
@@ -14616,7 +14616,7 @@
   },
   {
     "slug": "cooked-ham",
-    "name_en": "Cooked Ham",
+    "name_en": "Cooked ham",
     "name_it": "Prosciutto cotto",
     "category_slug": "cured-meats",
     "fodmap": "unknown",
@@ -14652,8 +14652,8 @@
     "image": "ingredients/cured-meats/cooked-ham.jpg"
   },
   {
-    "slug": "cured-ham",
-    "name_en": "Cured Ham",
+    "slug": "prosciutto",
+    "name_en": "Prosciutto",
     "name_it": "Prosciutto crudo",
     "category_slug": "cured-meats",
     "fodmap": "unknown",
@@ -14685,8 +14685,8 @@
     "vit_d": "1",
     "vit_e": "0",
     "slug_it": "prosciutto-crudo",
-    "slug_en": "cured-ham",
-    "image": "ingredients/cured-meats/cured-ham.jpg"
+    "slug_en": "prosciutto",
+    "image": "ingredients/cured-meats/prosciutto.jpg"
   },
   {
     "slug": "salami",
@@ -14763,8 +14763,8 @@
     "image": "ingredients/cured-meats/speck.jpg"
   },
   {
-    "slug": "frankfurter",
-    "name_en": "Frankfurter",
+    "slug": "frankfurters",
+    "name_en": "Frankfurters",
     "name_it": "Wurstel",
     "category_slug": "cured-meats",
     "fodmap": "unknown",
@@ -14796,12 +14796,12 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "wurstel",
-    "slug_en": "frankfurter",
-    "image": "ingredients/cured-meats/frankfurter.jpg"
+    "slug_en": "frankfurters",
+    "image": "ingredients/cured-meats/frankfurters.jpg"
   },
   {
-    "slug": "bambu-sprouts",
-    "name_en": "Bambù Sprouts",
+    "slug": "bamboo-shoots",
+    "name_en": "Bamboo shoots",
     "name_it": "Bambù germogli",
     "category_slug": "seeds-and-sprouts",
     "fodmap": "unknown",
@@ -14833,8 +14833,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "bambu-germogli",
-    "slug_en": "bambu-sprouts",
-    "image": "ingredients/seeds-and-sprouts/bambu-sprouts.jpg"
+    "slug_en": "bamboo-shoots",
+    "image": "ingredients/seeds-and-sprouts/bamboo-shoots.jpg"
   },
   {
     "slug": "capers",
@@ -14875,7 +14875,7 @@
   },
   {
     "slug": "bean-sprouts",
-    "name_en": "Bean Sprouts",
+    "name_en": "Bean sprouts",
     "name_it": "Germogli di soia",
     "category_slug": "seeds-and-sprouts",
     "fodmap": "unknown",
@@ -14912,7 +14912,7 @@
   },
   {
     "slug": "chia-seeds",
-    "name_en": "Chia Seeds",
+    "name_en": "Chia seeds",
     "name_it": "Semi di chia",
     "category_slug": "seeds-and-sprouts",
     "fodmap": "unknown",
@@ -14949,7 +14949,7 @@
   },
   {
     "slug": "cumin-seeds",
-    "name_en": "Cumin Seeds",
+    "name_en": "Cumin seeds",
     "name_it": "Semi di cumino",
     "category_slug": "seeds-and-sprouts",
     "fodmap": "unknown",
@@ -14986,7 +14986,7 @@
   },
   {
     "slug": "fennel-seeds",
-    "name_en": "Fennel Seeds",
+    "name_en": "Fennel seeds",
     "name_it": "Semi di finocchio",
     "category_slug": "seeds-and-sprouts",
     "fodmap": "unknown",
@@ -15023,7 +15023,7 @@
   },
   {
     "slug": "flax-seeds",
-    "name_en": "Flax Seeds",
+    "name_en": "Flax seeds",
     "name_it": "Semi di lino",
     "category_slug": "seeds-and-sprouts",
     "fodmap": "unknown",
@@ -15059,8 +15059,8 @@
     "image": "ingredients/seeds-and-sprouts/flax-seeds.jpg"
   },
   {
-    "slug": "papavero-seeds",
-    "name_en": "Papavero Seeds",
+    "slug": "poppy-seeds",
+    "name_en": "Poppy seeds",
     "name_it": "Semi di papavero",
     "category_slug": "seeds-and-sprouts",
     "fodmap": "unknown",
@@ -15092,12 +15092,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "semi-di-papavero",
-    "slug_en": "papavero-seeds",
-    "image": "ingredients/seeds-and-sprouts/papavero-seeds.jpg"
+    "slug_en": "poppy-seeds",
+    "image": "ingredients/seeds-and-sprouts/poppy-seeds.jpg"
   },
   {
     "slug": "sesame-seeds",
-    "name_en": "Sesame Seeds",
+    "name_en": "Sesame seeds",
     "name_it": "Semi di sesamo",
     "category_slug": "seeds-and-sprouts",
     "fodmap": "unknown",
@@ -15134,7 +15134,7 @@
   },
   {
     "slug": "pumpkin-seeds",
-    "name_en": "Pumpkin Seeds",
+    "name_en": "Pumpkin seeds",
     "name_it": "Semi di zucca",
     "category_slug": "seeds-and-sprouts",
     "fodmap": "unknown",
@@ -15207,8 +15207,8 @@
     "image": "ingredients/spices/anise.jpg"
   },
   {
-    "slug": "anise-stellato",
-    "name_en": "Anise Stellato",
+    "slug": "star-anise",
+    "name_en": "Star anise",
     "name_it": "Anice stellato",
     "category_slug": "spices",
     "fodmap": "unknown",
@@ -15240,8 +15240,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "anice-stellato",
-    "slug_en": "anise-stellato",
-    "image": "ingredients/spices/anise-stellato.jpg"
+    "slug_en": "star-anise",
+    "image": "ingredients/spices/star-anise.jpg"
   },
   {
     "slug": "cinnamon",
@@ -15466,8 +15466,8 @@
     "image": "ingredients/spices/vanilla.jpg"
   },
   {
-    "slug": "liquirizia",
-    "name_en": "Liquirizia",
+    "slug": "licorice",
+    "name_en": "Licorice",
     "name_it": "Liquirizia",
     "category_slug": "spices",
     "fodmap": "unknown",
@@ -15499,8 +15499,8 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "liquirizia",
-    "slug_en": "liquirizia",
-    "image": "ingredients/spices/liquirizia.jpg"
+    "slug_en": "licorice",
+    "image": "ingredients/spices/licorice.jpg"
   },
   {
     "slug": "nutmeg",
@@ -15540,8 +15540,8 @@
     "image": "ingredients/spices/nutmeg.jpg"
   },
   {
-    "slug": "paprica",
-    "name_en": "Paprica",
+    "slug": "paprika",
+    "name_en": "Paprika",
     "name_it": "Paprica",
     "category_slug": "spices",
     "fodmap": "unknown",
@@ -15573,8 +15573,8 @@
     "vit_d": "0",
     "vit_e": "1",
     "slug_it": "paprica",
-    "slug_en": "paprica",
-    "image": "ingredients/spices/paprica.jpg"
+    "slug_en": "paprika",
+    "image": "ingredients/spices/paprika.jpg"
   },
   {
     "slug": "pepper",
@@ -15614,8 +15614,8 @@
     "image": "ingredients/spices/pepper.jpg"
   },
   {
-    "slug": "pink-peppercorn",
-    "name_en": "Pink Peppercorn",
+    "slug": "pink-peppercorns",
+    "name_en": "Pink peppercorns",
     "name_it": "Pepe rosa",
     "category_slug": "spices",
     "fodmap": "unknown",
@@ -15647,12 +15647,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "pepe-rosa",
-    "slug_en": "pink-peppercorn",
-    "image": "ingredients/spices/pink-peppercorn.jpg"
+    "slug_en": "pink-peppercorns",
+    "image": "ingredients/spices/pink-peppercorns.jpg"
   },
   {
-    "slug": "green-peppercorn",
-    "name_en": "Green Peppercorn",
+    "slug": "green-peppercorns",
+    "name_en": "Green peppercorns",
     "name_it": "Pepe verde",
     "category_slug": "spices",
     "fodmap": "unknown",
@@ -15684,12 +15684,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "pepe-verde",
-    "slug_en": "green-peppercorn",
-    "image": "ingredients/spices/green-peppercorn.jpg"
+    "slug_en": "green-peppercorns",
+    "image": "ingredients/spices/green-peppercorns.jpg"
   },
   {
     "slug": "chili-pepper",
-    "name_en": "Chili Pepper",
+    "name_en": "Chili pepper",
     "name_it": "Peperoncino",
     "category_slug": "spices",
     "fodmap": "unknown",
@@ -15725,8 +15725,8 @@
     "image": "ingredients/spices/chili-pepper.jpg"
   },
   {
-    "slug": "pisto",
-    "name_en": "Pisto",
+    "slug": "mixed-spice",
+    "name_en": "Mixed spice",
     "name_it": "Pisto",
     "category_slug": "spices",
     "fodmap": "unknown",
@@ -15758,8 +15758,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "pisto",
-    "slug_en": "pisto",
-    "image": "ingredients/spices/pisto.jpg"
+    "slug_en": "mixed-spice",
+    "image": "ingredients/spices/mixed-spice.jpg"
   },
   {
     "slug": "saffron",
@@ -15837,7 +15837,7 @@
   },
   {
     "slug": "egg-whites",
-    "name_en": "Egg Whites",
+    "name_en": "Egg whites",
     "name_it": "Albumi",
     "category_slug": "eggs",
     "fodmap": "unknown",
@@ -15910,8 +15910,8 @@
     "image": "ingredients/eggs/bottarga.jpg"
   },
   {
-    "slug": "caviale",
-    "name_en": "Caviale",
+    "slug": "caviar",
+    "name_en": "Caviar",
     "name_it": "Caviale",
     "category_slug": "eggs",
     "fodmap": "unknown",
@@ -15943,12 +15943,12 @@
     "vit_d": "6",
     "vit_e": "7",
     "slug_it": "caviale",
-    "slug_en": "caviale",
-    "image": "ingredients/eggs/caviale.jpg"
+    "slug_en": "caviar",
+    "image": "ingredients/eggs/caviar.jpg"
   },
   {
     "slug": "egg-yolks",
-    "name_en": "Egg Yolks",
+    "name_en": "Egg yolks",
     "name_it": "Tuorli",
     "category_slug": "eggs",
     "fodmap": "unknown",
@@ -16021,8 +16021,8 @@
     "image": "ingredients/eggs/eggs.jpg"
   },
   {
-    "slug": "lompo-eggs",
-    "name_en": "Lompo Eggs",
+    "slug": "lumpfish-roe",
+    "name_en": "Lumpfish roe",
     "name_it": "Uova di lompo",
     "category_slug": "eggs",
     "fodmap": "unknown",
@@ -16054,12 +16054,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "uova-di-lompo",
-    "slug_en": "lompo-eggs",
-    "image": "ingredients/eggs/lompo-eggs.jpg"
+    "slug_en": "lumpfish-roe",
+    "image": "ingredients/eggs/lumpfish-roe.jpg"
   },
   {
     "slug": "quail-eggs",
-    "name_en": "Quail Eggs",
+    "name_en": "Quail eggs",
     "name_it": "Uova di quaglia",
     "category_slug": "eggs",
     "fodmap": "unknown",
@@ -16096,7 +16096,7 @@
   },
   {
     "slug": "ostrich-eggs",
-    "name_en": "Ostrich Eggs",
+    "name_en": "Ostrich eggs",
     "name_it": "Uova di struzzo",
     "category_slug": "eggs",
     "fodmap": "unknown",
@@ -16169,8 +16169,8 @@
     "image": "ingredients/greens/agretti.jpg"
   },
   {
-    "slug": "seaweed-kombu",
-    "name_en": "Seaweed Kombu",
+    "slug": "kombu-seaweed",
+    "name_en": "Kombu seaweed",
     "name_it": "Alga kombu",
     "category_slug": "greens",
     "fodmap": "unknown",
@@ -16202,12 +16202,12 @@
     "vit_d": "0",
     "vit_e": "1",
     "slug_it": "alga-kombu",
-    "slug_en": "seaweed-kombu",
-    "image": "ingredients/greens/seaweed-kombu.jpg"
+    "slug_en": "kombu-seaweed",
+    "image": "ingredients/greens/kombu-seaweed.jpg"
   },
   {
-    "slug": "seaweed-nori",
-    "name_en": "Seaweed Nori",
+    "slug": "nori-seaweed",
+    "name_en": "Nori seaweed",
     "name_it": "Alga nori",
     "category_slug": "greens",
     "fodmap": "unknown",
@@ -16239,12 +16239,12 @@
     "vit_d": "0",
     "vit_e": "1",
     "slug_it": "alga-nori",
-    "slug_en": "seaweed-nori",
-    "image": "ingredients/greens/seaweed-nori.jpg"
+    "slug_en": "nori-seaweed",
+    "image": "ingredients/greens/nori-seaweed.jpg"
   },
   {
-    "slug": "seaweed-spirulina",
-    "name_en": "Seaweed Spirulina",
+    "slug": "spirulina",
+    "name_en": "Spirulina",
     "name_it": "Alga spirulina",
     "category_slug": "greens",
     "fodmap": "unknown",
@@ -16276,12 +16276,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "alga-spirulina",
-    "slug_en": "seaweed-spirulina",
-    "image": "ingredients/greens/seaweed-spirulina.jpg"
+    "slug_en": "spirulina",
+    "image": "ingredients/greens/spirulina.jpg"
   },
   {
-    "slug": "seaweed-wakame",
-    "name_en": "Seaweed Wakame",
+    "slug": "wakame-seaweed",
+    "name_en": "Wakame seaweed",
     "name_it": "Alga wakame",
     "category_slug": "greens",
     "fodmap": "unknown",
@@ -16313,8 +16313,8 @@
     "vit_d": "0",
     "vit_e": "1",
     "slug_it": "alga-wakame",
-    "slug_en": "seaweed-wakame",
-    "image": "ingredients/greens/seaweed-wakame.jpg"
+    "slug_en": "wakame-seaweed",
+    "image": "ingredients/greens/wakame-seaweed.jpg"
   },
   {
     "slug": "seaweed",
@@ -16391,8 +16391,8 @@
     "image": "ingredients/greens/chard.jpg"
   },
   {
-    "slug": "borragine",
-    "name_en": "Borragine",
+    "slug": "borage",
+    "name_en": "Borage",
     "name_it": "Borragine",
     "category_slug": "greens",
     "fodmap": "unknown",
@@ -16424,8 +16424,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "borragine",
-    "slug_en": "borragine",
-    "image": "ingredients/greens/borragine.jpg"
+    "slug_en": "borage",
+    "image": "ingredients/greens/borage.jpg"
   },
   {
     "slug": "broccoli",
@@ -16466,7 +16466,7 @@
   },
   {
     "slug": "tuscan-kale",
-    "name_en": "Tuscan Kale",
+    "name_en": "Tuscan kale",
     "name_it": "Cavolo nero",
     "category_slug": "greens",
     "fodmap": "unknown",
@@ -16539,8 +16539,8 @@
     "image": "ingredients/greens/chicory.jpg"
   },
   {
-    "slug": "flowers-of-pumpkin",
-    "name_en": "Flowers of Pumpkin",
+    "slug": "squash-blossoms",
+    "name_en": "Squash blossoms",
     "name_it": "Fiori di zucca",
     "category_slug": "greens",
     "fodmap": "unknown",
@@ -16572,12 +16572,12 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "fiori-di-zucca",
-    "slug_en": "flowers-of-pumpkin",
-    "image": "ingredients/greens/flowers-of-pumpkin.jpg"
+    "slug_en": "squash-blossoms",
+    "image": "ingredients/greens/squash-blossoms.jpg"
   },
   {
-    "slug": "flowers-of-zucchini",
-    "name_en": "Flowers of Zucchini",
+    "slug": "zucchini-blossoms",
+    "name_en": "Zucchini blossoms",
     "name_it": "Fiori di zucchine",
     "category_slug": "greens",
     "fodmap": "unknown",
@@ -16609,8 +16609,8 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "fiori-di-zucchine",
-    "slug_en": "flowers-of-zucchini",
-    "image": "ingredients/greens/flowers-of-zucchini.jpg"
+    "slug_en": "zucchini-blossoms",
+    "image": "ingredients/greens/zucchini-blossoms.jpg"
   },
   {
     "slug": "friarielli",
@@ -16724,8 +16724,8 @@
     "image": "ingredients/greens/lettuce.jpg"
   },
   {
-    "slug": "ortica",
-    "name_en": "Ortica",
+    "slug": "nettle",
+    "name_en": "Nettle",
     "name_it": "Ortica",
     "category_slug": "greens",
     "fodmap": "unknown",
@@ -16757,8 +16757,8 @@
     "vit_d": "0",
     "vit_e": "2",
     "slug_it": "ortica",
-    "slug_en": "ortica",
-    "image": "ingredients/greens/ortica.jpg"
+    "slug_en": "nettle",
+    "image": "ingredients/greens/nettle.jpg"
   },
   {
     "slug": "puntarelle",
@@ -16835,8 +16835,8 @@
     "image": "ingredients/greens/radicchio.jpg"
   },
   {
-    "slug": "rocket",
-    "name_en": "Rocket",
+    "slug": "arugula",
+    "name_en": "Arugula",
     "name_it": "Rucola",
     "category_slug": "greens",
     "fodmap": "unknown",
@@ -16868,12 +16868,12 @@
     "vit_d": "0",
     "vit_e": "1",
     "slug_it": "rucola",
-    "slug_en": "rocket",
-    "image": "ingredients/greens/rocket.jpg"
+    "slug_en": "arugula",
+    "image": "ingredients/greens/arugula.jpg"
   },
   {
-    "slug": "scarole",
-    "name_en": "Scarole",
+    "slug": "escarole",
+    "name_en": "Escarole",
     "name_it": "Scarole",
     "category_slug": "greens",
     "fodmap": "unknown",
@@ -16905,12 +16905,12 @@
     "vit_d": "0",
     "vit_e": "1",
     "slug_it": "scarole",
-    "slug_en": "scarole",
-    "image": "ingredients/greens/scarole.jpg"
+    "slug_en": "escarole",
+    "image": "ingredients/greens/escarole.jpg"
   },
   {
     "slug": "lambs-lettuce",
-    "name_en": "Lamb's Lettuce",
+    "name_en": "Lambs lettuce",
     "name_it": "Songino",
     "category_slug": "greens",
     "fodmap": "unknown",
@@ -16984,7 +16984,7 @@
   },
   {
     "slug": "savoy-cabbage",
-    "name_en": "Savoy Cabbage",
+    "name_en": "Savoy cabbage",
     "name_it": "Verza",
     "category_slug": "greens",
     "fodmap": "unknown",
@@ -17057,8 +17057,8 @@
     "image": "ingredients/miscellaneous-foods/cocoa.jpg"
   },
   {
-    "slug": "canditi",
-    "name_en": "Canditi",
+    "slug": "candied-fruit",
+    "name_en": "Candied fruit",
     "name_it": "Canditi",
     "category_slug": "miscellaneous-foods",
     "fodmap": "unknown",
@@ -17090,12 +17090,12 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "canditi",
-    "slug_en": "canditi",
-    "image": "ingredients/miscellaneous-foods/canditi.jpg"
+    "slug_en": "candied-fruit",
+    "image": "ingredients/miscellaneous-foods/candied-fruit.jpg"
   },
   {
-    "slug": "caramelle",
-    "name_en": "Caramelle",
+    "slug": "candies",
+    "name_en": "Candies",
     "name_it": "Caramelle",
     "category_slug": "miscellaneous-foods",
     "fodmap": "unknown",
@@ -17127,8 +17127,8 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "caramelle",
-    "slug_en": "caramelle",
-    "image": "ingredients/miscellaneous-foods/caramelle.jpg"
+    "slug_en": "candies",
+    "image": "ingredients/miscellaneous-foods/candies.jpg"
   },
   {
     "slug": "gherkins",
@@ -17168,8 +17168,8 @@
     "image": "ingredients/miscellaneous-foods/gherkins.jpg"
   },
   {
-    "slug": "cherries-candite",
-    "name_en": "Cherries Candite",
+    "slug": "candied-cherries",
+    "name_en": "Candied cherries",
     "name_it": "Ciliegie candite",
     "category_slug": "miscellaneous-foods",
     "fodmap": "unknown",
@@ -17201,12 +17201,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "ciliegie-candite",
-    "slug_en": "cherries-candite",
-    "image": "ingredients/miscellaneous-foods/cherries-candite.jpg"
+    "slug_en": "candied-cherries",
+    "image": "ingredients/miscellaneous-foods/candied-cherries.jpg"
   },
   {
-    "slug": "codette-of-sugar",
-    "name_en": "Codette of Sugar",
+    "slug": "sugar-sprinkles",
+    "name_en": "Sugar sprinkles",
     "name_it": "Codette di zucchero",
     "category_slug": "miscellaneous-foods",
     "fodmap": "unknown",
@@ -17238,12 +17238,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "codette-di-zucchero",
-    "slug_en": "codette-of-sugar",
-    "image": "ingredients/miscellaneous-foods/codette-of-sugar.jpg"
+    "slug_en": "sugar-sprinkles",
+    "image": "ingredients/miscellaneous-foods/sugar-sprinkles.jpg"
   },
   {
     "slug": "tomato-paste",
-    "name_en": "Tomato Paste",
+    "name_en": "Tomato paste",
     "name_it": "Concentrato di pomodoro",
     "category_slug": "miscellaneous-foods",
     "fodmap": "unknown",
@@ -17279,8 +17279,8 @@
     "image": "ingredients/miscellaneous-foods/tomato-paste.jpg"
   },
   {
-    "slug": "ghiaccio",
-    "name_en": "Ghiaccio",
+    "slug": "ice",
+    "name_en": "Ice",
     "name_it": "Ghiaccio",
     "category_slug": "miscellaneous-foods",
     "fodmap": "unknown",
@@ -17312,12 +17312,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "ghiaccio",
-    "slug_en": "ghiaccio",
-    "image": "ingredients/miscellaneous-foods/ghiaccio.jpg"
+    "slug_en": "ice",
+    "image": "ingredients/miscellaneous-foods/ice.jpg"
   },
   {
-    "slug": "granella-of-sugar",
-    "name_en": "Granella of Sugar",
+    "slug": "sugar-crystals",
+    "name_en": "Sugar crystals",
     "name_it": "Granella di zucchero",
     "category_slug": "miscellaneous-foods",
     "fodmap": "unknown",
@@ -17349,12 +17349,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "granella-di-zucchero",
-    "slug_en": "granella-of-sugar",
-    "image": "ingredients/miscellaneous-foods/granella-of-sugar.jpg"
+    "slug_en": "sugar-crystals",
+    "image": "ingredients/miscellaneous-foods/sugar-crystals.jpg"
   },
   {
-    "slug": "brewers-yeast",
-    "name_en": "Brewer's Yeast",
+    "slug": "fresh-yeast",
+    "name_en": "Fresh yeast",
     "name_it": "Lievito di birra",
     "category_slug": "miscellaneous-foods",
     "fodmap": "unknown",
@@ -17386,8 +17386,8 @@
     "vit_d": "0",
     "vit_e": "0",
     "slug_it": "lievito-di-birra",
-    "slug_en": "brewers-yeast",
-    "image": "ingredients/miscellaneous-foods/brewers-yeast.jpg"
+    "slug_en": "fresh-yeast",
+    "image": "ingredients/miscellaneous-foods/fresh-yeast.jpg"
   },
   {
     "slug": "jam",
@@ -17427,8 +17427,8 @@
     "image": "ingredients/miscellaneous-foods/jam.jpg"
   },
   {
-    "slug": "marron-glace",
-    "name_en": "Marron glacé",
+    "slug": "marrons-glaces",
+    "name_en": "Marrons glacés",
     "name_it": "Marron glacé",
     "category_slug": "miscellaneous-foods",
     "fodmap": "unknown",
@@ -17460,8 +17460,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "marron-glace",
-    "slug_en": "marron-glace",
-    "image": "ingredients/miscellaneous-foods/marron-glace.jpg"
+    "slug_en": "marrons-glaces",
+    "image": "ingredients/miscellaneous-foods/marrons-glaces.jpg"
   },
   {
     "slug": "marshmallows",
@@ -17538,8 +17538,8 @@
     "image": "ingredients/miscellaneous-foods/marzipan.jpg"
   },
   {
-    "slug": "tomato-puree",
-    "name_en": "Tomato Puree",
+    "slug": "tomato-passata",
+    "name_en": "Tomato passata",
     "name_it": "Passata di pomodoro",
     "category_slug": "miscellaneous-foods",
     "fodmap": "unknown",
@@ -17571,12 +17571,12 @@
     "vit_d": "0",
     "vit_e": "5",
     "slug_it": "passata-di-pomodoro",
-    "slug_en": "tomato-puree",
-    "image": "ingredients/miscellaneous-foods/tomato-puree.jpg"
+    "slug_en": "tomato-passata",
+    "image": "ingredients/miscellaneous-foods/tomato-passata.jpg"
   },
   {
     "slug": "sun-dried-tomatoes",
-    "name_en": "Sun-dried Tomatoes",
+    "name_en": "Sun-dried tomatoes",
     "name_it": "Pomodori secchi",
     "category_slug": "miscellaneous-foods",
     "fodmap": "unknown",
@@ -17649,8 +17649,8 @@
     "image": "ingredients/miscellaneous-foods/pickles.jpg"
   },
   {
-    "slug": "torrone",
-    "name_en": "Torrone",
+    "slug": "nougat",
+    "name_en": "Nougat",
     "name_it": "Torrone",
     "category_slug": "miscellaneous-foods",
     "fodmap": "unknown",
@@ -17682,12 +17682,12 @@
     "vit_d": "0",
     "vit_e": "12",
     "slug_it": "torrone",
-    "slug_en": "torrone",
-    "image": "ingredients/miscellaneous-foods/torrone.jpg"
+    "slug_en": "nougat",
+    "image": "ingredients/miscellaneous-foods/nougat.jpg"
   },
   {
     "slug": "white-chocolate",
-    "name_en": "White Chocolate",
+    "name_en": "White chocolate",
     "name_it": "Cioccolato bianco",
     "category_slug": "chocolate",
     "fodmap": "unknown",
@@ -17724,7 +17724,7 @@
   },
   {
     "slug": "dark-chocolate",
-    "name_en": "Dark Chocolate",
+    "name_en": "Dark chocolate",
     "name_it": "Cioccolato fondente",
     "category_slug": "chocolate",
     "fodmap": "unknown",
@@ -17760,8 +17760,8 @@
     "image": "ingredients/chocolate/dark-chocolate.jpg"
   },
   {
-    "slug": "pagro",
-    "name_en": "Pagro",
+    "slug": "red-porgy",
+    "name_en": "Red porgy",
     "name_it": "Pagro",
     "category_slug": "fish",
     "fodmap": "unknown",
@@ -17793,8 +17793,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "pagro",
-    "slug_en": "pagro",
-    "image": "ingredients/fish/pagro.jpg"
+    "slug_en": "red-porgy",
+    "image": "ingredients/fish/red-porgy.jpg"
   },
   {
     "slug": "farfalle",
@@ -17834,8 +17834,8 @@
     "image": "ingredients/pasta/farfalle.jpg"
   },
   {
-    "slug": "olives-taggiasche",
-    "name_en": "Olives Taggiasche",
+    "slug": "taggiasca-olives",
+    "name_en": "Taggiasca olives",
     "name_it": "Olive taggiasche",
     "category_slug": "fruit",
     "fodmap": "unknown",
@@ -17867,8 +17867,8 @@
     "vit_d": "0",
     "vit_e": "2",
     "slug_it": "olive-taggiasche",
-    "slug_en": "olives-taggiasche",
-    "image": "ingredients/fruit/olives-taggiasche.jpg"
+    "slug_en": "taggiasca-olives",
+    "image": "ingredients/fruit/taggiasca-olives.jpg"
   },
   {
     "slug": "pizzoccheri",
@@ -17908,8 +17908,8 @@
     "image": "ingredients/pasta/pizzoccheri.jpg"
   },
   {
-    "slug": "pipe",
-    "name_en": "Pipe",
+    "slug": "pipe-pasta",
+    "name_en": "Pipe pasta",
     "name_it": "Pipe",
     "category_slug": "pasta",
     "fodmap": "unknown",
@@ -17941,12 +17941,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "pipe",
-    "slug_en": "pipe",
-    "image": "ingredients/pasta/pipe.jpg"
+    "slug_en": "pipe-pasta",
+    "image": "ingredients/pasta/pipe-pasta.jpg"
   },
   {
-    "slug": "egg-of-pasqua",
-    "name_en": "Egg of Pasqua",
+    "slug": "easter-egg",
+    "name_en": "Easter egg",
     "name_it": "Uovo di pasqua",
     "category_slug": "chocolate",
     "fodmap": "unknown",
@@ -17978,12 +17978,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "uovo-di-pasqua",
-    "slug_en": "egg-of-pasqua",
-    "image": "ingredients/chocolate/egg-of-pasqua.jpg"
+    "slug_en": "easter-egg",
+    "image": "ingredients/chocolate/easter-egg.jpg"
   },
   {
-    "slug": "lievito-of-preferment",
-    "name_en": "Lievito of Preferment",
+    "slug": "preferment",
+    "name_en": "Preferment",
     "name_it": "Lievito di riporto",
     "category_slug": "miscellaneous-foods",
     "fodmap": "unknown",
@@ -18015,12 +18015,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "lievito-di-riporto",
-    "slug_en": "lievito-of-preferment",
-    "image": "ingredients/miscellaneous-foods/lievito-of-preferment.jpg"
+    "slug_en": "preferment",
+    "image": "ingredients/miscellaneous-foods/preferment.jpg"
   },
   {
-    "slug": "syrup-with-mint",
-    "name_en": "Syrup with Mint",
+    "slug": "mint-syrup",
+    "name_en": "Mint syrup",
     "name_it": "Sciroppo alla menta",
     "category_slug": "sweeteners",
     "fodmap": "unknown",
@@ -18052,12 +18052,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "sciroppo-alla-menta",
-    "slug_en": "syrup-with-mint",
-    "image": "ingredients/sweeteners/syrup-with-mint.jpg"
+    "slug_en": "mint-syrup",
+    "image": "ingredients/sweeteners/mint-syrup.jpg"
   },
   {
-    "slug": "scorfano",
-    "name_en": "Scorfano",
+    "slug": "scorpionfish",
+    "name_en": "Scorpionfish",
     "name_it": "Scorfano",
     "category_slug": "fish",
     "fodmap": "unknown",
@@ -18089,12 +18089,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "scorfano",
-    "slug_en": "scorfano",
-    "image": "ingredients/fish/scorfano.jpg"
+    "slug_en": "scorpionfish",
+    "image": "ingredients/fish/scorpionfish.jpg"
   },
   {
     "slug": "manitoba-flour",
-    "name_en": "Manitoba Flour",
+    "name_en": "Manitoba flour",
     "name_it": "Farina manitoba",
     "category_slug": "cereals-and-derivatives",
     "fodmap": "unknown",
@@ -18130,8 +18130,8 @@
     "image": "ingredients/cereals-and-derivatives/manitoba-flour.jpg"
   },
   {
-    "slug": "lippia-citriodora",
-    "name_en": "Lippia citriodora",
+    "slug": "lemon-verbena",
+    "name_en": "Lemon verbena",
     "name_it": "Lippia citriodora",
     "category_slug": "aromatic-herbs",
     "fodmap": "unknown",
@@ -18163,12 +18163,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "lippia-citriodora",
-    "slug_en": "lippia-citriodora",
-    "image": "ingredients/aromatic-herbs/lippia-citriodora.jpg"
+    "slug_en": "lemon-verbena",
+    "image": "ingredients/aromatic-herbs/lemon-verbena.jpg"
   },
   {
-    "slug": "sage-pineapple",
-    "name_en": "Sage Pineapple",
+    "slug": "pineapple-sage",
+    "name_en": "Pineapple sage",
     "name_it": "Salvia ananas",
     "category_slug": "aromatic-herbs",
     "fodmap": "unknown",
@@ -18200,12 +18200,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "salvia-ananas",
-    "slug_en": "sage-pineapple",
-    "image": "ingredients/aromatic-herbs/sage-pineapple.jpg"
+    "slug_en": "pineapple-sage",
+    "image": "ingredients/aromatic-herbs/pineapple-sage.jpg"
   },
   {
-    "slug": "galletto",
-    "name_en": "Galletto",
+    "slug": "young-rooster",
+    "name_en": "Young rooster",
     "name_it": "Galletto",
     "category_slug": "white-meats",
     "fodmap": "unknown",
@@ -18237,12 +18237,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "galletto",
-    "slug_en": "galletto",
-    "image": "ingredients/white-meats/galletto.jpg"
+    "slug_en": "young-rooster",
+    "image": "ingredients/white-meats/young-rooster.jpg"
   },
   {
-    "slug": "faraona",
-    "name_en": "Faraona",
+    "slug": "guinea-fowl",
+    "name_en": "Guinea fowl",
     "name_it": "Faraona",
     "category_slug": "white-meats",
     "fodmap": "unknown",
@@ -18274,8 +18274,8 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "faraona",
-    "slug_en": "faraona",
-    "image": "ingredients/white-meats/faraona.jpg"
+    "slug_en": "guinea-fowl",
+    "image": "ingredients/white-meats/guinea-fowl.jpg"
   },
   {
     "slug": "sambuca",
@@ -18389,8 +18389,8 @@
     "image": "ingredients/cereals-and-derivatives/rusks.jpg"
   },
   {
-    "slug": "sfoglie-of-pasta-allegg",
-    "name_en": "Sfoglie of Pasta All'egg",
+    "slug": "egg-pasta-sheets",
+    "name_en": "Egg pasta sheets",
     "name_it": "Sfoglie di pasta all'uovo",
     "category_slug": "cereals-and-derivatives",
     "fodmap": "unknown",
@@ -18422,12 +18422,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "sfoglie-di-pasta-alluovo",
-    "slug_en": "sfoglie-of-pasta-allegg",
-    "image": "ingredients/cereals-and-derivatives/sfoglie-of-pasta-allegg.jpg"
+    "slug_en": "egg-pasta-sheets",
+    "image": "ingredients/cereals-and-derivatives/egg-pasta-sheets.jpg"
   },
   {
-    "slug": "spaghetti-of-lentils",
-    "name_en": "Spaghetti of Lentils",
+    "slug": "lentil-spaghetti",
+    "name_en": "Lentil spaghetti",
     "name_it": "Spaghetti di lenticchie",
     "category_slug": "legumes",
     "fodmap": "unknown",
@@ -18459,12 +18459,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "spaghetti-di-lenticchie",
-    "slug_en": "spaghetti-of-lentils",
-    "image": "ingredients/legumes/spaghetti-of-lentils.jpg"
+    "slug_en": "lentil-spaghetti",
+    "image": "ingredients/legumes/lentil-spaghetti.jpg"
   },
   {
-    "slug": "fusilli-of-chickpeas",
-    "name_en": "Fusilli of Chickpeas",
+    "slug": "chickpea-fusilli",
+    "name_en": "Chickpea fusilli",
     "name_it": "Fusilli di ceci",
     "category_slug": "legumes",
     "fodmap": "unknown",
@@ -18496,12 +18496,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "fusilli-di-ceci",
-    "slug_en": "fusilli-of-chickpeas",
-    "image": "ingredients/legumes/fusilli-of-chickpeas.jpg"
+    "slug_en": "chickpea-fusilli",
+    "image": "ingredients/legumes/chickpea-fusilli.jpg"
   },
   {
-    "slug": "lievito-disidratato",
-    "name_en": "Lievito disidratato",
+    "slug": "active-dry-yeast",
+    "name_en": "Active dry yeast",
     "name_it": "Lievito disidratato",
     "category_slug": "miscellaneous-foods",
     "fodmap": "unknown",
@@ -18533,12 +18533,12 @@
     "vit_d": null,
     "vit_e": null,
     "slug_it": "lievito-disidratato",
-    "slug_en": "lievito-disidratato",
-    "image": "ingredients/miscellaneous-foods/lievito-disidratato.jpg"
+    "slug_en": "active-dry-yeast",
+    "image": "ingredients/miscellaneous-foods/active-dry-yeast.jpg"
   },
   {
     "slug": "quinoa-flour",
-    "name_en": "Quinoa Flour",
+    "name_en": "Quinoa flour",
     "name_it": "Farina di quinoa",
     "category_slug": "flours",
     "fodmap": "unknown",
@@ -18649,7 +18649,7 @@
   },
   {
     "slug": "sourdough-starter",
-    "name_en": "Sourdough Starter",
+    "name_en": "Sourdough starter",
     "name_it": "Lievito madre",
     "category_slug": "miscellaneous-foods",
     "fodmap": "unknown",

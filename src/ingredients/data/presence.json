@@ -56,35 +56,35 @@
     "quantity": "high"
   },
   {
-    "ingredient_slug": "the",
+    "ingredient_slug": "tea",
     "allergen_slug": "nickel",
     "present": false,
     "may_be_present": false,
     "quantity": "high"
   },
   {
-    "ingredient_slug": "the-matcha",
+    "ingredient_slug": "matcha-tea",
     "allergen_slug": "nickel",
     "present": false,
     "may_be_present": false,
     "quantity": "high"
   },
   {
-    "ingredient_slug": "gocce-of-chocolate",
+    "ingredient_slug": "chocolate-chips",
     "allergen_slug": "nickel",
     "present": false,
     "may_be_present": false,
     "quantity": "high"
   },
   {
-    "ingredient_slug": "gocce-of-chocolate",
+    "ingredient_slug": "chocolate-chips",
     "allergen_slug": "milk",
     "present": false,
     "may_be_present": true,
     "quantity": "free"
   },
   {
-    "ingredient_slug": "gocce-of-chocolate",
+    "ingredient_slug": "chocolate-chips",
     "allergen_slug": "tree-nuts",
     "present": false,
     "may_be_present": true,
@@ -203,35 +203,35 @@
     "quantity": "high"
   },
   {
-    "ingredient_slug": "chocolate-kinder",
+    "ingredient_slug": "kinder-chocolate",
     "allergen_slug": "milk",
     "present": true,
     "may_be_present": false,
     "quantity": "free"
   },
   {
-    "ingredient_slug": "chocolate-kinder",
+    "ingredient_slug": "kinder-chocolate",
     "allergen_slug": "nickel",
     "present": false,
     "may_be_present": false,
     "quantity": "high"
   },
   {
-    "ingredient_slug": "gianduia",
+    "ingredient_slug": "gianduja",
     "allergen_slug": "milk",
     "present": true,
     "may_be_present": false,
     "quantity": "free"
   },
   {
-    "ingredient_slug": "gianduia",
+    "ingredient_slug": "gianduja",
     "allergen_slug": "tree-nuts",
     "present": true,
     "may_be_present": false,
     "quantity": "free"
   },
   {
-    "ingredient_slug": "gianduia",
+    "ingredient_slug": "gianduja",
     "allergen_slug": "nickel",
     "present": false,
     "may_be_present": false,
@@ -280,14 +280,14 @@
     "quantity": "high"
   },
   {
-    "ingredient_slug": "ammoniaca-for-sweets",
+    "ingredient_slug": "bakers-ammonia",
     "allergen_slug": "nickel",
     "present": false,
     "may_be_present": false,
     "quantity": "high"
   },
   {
-    "ingredient_slug": "bicarbonate",
+    "ingredient_slug": "baking-soda",
     "allergen_slug": "nickel",
     "present": false,
     "may_be_present": false,
@@ -301,21 +301,21 @@
     "quantity": "free"
   },
   {
-    "ingredient_slug": "lecithin-of-soy",
+    "ingredient_slug": "soy-lecithin",
     "allergen_slug": "soy",
     "present": true,
     "may_be_present": false,
     "quantity": "free"
   },
   {
-    "ingredient_slug": "coloranti-alimentari",
+    "ingredient_slug": "food-coloring",
     "allergen_slug": "nickel",
     "present": false,
     "may_be_present": false,
     "quantity": "high"
   },
   {
-    "ingredient_slug": "tartar-cream",
+    "ingredient_slug": "cream-of-tartar",
     "allergen_slug": "nickel",
     "present": false,
     "may_be_present": false,
@@ -336,14 +336,14 @@
     "quantity": "high"
   },
   {
-    "ingredient_slug": "lecithin-of-soy",
+    "ingredient_slug": "soy-lecithin",
     "allergen_slug": "nickel",
     "present": false,
     "may_be_present": false,
     "quantity": "high"
   },
   {
-    "ingredient_slug": "lievito-istantaneo",
+    "ingredient_slug": "instant-yeast",
     "allergen_slug": "nickel",
     "present": false,
     "may_be_present": false,
@@ -357,14 +357,14 @@
     "quantity": "high"
   },
   {
-    "ingredient_slug": "vanillina",
+    "ingredient_slug": "vanillin",
     "allergen_slug": "nickel",
     "present": false,
     "may_be_present": false,
     "quantity": "high"
   },
   {
-    "ingredient_slug": "fish-spatola",
+    "ingredient_slug": "silver-scabbardfish",
     "allergen_slug": "nickel",
     "present": false,
     "may_be_present": false,
@@ -378,7 +378,7 @@
     "quantity": "high"
   },
   {
-    "ingredient_slug": "sarde",
+    "ingredient_slug": "sardines",
     "allergen_slug": "nickel",
     "present": false,
     "may_be_present": false,
@@ -413,7 +413,7 @@
     "quantity": "free"
   },
   {
-    "ingredient_slug": "panna-for-sweets",
+    "ingredient_slug": "whipping-cream",
     "allergen_slug": "milk",
     "present": true,
     "may_be_present": false,
@@ -427,7 +427,7 @@
     "quantity": "free"
   },
   {
-    "ingredient_slug": "fiocchi-of-latte",
+    "ingredient_slug": "cottage-cheese",
     "allergen_slug": "milk",
     "present": true,
     "may_be_present": false,
@@ -448,7 +448,7 @@
     "quantity": "free"
   },
   {
-    "ingredient_slug": "latte",
+    "ingredient_slug": "milk",
     "allergen_slug": "milk",
     "present": true,
     "may_be_present": false,
@@ -462,7 +462,7 @@
     "quantity": "free"
   },
   {
-    "ingredient_slug": "latticello",
+    "ingredient_slug": "buttermilk",
     "allergen_slug": "milk",
     "present": true,
     "may_be_present": false,
@@ -518,7 +518,7 @@
     "quantity": "free"
   },
   {
-    "ingredient_slug": "caprino",
+    "ingredient_slug": "goat-cheese",
     "allergen_slug": "milk",
     "present": true,
     "may_be_present": false,
@@ -560,7 +560,7 @@
     "quantity": "free"
   },
   {
-    "ingredient_slug": "fior-of-latte",
+    "ingredient_slug": "fior-di-latte",
     "allergen_slug": "milk",
     "present": true,
     "may_be_present": false,
@@ -574,14 +574,14 @@
     "quantity": "free"
   },
   {
-    "ingredient_slug": "cheese-asiago",
+    "ingredient_slug": "asiago-cheese",
     "allergen_slug": "milk",
     "present": true,
     "may_be_present": false,
     "quantity": "free"
   },
   {
-    "ingredient_slug": "cheese-philadelphia",
+    "ingredient_slug": "philadelphia-cream-cheese",
     "allergen_slug": "milk",
     "present": true,
     "may_be_present": false,
@@ -595,7 +595,7 @@
     "quantity": "free"
   },
   {
-    "ingredient_slug": "gruviera",
+    "ingredient_slug": "gruyere",
     "allergen_slug": "milk",
     "present": true,
     "may_be_present": false,
@@ -651,14 +651,14 @@
     "quantity": "free"
   },
   {
-    "ingredient_slug": "lobster",
+    "ingredient_slug": "spiny-lobster",
     "allergen_slug": "crustaceans",
     "present": true,
     "may_be_present": false,
     "quantity": "free"
   },
   {
-    "ingredient_slug": "astice",
+    "ingredient_slug": "lobster",
     "allergen_slug": "crustaceans",
     "present": true,
     "may_be_present": false,
@@ -672,7 +672,7 @@
     "quantity": "free"
   },
   {
-    "ingredient_slug": "gamberoni",
+    "ingredient_slug": "jumbo-prawns",
     "allergen_slug": "crustaceans",
     "present": true,
     "may_be_present": false,
@@ -693,14 +693,14 @@
     "quantity": "free"
   },
   {
-    "ingredient_slug": "cicale-seafood",
+    "ingredient_slug": "mantis-shrimp",
     "allergen_slug": "crustaceans",
     "present": true,
     "may_be_present": false,
     "quantity": "free"
   },
   {
-    "ingredient_slug": "cannolicchi",
+    "ingredient_slug": "razor-clams",
     "allergen_slug": "molluscs",
     "present": true,
     "may_be_present": false,
@@ -728,28 +728,28 @@
     "quantity": "free"
   },
   {
-    "ingredient_slug": "fasolari",
+    "ingredient_slug": "smooth-clams",
     "allergen_slug": "molluscs",
     "present": true,
     "may_be_present": false,
     "quantity": "free"
   },
   {
-    "ingredient_slug": "telline",
+    "ingredient_slug": "wedge-clams",
     "allergen_slug": "molluscs",
     "present": true,
     "may_be_present": false,
     "quantity": "free"
   },
   {
-    "ingredient_slug": "tartufi-seafood",
+    "ingredient_slug": "warty-venus-clams",
     "allergen_slug": "molluscs",
     "present": true,
     "may_be_present": false,
     "quantity": "free"
   },
   {
-    "ingredient_slug": "capesante",
+    "ingredient_slug": "scallops",
     "allergen_slug": "molluscs",
     "present": true,
     "may_be_present": false,
@@ -770,14 +770,14 @@
     "quantity": "free"
   },
   {
-    "ingredient_slug": "seppioline",
+    "ingredient_slug": "baby-cuttlefish",
     "allergen_slug": "molluscs",
     "present": true,
     "may_be_present": false,
     "quantity": "free"
   },
   {
-    "ingredient_slug": "polipetti",
+    "ingredient_slug": "baby-octopuses",
     "allergen_slug": "molluscs",
     "present": true,
     "may_be_present": false,
@@ -791,35 +791,35 @@
     "quantity": "free"
   },
   {
-    "ingredient_slug": "moscardini",
+    "ingredient_slug": "baby-octopus",
     "allergen_slug": "molluscs",
     "present": true,
     "may_be_present": false,
     "quantity": "free"
   },
   {
-    "ingredient_slug": "pulp-of-crab",
+    "ingredient_slug": "crab-meat",
     "allergen_slug": "crustaceans",
     "present": true,
     "may_be_present": false,
     "quantity": "free"
   },
   {
-    "ingredient_slug": "murici",
+    "ingredient_slug": "murex-snails",
     "allergen_slug": "molluscs",
     "present": true,
     "may_be_present": false,
     "quantity": "free"
   },
   {
-    "ingredient_slug": "frutti-seafood",
+    "ingredient_slug": "seafood",
     "allergen_slug": "molluscs",
     "present": true,
     "may_be_present": false,
     "quantity": "free"
   },
   {
-    "ingredient_slug": "frutti-seafood",
+    "ingredient_slug": "seafood",
     "allergen_slug": "crustaceans",
     "present": true,
     "may_be_present": false,
@@ -840,7 +840,7 @@
     "quantity": "free"
   },
   {
-    "ingredient_slug": "granella-of-hazelnuts",
+    "ingredient_slug": "chopped-hazelnuts",
     "allergen_slug": "tree-nuts",
     "present": true,
     "may_be_present": false,
@@ -1071,7 +1071,7 @@
     "quantity": "free"
   },
   {
-    "ingredient_slug": "caviale",
+    "ingredient_slug": "caviar",
     "allergen_slug": "egg",
     "present": true,
     "may_be_present": false,
@@ -1099,7 +1099,7 @@
     "quantity": "free"
   },
   {
-    "ingredient_slug": "lompo-eggs",
+    "ingredient_slug": "lumpfish-roe",
     "allergen_slug": "egg",
     "present": true,
     "may_be_present": false,
@@ -1134,7 +1134,7 @@
     "quantity": "free"
   },
   {
-    "ingredient_slug": "marron-glace",
+    "ingredient_slug": "marrons-glaces",
     "allergen_slug": "tree-nuts",
     "present": true,
     "may_be_present": false,
@@ -1155,21 +1155,21 @@
     "quantity": "free"
   },
   {
-    "ingredient_slug": "torrone",
+    "ingredient_slug": "nougat",
     "allergen_slug": "gluten",
     "present": true,
     "may_be_present": false,
     "quantity": "free"
   },
   {
-    "ingredient_slug": "torrone",
+    "ingredient_slug": "nougat",
     "allergen_slug": "tree-nuts",
     "present": true,
     "may_be_present": false,
     "quantity": "free"
   },
   {
-    "ingredient_slug": "torrone",
+    "ingredient_slug": "nougat",
     "allergen_slug": "egg",
     "present": false,
     "may_be_present": true,
@@ -1204,42 +1204,42 @@
     "quantity": "free"
   },
   {
-    "ingredient_slug": "pipe",
+    "ingredient_slug": "pipe-pasta",
     "allergen_slug": "gluten",
     "present": true,
     "may_be_present": false,
     "quantity": "free"
   },
   {
-    "ingredient_slug": "egg-of-pasqua",
+    "ingredient_slug": "easter-egg",
     "allergen_slug": "nickel",
     "present": true,
     "may_be_present": false,
     "quantity": "high"
   },
   {
-    "ingredient_slug": "egg-of-pasqua",
+    "ingredient_slug": "easter-egg",
     "allergen_slug": "milk",
     "present": true,
     "may_be_present": false,
     "quantity": "free"
   },
   {
-    "ingredient_slug": "egg-of-pasqua",
+    "ingredient_slug": "easter-egg",
     "allergen_slug": "tree-nuts",
     "present": false,
     "may_be_present": true,
     "quantity": "free"
   },
   {
-    "ingredient_slug": "lievito-of-preferment",
+    "ingredient_slug": "preferment",
     "allergen_slug": "gluten",
     "present": true,
     "may_be_present": false,
     "quantity": "free"
   },
   {
-    "ingredient_slug": "sottilette",
+    "ingredient_slug": "processed-cheese-slices",
     "allergen_slug": "milk",
     "present": true,
     "may_be_present": false,
@@ -1260,14 +1260,14 @@
     "quantity": "high"
   },
   {
-    "ingredient_slug": "bread-carasau",
+    "ingredient_slug": "pane-carasau",
     "allergen_slug": "gluten",
     "present": true,
     "may_be_present": false,
     "quantity": "high"
   },
   {
-    "ingredient_slug": "bread-for-tramezzini",
+    "ingredient_slug": "sandwich-loaf",
     "allergen_slug": "gluten",
     "present": true,
     "may_be_present": false,
@@ -1281,7 +1281,7 @@
     "quantity": "high"
   },
   {
-    "ingredient_slug": "wholemeal-flour",
+    "ingredient_slug": "whole-wheat-flour",
     "allergen_slug": "gluten",
     "present": true,
     "may_be_present": false,
