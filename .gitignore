@@ -138,11 +138,12 @@ Desktop.ini
 *.egg-info
 dist
 build
-eggs
+# Buildout nest only (repo root). Do not ignore catalog paths named "eggs".
+/eggs
 parts
 var
 sdist
-develop-eggs
+/develop-eggs
 .installed.cfg
 
 # Installer logs

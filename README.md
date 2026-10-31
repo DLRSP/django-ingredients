@@ -1,16 +1,18 @@
-# django-ingredients
+﻿# django-ingredients
 
 [![CI](https://github.com/DLRSP/django-ingredients/actions/workflows/ci.yaml/badge.svg)](https://github.com/DLRSP/django-ingredients/actions/workflows/ci.yaml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Docs](https://img.shields.io/badge/docs-github.io-blue)](https://dlrsp.github.io/django-ingredients/)
 
-Food ingredient catalog for Django: types, categories, nutrition fields,
-allergen presence (via `django-allergens`), Filer images, and an idempotent
-seed loader.
+Reusable food **ingredient catalog** for Django sites: types, categories,
+nutrition fields, allergen presence links, and catalog images.
 
-Default language is **English**. Italian names come from the historical catalog;
-`name_en` uses known English labels where available, otherwise a Title-Case of
-the ASCII slug (provisional English — refine over time).
+## Why use it
+
+- Ship a ready catalog of ingredients with English + Italian names and slugs
+- Attach nutrition values and allergen presence without building your own taxonomy
+- Seed Filer images and data with one management command
+- Keep public routes multilingual via modeltranslation and translated URL prefixes
 
 ## Requirements
 
@@ -44,9 +46,8 @@ python manage.py migrate
 python manage.py load_ingredient_catalog
 ```
 
-`load_ingredient_catalog` loads allergens first, then types, categories,
-ingredients, and allergen presence. Include `ingredients.urls` inside
-`i18n_patterns` for translated prefixes (`ingredienti/` in Italian).
+Include `ingredients.urls` inside `i18n_patterns` for translated path prefixes
+(for example `ingredienti/` in Italian).
 
 ## License
 
