@@ -1,58 +1,66 @@
 [
   {
-    "slug": "uova",
+    "slug": "eggs",
+    "slug_en": "eggs",
+    "slug_it": "uova",
     "name_en": "Eggs",
     "name_it": "Uova",
-    "slug_it": "uova",
-    "slug_en": "eggs"
+    "image": "types/eggs.jpg"
   },
   {
-    "slug": "carni",
+    "slug": "meats",
+    "slug_en": "meats",
+    "slug_it": "carni",
     "name_en": "Meats",
     "name_it": "Carni",
-    "slug_it": "carni",
-    "slug_en": "meats"
+    "image": "types/meats.jpg"
   },
   {
-    "slug": "pesci",
+    "slug": "fish",
+    "slug_en": "fish",
+    "slug_it": "pesci",
     "name_en": "Fish",
     "name_it": "Pesci",
-    "slug_it": "pesci",
-    "slug_en": "fish"
+    "image": "types/fish.jpg"
   },
   {
-    "slug": "dal-latte",
+    "slug": "dairy",
+    "slug_en": "dairy",
+    "slug_it": "dal-latte",
     "name_en": "Dairy",
     "name_it": "Dal latte",
-    "slug_it": "dal-latte",
-    "slug_en": "dairy"
+    "image": "types/dairy.jpg"
   },
   {
-    "slug": "dai-cereali",
+    "slug": "cereals",
+    "slug_en": "cereals",
+    "slug_it": "dai-cereali",
     "name_en": "Cereals",
     "name_it": "Dai cereali",
-    "slug_it": "dai-cereali",
-    "slug_en": "cereals"
+    "image": "types/cereals.jpg"
   },
   {
-    "slug": "dallorto",
+    "slug": "produce",
+    "slug_en": "produce",
+    "slug_it": "dallorto",
     "name_en": "Produce",
     "name_it": "Dall'orto",
-    "slug_it": "dallorto",
-    "slug_en": "produce"
+    "image": "types/produce.jpg"
   },
   {
-    "slug": "frutta",
+    "slug": "fruit",
+    "slug_en": "fruit",
+    "slug_it": "frutta",
     "name_en": "Fruit",
     "name_it": "Frutta",
-    "slug_it": "frutta",
-    "slug_en": "fruit"
+    "image": "types/fruit.jpg"
   },
   {
-    "slug": "prodotti-vari",
+    "slug": "miscellaneous",
+    "slug_en": "miscellaneous",
+    "slug_it": "prodotti-vari",
     "name_en": "Miscellaneous",
     "name_it": "Prodotti vari",
-    "slug_it": "prodotti-vari",
-    "slug_en": "miscellaneous"
+    "image": "types/miscellaneous.jpg"
   }
 ]

@@ -47,20 +47,37 @@ class IngredientModelTests(TestCase):
 
     def test_catalog_fills_en_and_it_fields(self):
         call_command("load_ingredient_catalog")
-        eggs = IngredientType.objects.get(slug_it="uova")
+        eggs = IngredientType.objects.get(slug="eggs")
         self.assertEqual(eggs.name_it, "Uova")
         self.assertEqual(eggs.name_en, "Eggs")
         self.assertEqual(eggs.slug_en, "eggs")
         self.assertEqual(eggs.slug_it, "uova")
-        sample = Ingredient.objects.first()
-        self.assertTrue(sample.name_en)
+        red = IngredientCategory.objects.get(slug="red-meats")
+        self.assertEqual(red.name_en, "Red meats")
+        self.assertEqual(red.name_it, "Carni rosse")
+        self.assertEqual(red.slug_it, "carni-rosse")
+        sample = Ingredient.objects.get(slug_it="uova")
+        self.assertEqual(sample.slug_en, "eggs")
+        self.assertEqual(sample.name_en, "Eggs")
         self.assertTrue(sample.name_it)
-        self.assertTrue(sample.slug_en)
-        self.assertTrue(sample.slug_it)
+        self.assertTrue(eggs.image_id)
+        self.assertTrue(red.image_id)
+        self.assertTrue(sample.image_id)
+
+    def test_catalog_english_slugs_are_canonical(self):
+        call_command("load_ingredient_catalog")
+        for itype in IngredientType.objects.all():
+            self.assertEqual(itype.slug, itype.slug_en)
+        for cat in IngredientCategory.objects.all():
+            self.assertEqual(cat.slug, cat.slug_en)
+            self.assertEqual(cat.type.slug, cat.type.slug_en)
+        for ing in Ingredient.objects.all()[:50]:
+            self.assertEqual(ing.slug, ing.slug_en)
+            self.assertEqual(ing.category.slug, ing.category.slug_en)
 
     def test_reverse_en_and_it_path_prefixes(self):
         call_command("load_ingredient_catalog")
-        itype = IngredientType.objects.get(slug_it="uova")
+        itype = IngredientType.objects.get(slug="eggs")
         clear_url_caches()
         set_urlconf("tests.urls")
         with translation.override("en"):
@@ -76,14 +93,14 @@ class IngredientModelTests(TestCase):
         self.assertIn("/ingredients/", url_en)
         self.assertIn("/ingredienti/", url_it)
 
-    def test_presence_fk_points_at_allergens(self):
+    def test_presence_uses_english_catalog_keys(self):
         call_command("load_ingredient_catalog")
         row = IngredientAllergenPresence.objects.select_related(
             "allergen", "ingredient"
-        ).first()
-        self.assertIsNotNone(row)
+        ).get(ingredient__slug="eggs", allergen__slug="egg")
         self.assertEqual(row.allergen._meta.app_label, "allergens")
-        self.assertTrue(row.allergen.slug)
+        self.assertEqual(row.ingredient.slug_en, "eggs")
+        self.assertEqual(row.allergen.slug_en, "egg")
 
     def test_filer_stack_importable(self):
         import easy_thumbnails  # noqa: F401

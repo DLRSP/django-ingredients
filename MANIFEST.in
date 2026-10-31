@@ -10,7 +10,7 @@ include CODEOWNERS
 
 recursive-include requirements *.in *.txt
 recursive-exclude requirements *.py
-recursive-include src *.py *.html *.css *.js *.po *.mo *.gif *.png *.json
+recursive-include src *.py *.html *.css *.js *.po *.mo *.gif *.png *.jpg *.jpeg *.webp *.json
 recursive-include tests *.py
 recursive-include news *.rst
 recursive-exclude docs *
