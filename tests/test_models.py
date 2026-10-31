@@ -47,10 +47,10 @@ class IngredientModelTests(TestCase):
 
     def test_catalog_fills_en_and_it_fields(self):
         call_command("load_ingredient_catalog")
-        eggs = IngredientType.objects.get(slug="uova")
+        eggs = IngredientType.objects.get(slug_it="uova")
         self.assertEqual(eggs.name_it, "Uova")
         self.assertEqual(eggs.name_en, "Eggs")
-        self.assertTrue(eggs.slug_en)
+        self.assertEqual(eggs.slug_en, "eggs")
         self.assertEqual(eggs.slug_it, "uova")
         sample = Ingredient.objects.first()
         self.assertTrue(sample.name_en)
@@ -60,7 +60,7 @@ class IngredientModelTests(TestCase):
 
     def test_reverse_en_and_it_path_prefixes(self):
         call_command("load_ingredient_catalog")
-        itype = IngredientType.objects.get(slug="uova")
+        itype = IngredientType.objects.get(slug_it="uova")
         clear_url_caches()
         set_urlconf("tests.urls")
         with translation.override("en"):
