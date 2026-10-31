@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "uova",
+    "name_en": "",
+    "name_it": "Uova"
+  },
+  {
+    "slug": "carni",
+    "name_en": "",
+    "name_it": "Carni"
+  },
+  {
+    "slug": "pesci",
+    "name_en": "",
+    "name_it": "Pesci"
+  },
+  {
+    "slug": "dal-latte",
+    "name_en": "",
+    "name_it": "Dal latte"
+  },
+  {
+    "slug": "dai-cereali",
+    "name_en": "",
+    "name_it": "Dai cereali"
+  },
+  {
+    "slug": "dallorto",
+    "name_en": "",
+    "name_it": "Dall'orto"
+  },
+  {
+    "slug": "frutta",
+    "name_en": "",
+    "name_it": "Frutta"
+  },
+  {
+    "slug": "prodotti-vari",
+    "name_en": "",
+    "name_it": "Prodotti vari"
+  }
+]

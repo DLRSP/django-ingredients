@@ -1,0 +1,4 @@
+django>=4.2
+django-allergens>=0.1.0
+django-filer>=3.0
+django-modeltranslation>=0.18

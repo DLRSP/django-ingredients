@@ -1,0 +1,1297 @@
+[
+  {
+    "ingredient_slug": "besciamella",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "burro",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "uova",
+    "allergen_slug": "egg",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "farina-00",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "grana",
+    "allergen_slug": "egg",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "grana",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "cioccolato-al-latte",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "cioccolato-al-latte",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "the",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "the-matcha",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "gocce-di-cioccolato",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "gocce-di-cioccolato",
+    "allergen_slug": "milk",
+    "present": false,
+    "may_be_present": true,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "gocce-di-cioccolato",
+    "allergen_slug": "tree-nuts",
+    "present": false,
+    "may_be_present": true,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "kit-kat",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "kit-kat",
+    "allergen_slug": "tree-nuts",
+    "present": false,
+    "may_be_present": true,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "kit-kat",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "mms",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "mms",
+    "allergen_slug": "peanuts",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "mms",
+    "allergen_slug": "tree-nuts",
+    "present": false,
+    "may_be_present": true,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "mms",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "mars",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "mars",
+    "allergen_slug": "tree-nuts",
+    "present": false,
+    "may_be_present": true,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "mars",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "nutella",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "nutella",
+    "allergen_slug": "tree-nuts",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "nutella",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "cioccolato",
+    "allergen_slug": "milk",
+    "present": false,
+    "may_be_present": true,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "cioccolato",
+    "allergen_slug": "tree-nuts",
+    "present": false,
+    "may_be_present": true,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "cioccolato",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "cioccolato-kinder",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "cioccolato-kinder",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "gianduia",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "gianduia",
+    "allergen_slug": "tree-nuts",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "gianduia",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "cioccolato-bianco",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "cioccolato-bianco",
+    "allergen_slug": "tree-nuts",
+    "present": false,
+    "may_be_present": true,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "cioccolato-bianco",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "cioccolato-fondente",
+    "allergen_slug": "milk",
+    "present": false,
+    "may_be_present": true,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "cioccolato-fondente",
+    "allergen_slug": "tree-nuts",
+    "present": false,
+    "may_be_present": true,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "cioccolato-fondente",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "ammoniaca-per-dolci",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "bicarbonato",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "dado",
+    "allergen_slug": "celery",
+    "present": false,
+    "may_be_present": true,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "lecitina-di-soia",
+    "allergen_slug": "soy",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "coloranti-alimentari",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "cremor-tartaro",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "dado",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "glucosio",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "lecitina-di-soia",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "lievito-istantaneo",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "lievito-per-dolci",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "vanillina",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "pesce-spatola",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "sgombro",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "sarde",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "acciughe",
+    "allergen_slug": "nickel",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "panna-fresca",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "panna-da-cucina",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "panna-acida",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "panna-per-dolci",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "dulce-de-leche",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "fiocchi-di-latte",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "gelato",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "kefir",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "latte",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "latte-condensato",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "latticello",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "yogurt",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "yogurt-greco",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "latte-di-mandorla",
+    "allergen_slug": "tree-nuts",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "latte-di-soia",
+    "allergen_slug": "soy",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "brie",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "caciocavallo",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "caciotta",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "caprino",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "cheddar",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "stracchino",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "crescenza",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "emmental",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "feta",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "fior-di-latte",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "fontina",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "formaggio-asiago",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "formaggio-philadelphia",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "gorgonzola",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "gruviera",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "mascarpone",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "parmigiano",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "pecorino",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "provolino",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "provolone",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "scamorza",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "paccheri",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "aragosta",
+    "allergen_slug": "crustaceans",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "astice",
+    "allergen_slug": "crustaceans",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "gamberi",
+    "allergen_slug": "crustaceans",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "gamberoni",
+    "allergen_slug": "crustaceans",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "gamberetti",
+    "allergen_slug": "crustaceans",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "scampi",
+    "allergen_slug": "crustaceans",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "cicale-di-mare",
+    "allergen_slug": "crustaceans",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "cannolicchi",
+    "allergen_slug": "molluscs",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "calamari",
+    "allergen_slug": "molluscs",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "vongole",
+    "allergen_slug": "molluscs",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "cozze",
+    "allergen_slug": "molluscs",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "fasolari",
+    "allergen_slug": "molluscs",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "telline",
+    "allergen_slug": "molluscs",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "tartufi-di-mare",
+    "allergen_slug": "molluscs",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "capesante",
+    "allergen_slug": "molluscs",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "ostriche",
+    "allergen_slug": "molluscs",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "seppia",
+    "allergen_slug": "molluscs",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "seppioline",
+    "allergen_slug": "molluscs",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "polipetti",
+    "allergen_slug": "molluscs",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "polpo",
+    "allergen_slug": "molluscs",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "moscardini",
+    "allergen_slug": "molluscs",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "polpa-di-granchio",
+    "allergen_slug": "crustaceans",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "murici",
+    "allergen_slug": "molluscs",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "frutti-di-mare",
+    "allergen_slug": "molluscs",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "frutti-di-mare",
+    "allergen_slug": "crustaceans",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "anacardi",
+    "allergen_slug": "tree-nuts",
+    "present": false,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "arachidi",
+    "allergen_slug": "peanuts",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "granella-di-nocciole",
+    "allergen_slug": "tree-nuts",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "mandorle",
+    "allergen_slug": "tree-nuts",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "nocciole",
+    "allergen_slug": "tree-nuts",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "noci",
+    "allergen_slug": "tree-nuts",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "noci-pecan",
+    "allergen_slug": "tree-nuts",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "pinoli",
+    "allergen_slug": "tree-nuts",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "pistacchi",
+    "allergen_slug": "tree-nuts",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "castagne",
+    "allergen_slug": "tree-nuts",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "bucatini",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "conchiglioni",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "cannelloni",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "fettuccine",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "fregola",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "fusilli",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "gnocchi",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "lasagne",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "lasagne",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "linguine",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "noodles",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "orecchiette",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "pappardelle",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "penne",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "scialatielli",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "spaghetti",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "tagliatelle",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "tagliolini",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "trofie",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "vermicelli",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "cioccolato-al-latte",
+    "allergen_slug": "tree-nuts",
+    "present": false,
+    "may_be_present": true,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "ricotta",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "provola",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "mozzarella",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "burrata",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "caviale",
+    "allergen_slug": "egg",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "albumi",
+    "allergen_slug": "egg",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "bottarga",
+    "allergen_slug": "egg",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "tuorli",
+    "allergen_slug": "egg",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "uova-di-lompo",
+    "allergen_slug": "egg",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "uova-di-quaglia",
+    "allergen_slug": "egg",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "uova-di-struzzo",
+    "allergen_slug": "egg",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "cacao",
+    "allergen_slug": "tree-nuts",
+    "present": false,
+    "may_be_present": true,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "cacao",
+    "allergen_slug": "milk",
+    "present": false,
+    "may_be_present": true,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "marron-glace",
+    "allergen_slug": "tree-nuts",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "marzapane",
+    "allergen_slug": "tree-nuts",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "marzapane",
+    "allergen_slug": "egg",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "torrone",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "torrone",
+    "allergen_slug": "tree-nuts",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "torrone",
+    "allergen_slug": "egg",
+    "present": false,
+    "may_be_present": true,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "taleggio",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "tofu",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "robiola",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "pizzoccheri",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "pipe",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "uovo-di-pasqua",
+    "allergen_slug": "nickel",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "uovo-di-pasqua",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "uovo-di-pasqua",
+    "allergen_slug": "tree-nuts",
+    "present": false,
+    "may_be_present": true,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "lievito-di-riporto",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "sottilette",
+    "allergen_slug": "milk",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "farfalle",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "free"
+  },
+  {
+    "ingredient_slug": "pane",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "pane-carasau",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "pane-per-tramezzini",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "farina-manitoba",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "farina-integrale",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "high"
+  },
+  {
+    "ingredient_slug": "lievito-madre",
+    "allergen_slug": "gluten",
+    "present": true,
+    "may_be_present": false,
+    "quantity": "high"
+  }
+]

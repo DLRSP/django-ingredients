@@ -1,0 +1,172 @@
+# Italian translations for django-ingredients.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-ingredients 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Ingredients"
+msgstr "Ingredienti"
+
+msgid "Ingredient"
+msgstr "Ingrediente"
+
+msgid "Ingredient type"
+msgstr "Tipo di ingrediente"
+
+msgid "Ingredient types"
+msgstr "Tipi di ingrediente"
+
+msgid "Ingredient category"
+msgstr "Categoria di ingrediente"
+
+msgid "Ingredient categories"
+msgstr "Categorie di ingrediente"
+
+msgid "Ingredient allergen presence"
+msgstr "Presenza allergene"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Slug"
+msgstr "Slug"
+
+msgid "Description"
+msgstr "Descrizione"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "Image"
+msgstr "Immagine"
+
+msgid "Allergens"
+msgstr "Allergeni"
+
+msgid "Allergen"
+msgstr "Allergene"
+
+msgid "Price €/Kg"
+msgstr "Prezzo €/Kg"
+
+msgid "Glycemic index"
+msgstr "Indice glicemico"
+
+msgid "FODMAP"
+msgstr "FODMAP"
+
+msgid "Calories"
+msgstr "Calorie"
+
+msgid "Carbohydrate"
+msgstr "Carboidrati"
+
+msgid "Sugar"
+msgstr "Zuccheri"
+
+msgid "Protein"
+msgstr "Proteine"
+
+msgid "Fat"
+msgstr "Grassi"
+
+msgid "Saturated fat"
+msgstr "Grassi saturi"
+
+msgid "Fiber"
+msgstr "Fibre"
+
+msgid "Cholesterol"
+msgstr "Colesterolo"
+
+msgid "Sodium (Na)"
+msgstr "Sodio (Na)"
+
+msgid "Potassium (K)"
+msgstr "Potassio (K)"
+
+msgid "Zinc (Zn)"
+msgstr "Zinco (Zn)"
+
+msgid "Calcium (Ca)"
+msgstr "Calcio (Ca)"
+
+msgid "Iron (Fe)"
+msgstr "Ferro (Fe)"
+
+msgid "Phosphorus (P)"
+msgstr "Fosforo (P)"
+
+msgid "Vitamin A (retinol)"
+msgstr "Vitamina A (retinolo)"
+
+msgid "Retinol equivalents"
+msgstr "Equivalenti di retinolo"
+
+msgid "Beta-carotene"
+msgstr "Beta-carotene"
+
+msgid "Vitamin B1 (thiamine)"
+msgstr "Vitamina B1 (tiamina)"
+
+msgid "Vitamin B2 (riboflavin)"
+msgstr "Vitamina B2 (riboflavina)"
+
+msgid "Vitamin B3 (niacin)"
+msgstr "Vitamina B3 (niacina)"
+
+msgid "Vitamin B6 (pyridoxine)"
+msgstr "Vitamina B6 (piridossina)"
+
+msgid "Vitamin B9 (folic acid)"
+msgstr "Vitamina B9 (acido folico)"
+
+msgid "Vitamin C (ascorbic acid)"
+msgstr "Vitamina C (acido ascorbico)"
+
+msgid "Vitamin D (cholecalciferol)"
+msgstr "Vitamina D (colecalciferolo)"
+
+msgid "Vitamin E (tocopherol)"
+msgstr "Vitamina E (tocoferolo)"
+
+msgid "Present"
+msgstr "Presente"
+
+msgid "May be present"
+msgstr "Può essere presente"
+
+msgid "Quantity level"
+msgstr "Livello di quantità"
+
+msgid "Free"
+msgstr "Assente"
+
+msgid "Low"
+msgstr "Basso"
+
+msgid "Medium"
+msgstr "Medio"
+
+msgid "High"
+msgstr "Alto"
+
+msgid "Unknown"
+msgstr "Sconosciuto"
+
+msgid "Suggested"
+msgstr "Consigliato"
+
+msgid "Moderate"
+msgstr "Moderato"
+
+msgid "Not suggested"
+msgstr "Non consigliato"

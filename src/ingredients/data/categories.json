@@ -1,0 +1,250 @@
+[
+  {
+    "slug": "alcool-e-alcolici",
+    "name_en": "",
+    "name_it": "Alcool e alcolici",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "prodotti-vari"
+  },
+  {
+    "slug": "additivi-alimentari",
+    "name_en": "",
+    "name_it": "Additivi alimentari",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "prodotti-vari"
+  },
+  {
+    "slug": "bevande-analcoliche",
+    "name_en": "",
+    "name_it": "Bevande analcoliche",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "prodotti-vari"
+  },
+  {
+    "slug": "carni-rosse",
+    "name_en": "",
+    "name_it": "Carni rosse",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "carni"
+  },
+  {
+    "slug": "carni-bianche",
+    "name_en": "",
+    "name_it": "Carni bianche",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "carni"
+  },
+  {
+    "slug": "cereali-e-derivati",
+    "name_en": "",
+    "name_it": "Cereali e derivati",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "dai-cereali"
+  },
+  {
+    "slug": "cioccolato",
+    "name_en": "",
+    "name_it": "Cioccolato",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "prodotti-vari"
+  },
+  {
+    "slug": "crostacei-e-molluschi",
+    "name_en": "",
+    "name_it": "Crostacei e molluschi",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "pesci"
+  },
+  {
+    "slug": "dolcificanti",
+    "name_en": "",
+    "name_it": "Dolcificanti",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "prodotti-vari"
+  },
+  {
+    "slug": "erbe-aromatiche",
+    "name_en": "",
+    "name_it": "Erbe aromatiche",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "dallorto"
+  },
+  {
+    "slug": "farine",
+    "name_en": "",
+    "name_it": "Farine",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "dai-cereali"
+  },
+  {
+    "slug": "formaggi",
+    "name_en": "",
+    "name_it": "Formaggi",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "dal-latte"
+  },
+  {
+    "slug": "frutta",
+    "name_en": "",
+    "name_it": "Frutta",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "frutta"
+  },
+  {
+    "slug": "frutta-esotica",
+    "name_en": "",
+    "name_it": "Frutta esotica",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "frutta"
+  },
+  {
+    "slug": "frutta-secca",
+    "name_en": "",
+    "name_it": "Frutta secca",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "frutta"
+  },
+  {
+    "slug": "funghi-e-tuberi",
+    "name_en": "",
+    "name_it": "Funghi e tuberi",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "dallorto"
+  },
+  {
+    "slug": "latte-e-derivati",
+    "name_en": "",
+    "name_it": "Latte e derivati",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "dal-latte"
+  },
+  {
+    "slug": "latticini",
+    "name_en": "",
+    "name_it": "Latticini",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "dal-latte"
+  },
+  {
+    "slug": "legumi",
+    "name_en": "",
+    "name_it": "Legumi",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "dallorto"
+  },
+  {
+    "slug": "olio-e-condimenti",
+    "name_en": "",
+    "name_it": "Olio e condimenti",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "prodotti-vari"
+  },
+  {
+    "slug": "ortaggi",
+    "name_en": "",
+    "name_it": "Ortaggi",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "dallorto"
+  },
+  {
+    "slug": "pasta",
+    "name_en": "",
+    "name_it": "Pasta",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "dai-cereali"
+  },
+  {
+    "slug": "pesce",
+    "name_en": "",
+    "name_it": "Pesce",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "pesci"
+  },
+  {
+    "slug": "pesce-azzurro",
+    "name_en": "",
+    "name_it": "Pesce azzurro",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "pesci"
+  },
+  {
+    "slug": "prodotti-da-forno",
+    "name_en": "",
+    "name_it": "Prodotti da forno",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "prodotti-vari"
+  },
+  {
+    "slug": "salumi",
+    "name_en": "",
+    "name_it": "Salumi",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "carni"
+  },
+  {
+    "slug": "semi-e-germogli",
+    "name_en": "",
+    "name_it": "Semi e germogli",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "dallorto"
+  },
+  {
+    "slug": "spezie",
+    "name_en": "",
+    "name_it": "Spezie",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "dallorto"
+  },
+  {
+    "slug": "uova",
+    "name_en": "",
+    "name_it": "Uova",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "uova"
+  },
+  {
+    "slug": "verdure",
+    "name_en": "",
+    "name_it": "Verdure",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "dallorto"
+  },
+  {
+    "slug": "alimenti-vari",
+    "name_en": "",
+    "name_it": "Alimenti vari",
+    "description_en": "",
+    "description_it": "",
+    "type_slug": "prodotti-vari"
+  }
+]
