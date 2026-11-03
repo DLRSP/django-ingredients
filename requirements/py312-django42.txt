@@ -30,9 +30,9 @@ django-modeltranslation==0.19.17 \
     --hash=sha256:13bd9cab4e4aed0bef5624c17a7da2ac8c5538f0650adbd89ce8c878cbef02fd \
     --hash=sha256:fda198c08b4ede0c2fd09b795ab420a04c7b5a868315fdf4aade0d0a526c269f
     # via -r requirements/runtime.in
-django-mptt==0.21.0 \
-    --hash=sha256:0796064448aa874f74a8b35e6f516e489199d37892191f917cc0012850b39363 \
-    --hash=sha256:be7ef577f82229a0cf5c29c03cdc041866ab8fafa05c57c8e2b3dada121dcd50
+django-mptt==0.21.1 \
+    --hash=sha256:6f4dc3d26f0e0422fb185698a03351e7200b2a1222969af879e383adc4c292b8 \
+    --hash=sha256:dda7e42bce6dc77bccef44c5c58263c435bf7b7272ea8534e194c355fc73c746
     # via -r requirements/runtime.in
 django-polymorphic==4.11.7 \
     --hash=sha256:23ee903f79b9c4ebd36fee952f955d80c3d51f3eee9fa23639c4bafe3be616a2 \
@@ -227,9 +227,9 @@ py-svg-hush==0.3.0 \
     --hash=sha256:fa8d4c57699d2f90052226eda39ad7ebf21a52127afa07e06a9a7f535effc0ec \
     --hash=sha256:fdb6a371a8711276a89e9ebcb52e51a86590fe88c882ac443a8ca3227da3d757
     # via django-filer
-sqlparse==0.6.0 \
-    --hash=sha256:113c35c75365ab9cc9c7231d68c6428fb11c085fc8e9eb1ad659b7ddbf6cd2b9 \
-    --hash=sha256:b861c0288ce2fa56209a9a6412d2e066ac664b3873b89c26c9d8415e8e32996f
+sqlparse==0.6.1 \
+    --hash=sha256:3be5a72d04c873d690d7c6dedd33d6fae2ef82759881ceec02fc2efd0cba564f \
+    --hash=sha256:ca722573f848ff2d30e40ea30f53a104b7dea7635ea9285891263eb2c58fb6e7
     # via django
 typing-extensions==4.16.0 \
     --hash=sha256:481caa481374e813c1b176ada14e97f1f67a4539ce9cfeb3f350d78d6370c2e8 \
